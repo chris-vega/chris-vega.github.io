@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub page!
 
-You can use the [editor on GitHub](https://github.com/chris-vega/chris-vega.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I can use the [editor on GitHub](https://github.com/chris-vega/chris-vega.github.io/edit/main/README.md) to maintain and preview the content for my website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in my Markdown files.
+
+UPDATE 202109131844: Obviously, this GitHub page is under construction. More to come soon. 
 
 ### Markdown
 
