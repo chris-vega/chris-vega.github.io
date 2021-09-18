@@ -7,7 +7,6 @@ _Systems Analyst and Digital Media Producer based in Pittsburgh, PA, US_ <br>
 ## 👨🏻‍💻 Technical Experience
 
 **Senior Systems Analyst** @ [Howmet Aerospace](https://www.howmet.com/) _(August 2018 - Present)_ <br>
-[//]: # (these are placeholders.)
   - Technical lead and project manager for multiple web applications, including the public-facing corporate website, a B2B ecommerce platform, and various smaller-scale productivity applications
   - Translates change and project requests into actionable work items for developers
   - Collaborates with individual business unit, corporate communications, and investor relations teams to develop and implement website content updates and project requests
@@ -19,7 +18,6 @@ _Systems Analyst and Digital Media Producer based in Pittsburgh, PA, US_ <br>
 <br><br>
 
 **Tehcnical Analyst** @ [Crown Castle](http://www.crowncastle.com/) _(May 2014 - Aug 2018)_ <br>
-[//]: # (Early-stage startup focused on automated API testing and NLP.)
   - Diagnosed and remedied network and remote site issues on deployed mobile telecommunications equipment including as dark fiber, distributed antenna systems, small cells, and large-scale enterprise WiFi
   - Responded to support requests from in-house, vendor, and carrier engineering and operations teams, building and maintaining strong rapport with a focus on encouraging cross-organizational teamwork
   - System administrator for [Errigal](https://www.errigal.com/) network monitoring, change management, and ticketing application suite
@@ -27,13 +25,11 @@ _Systems Analyst and Digital Media Producer based in Pittsburgh, PA, US_ <br>
 <br><br>
 
 **Fiber Customer Support Analyst** @ [Verizon](https://www.verizon.com/) _(May 2011 - Feb 2014)_ <br>
-[//]: # (Professional chauffeur service available in over 300 cities worldwide.)
   - Provided best-in-class technical support for end users of residential and small business Verizon FiOS services
   - Assisted with configuration of email clients, security software installation, and bandwidth optimization
   <br><br>
 
 **Data/Voice Specialist (Bilingual)** @ [Atlantic Broadband](https://www.atlanticbb.com/) _(Sep 2017 - Feb 2018)_ <br>
-[//]: # (API-first infrastructure to create, manage and distribute content.)
   - Provided technical support for English and Spanish-speaking end users of commercial and residential internet and telephone services
   - Completed an internship with the IT group in data center hardware and software installation, configuration, and repair, response to network abuse and spam reports, and equipment and legacy software inventory.
 <br><br>
