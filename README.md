@@ -1,8 +1,8 @@
 # Chris Vega
 
-_Systems Analyst and Digital Media Producer based in Pittsburgh, PA, US_ <br>
+_Systems Analyst and Digital Media Producer based in Pittsburgh, PA, US_ <br><br>
 
-[Email](mailto:talk.to.twop0intfive@gmail.com) / [Website](https://koji.to/@his.panic.excellence/) / [LinkedIn](https://www.linkedin.com/in/chrisevega/) / [GitHub](https://github.com/chris-vega/) / [Twitter](https://twitter.com/vegaesthetic/) / [DEV](https://dev.to/chrisvega)
+[Email](mailto:talk.to.twop0intfive@gmail.com) / [Website](https://koji.to/@his.panic.excellence/) / [LinkedIn](https://www.linkedin.com/in/chrisevega/) / [GitHub](https://github.com/chris-vega/) / [Twitter](https://twitter.com/vegaesthetic/) / [DEV](https://dev.to/chrisvega) <br><br>
 
 ## 👨🏻‍💻 Technical Experience
 
@@ -24,7 +24,7 @@ Early-stage startup focused on automated API testing and NLP.
   - Responded to support requests from in-house, vendor, and carrier engineering and operations teams, building and maintaining strong rapport with a focus on encouraging cross-organizational teamwork
   - System administrator for [Errigal](https://www.errigal.com/) network monitoring, change management, and ticketing application suite
   - Authored, reviewed, and maintained NOC procedure documentation.
-    <br><br>
+<br><br>
 
 **Fiber Customer Support Analyst** @ [Verizon](https://www.verizon.com/) _(May 2011 - Feb 2014)_ <br>
 Professional chauffeur service available in over 300 cities worldwide.
@@ -36,17 +36,14 @@ Professional chauffeur service available in over 300 cities worldwide.
 API-first infrastructure to create, manage and distribute content.
   - Provided technical support for English and Spanish-speaking end users of commercial and residential internet and telephone services
   - Completed an internship with the IT group in data center hardware and software installation, configuration, and repair, response to network abuse and spam reports, and equipment and legacy software inventory.
-    <br><br>
+<br><br>
     
 ## 🎥 Digital Media Experience
 
-_This section only accounts for work done post-career change._
-<br><br>
-
 **Digital Media Producer** @ [@happyhealthybabe](https://www.tiktok.com/@happyhealthybabe/) _(February 2021 - present)_ <br>
-[@happyhealthybabe](https://www.tiktok.com/@happyhealthybabe/) is an Instagram and TikTok content creator.
-  - Camera operator and photographer
-  - Photo and video editor
+[@happyhealthybabe](https://www.tiktok.com/@happyhealthybabe/) is a TikTok and Instagram content creator.
+  - Photographer, videographer, and editor
+  - Communications and business management 
   - Logistical, operational, and technical support
   - **_Technologies used:_** Sony α, iPhone, Adobe PhotoShop, Apple iMovie, various social media apps.
 <br><br>
@@ -70,5 +67,5 @@ _This section only accounts for work done post-career change._
 **Associate of Arts and Sciences** in Network Administration<br>
 [Pennsylvania Highlands Community College](https://www.pennhighlands.edu/) - Johnstown, PA, USA _(2006 - 2008)_ <br>
 
-**International Exchange** studying Political Science<br>
+**Associate of Arts and Sciences** in Computer Forensics<br>
 [Pennsylvania Highlands Community College](https://www.pennhighlands.edu/) - Johnstown, PA, USA _(2005 - 2008)_ <br>
