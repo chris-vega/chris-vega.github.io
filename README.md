@@ -1,6 +1,6 @@
 # Chris Vega
 
-_Systems Analyst and Digital Media Producer based in Pittsburgh, PA, US_ <br><br>
+_Systems Analyst and Digital Media Producer based in Pittsburgh, PA, US_ <br>
 
 [Email](mailto:talk.to.twop0intfive@gmail.com) / [Website](https://koji.to/@his.panic.excellence/) / [LinkedIn](https://www.linkedin.com/in/chrisevega/) / [GitHub](https://github.com/chris-vega/) / [Twitter](https://twitter.com/vegaesthetic/) / [DEV](https://dev.to/chrisvega) <br><br>
 
