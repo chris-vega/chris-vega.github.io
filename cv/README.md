@@ -18,6 +18,7 @@ _Systems Analyst and Digital Media Producer based in Pittsburgh, PA, US_ <br>
 <br><br>
 
 **Tehcnical Analyst** @ [Crown Castle](http://www.crowncastle.com/) _(May 2014 - Aug 2018)_ <br>
+Network Operations Center (NOC) analyst providing 24x7 support to a variety of large commercial clients. <br>
   - Diagnosed and remedied network and remote site issues on deployed mobile telecommunications equipment including as dark fiber, distributed antenna systems, small cells, and large-scale enterprise WiFi
   - Responded to support requests from in-house, vendor, and carrier engineering and operations teams, building and maintaining strong rapport with a focus on encouraging cross-organizational teamwork
   - System administrator for [Errigal](https://www.errigal.com/) network monitoring, change management, and ticketing application suite
@@ -27,9 +28,15 @@ _Systems Analyst and Digital Media Producer based in Pittsburgh, PA, US_ <br>
 **Fiber Customer Support Analyst** @ [Verizon](https://www.verizon.com/) _(May 2011 - Feb 2014)_ <br>
   - Provided best-in-class technical support for end users of residential and small business Verizon FiOS services
   - Assisted with configuration of email clients, security software installation, and bandwidth optimization
-  <br><br>
+<br><br>
 
-**Data/Voice Specialist (Bilingual)** @ [Atlantic Broadband](https://www.atlanticbb.com/) _(Sep 2017 - Feb 2018)_ <br>
+**Customer Support Associate (Bilingual)** @ [Ariba, Inc.](https://www.ariba.com/) _(Jan 2011 - May 2011)_ <br>
+Product support for Ariba sourcing platform (now SAP Ariba) to English and Spanish-speaking domestic and international business clients. <br>
+  - Duties: account administration, password resets, and navigation support
+  - Documentation and escalation of technical issues to engineering team.
+<br><br>
+
+**Data/Voice Specialist (Bilingual)** @ [Atlantic Broadband](https://www.atlanticbb.com/) _(Nov 2006 - January 2011)_ <br>
   - Provided technical support for English and Spanish-speaking end users of commercial and residential internet and telephone services
   - Completed an internship with the IT group in data center hardware and software installation, configuration, and repair, response to network abuse and spam reports, and equipment and legacy software inventory.
 <br><br>
