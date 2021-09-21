@@ -41,7 +41,7 @@ Product support for Ariba sourcing platform (now SAP Ariba) to English and Spani
 **Data/Voice Specialist (Bilingual)** @ [Atlantic Broadband](https://www.atlanticbb.com/) _(Nov 2006 - January 2011)_ <br>
   - Provided technical support for English and Spanish-speaking end users of commercial and residential internet and telephone services
   - Completed an internship with the IT group in data center hardware and software installation, configuration, and repair, response to network abuse and spam reports, and equipment and legacy software inventory.
-<br><br><b>
+<br><br><br>
     
   
   
