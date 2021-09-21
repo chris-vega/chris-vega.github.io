@@ -2,7 +2,9 @@
 
 _Systems Analyst and Digital Media Producer based in Pittsburgh, PA, US_ <br>
 
-[Email](mailto:talk.to.twop0intfive@gmail.com) / [Website](https://koji.to/@his.panic.excellence/) / [LinkedIn](https://www.linkedin.com/in/chrisevega/) / [GitHub](https://github.com/chris-vega/) / [Twitter](https://twitter.com/vegaesthetic/) / [DEV](https://dev.to/chrisvega) <br><br>
+[Email](mailto:talk.to.twop0intfive@gmail.com) / [Website](https://koji.to/@his.panic.excellence/) / [LinkedIn](https://www.linkedin.com/in/chrisevega/) / [GitHub](https://github.com/chris-vega/) / [Twitter](https://twitter.com/vegaesthetic/) / [DEV](https://dev.to/chrisvega) <br><br><br>
+
+
 
 ## 👨🏻‍💻 Technical Experience
 
@@ -39,8 +41,10 @@ Product support for Ariba sourcing platform (now SAP Ariba) to English and Spani
 **Data/Voice Specialist (Bilingual)** @ [Atlantic Broadband](https://www.atlanticbb.com/) _(Nov 2006 - January 2011)_ <br>
   - Provided technical support for English and Spanish-speaking end users of commercial and residential internet and telephone services
   - Completed an internship with the IT group in data center hardware and software installation, configuration, and repair, response to network abuse and spam reports, and equipment and legacy software inventory.
-<br><br>
+<br><br><b>
     
+  
+  
 ## 🎥 Digital Media Experience
 
 **Digital Media Producer** @ [@happyhealthybabe](https://www.tiktok.com/@happyhealthybabe/) _(February 2021 - present)_ <br>
@@ -49,17 +53,19 @@ Product support for Ariba sourcing platform (now SAP Ariba) to English and Spani
   - Communications and business management 
   - Logistical, operational, and technical support
   - **_Technologies used:_** Sony α, iPhone, Adobe PhotoShop, Apple iMovie, various social media apps.
-<br><br>
+<br><br><br>
 
-
+  
+  
 ## 💬 Languages
 
 **English**: Native <br>
 **Spanish**: Native
-<br><br>
+<br><br><br>
 
-
-## 👩🏼‍🎓 Education
+  
+  
+## 👨🏻‍🎓 Education
 
 **Master of Science** in [Information Technology Management](https://www.wgu.edu/online-it-degrees/information-technology-management-masters-program.html)<br>
 [Western Governors University](https://www.wgu.edu/) _(2018 - 2019)_ <br>
