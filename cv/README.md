@@ -8,14 +8,18 @@ _Systems Analyst and Digital Media Producer based in Pittsburgh, PA, US_ <br>
 
 ## 👨🏻‍💻 Technical Experience
 
-**Senior Systems Analyst** @ [Howmet Aerospace](https://www.howmet.com/) _(August 2018 - Present)_ <br>
+**Technical Consultant** @ [Artisan Studios](https://www.artisan-studios.com) _(November 2021 - Present)_ <br>
+  - Systems analyst working on supply chain-related software projects.
+<br><br>
+
+**Senior Systems Analyst** @ [Howmet Aerospace](https://www.howmet.com/) (formerly Arconic, Inc.) _(August 2018 - November 2021)_ <br>
   - Technical lead and project manager for multiple web applications, including the public-facing corporate website, a B2B ecommerce platform, and various smaller-scale productivity applications
-  - Translates change and project requests into actionable work items for developers
-  - Collaborates with individual business unit, corporate communications, and investor relations teams to develop and implement website content updates and project requests
-  - Leads multiple concurrent software development projects spanning differing applications and technology stacks to completion
-  - Provides end-user account administration and technical support
+  - Translated change and project requests into actionable work items for developers
+  - Collaborated with individual business unit, corporate communications, and investor relations teams to develop and implement website content updates and project requests
+  - Lead multiple concurrent software development projects spanning differing applications and technology stacks to completion
+  - Provided end-user account administration and technical support
   - Compliance, data privacy, and disaster recovery lead for the Productivity Applications team, coordinating and reviewing compliance testing as well as adherence to applicable government-mandated privacy requirements, including CCPA and GDPR
-  - Contributes to the development of smaller-scale tools utilized by team, including design, coding, testing, release, and maintenance. 
+  - Contributed to the development of smaller-scale tools utilized by team, including design, coding, testing, release, and maintenance. 
   - **_Technologies used:_** HTML, Java, bash, IIS, Linux, Windows Server 2012, Content Management Systems, Google Analytics.
 <br><br>
 
