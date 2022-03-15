@@ -1,6 +1,6 @@
 # Chris Vega
 
-_Systems Analyst and Digital Media Producer based in Pittsburgh, PA, US_ <br>
+_Technical Consultant and Digital Media Producer based in Pittsburgh, PA, US_ <br>
 
 [Email](mailto:talk.to.twop0intfive@gmail.com) / [Website](https://koji.to/@his.panic.excellence/) / [LinkedIn](https://www.linkedin.com/in/chrisevega/) / [GitHub](https://github.com/chris-vega/) / [Twitter](https://twitter.com/vegaesthetic/) / [DEV](https://dev.to/chrisvega) <br><br><br>
 
@@ -9,7 +9,7 @@ _Systems Analyst and Digital Media Producer based in Pittsburgh, PA, US_ <br>
 ## 👨🏻‍💻 Technical Experience
 
 **Technical Consultant** @ [Artisan Studios](https://www.artisan-studios.com) _(November 2021 - Present)_ <br>
-  - Systems analyst working on supply chain-related software projects.
+  - Systems Analyst working on client supply chain software projects and supporting related applications and infrastructure. 
 <br><br>
 
 **Senior Systems Analyst** @ [Howmet Aerospace](https://www.howmet.com/) (formerly Arconic, Inc.) _(August 2018 - November 2021)_ <br>
@@ -42,7 +42,8 @@ Product support for Ariba sourcing platform (now SAP Ariba) to English and Spani
   - Documentation and escalation of technical issues to engineering team.
 <br><br>
 
-**Data/Voice Specialist (Bilingual)** @ [Atlantic Broadband](https://www.atlanticbb.com/) _(Nov 2006 - January 2011)_ <br>
+**Data/Voice Specialist (Bilingual)** @ [Breezeline](https://www.breezeline.com/) _(Nov 2006 - January 2011)_ <br>
+(formerly Atlantic Broadband)
   - Provided technical support for English and Spanish-speaking end users of commercial and residential internet and telephone services
   - Completed an internship with the IT group in data center hardware and software installation, configuration, and repair, response to network abuse and spam reports, and equipment and legacy software inventory.
 <br><br><br>
@@ -56,7 +57,7 @@ Product support for Ariba sourcing platform (now SAP Ariba) to English and Spani
   - Photographer, videographer, and editor
   - Communications and business management 
   - Logistical, operational, and technical support
-  - **_Technologies used:_** Sony α, iPhone, Adobe PhotoShop, Apple iMovie, various social media apps.
+  - **_Technologies used:_** Nikon D, Sony α, iPhone, Adobe Lightroom, Apple iMovie, various social media apps.
 <br><br><br>
 
   
