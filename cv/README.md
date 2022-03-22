@@ -23,7 +23,7 @@ _Technical Consultant and Digital Media Producer based in Pittsburgh, PA, US_ <b
   - **_Technologies used:_** HTML, Java, bash, IIS, Linux, Windows Server 2012, Content Management Systems, Google Analytics.
 <br><br>
 
-**Tehcnical Analyst** @ [Crown Castle](http://www.crowncastle.com/) _(May 2014 - Aug 2018)_ <br>
+**Technical Analyst** @ [Crown Castle](http://www.crowncastle.com/) _(May 2014 - Aug 2018)_ <br>
 Network Operations Center (NOC) analyst providing 24x7 support to a variety of large commercial clients. <br>
   - Diagnosed and remedied network and remote site issues on deployed mobile telecommunications equipment including as dark fiber, distributed antenna systems, small cells, and large-scale enterprise WiFi
   - Responded to support requests from in-house, vendor, and carrier engineering and operations teams, building and maintaining strong rapport with a focus on encouraging cross-organizational teamwork
