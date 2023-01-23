@@ -2,14 +2,19 @@
 
 _Technical Consultant and Digital Media Producer based in Pittsburgh, PA, US_ <br>
 
-[Email](mailto:talk.to.twop0intfive@gmail.com) / [Website](https://koji.to/@his.panic.excellence/) / [LinkedIn](https://www.linkedin.com/in/chrisevega/) / [GitHub](https://github.com/chris-vega/) / [Twitter](https://twitter.com/vegaesthetic/) / [DEV](https://dev.to/chrisvega) <br><br><br>
+[Email](mailto:chris@happyhealthybabe.fit) / [Website](https://chris.happyhealthybabe.fit) / [LinkedIn](https://www.linkedin.com/in/chrisevega/) / [GitHub](https://github.com/chris-vega/) / [DEV](https://dev.to/chrisvega) <br><br><br>
 
 
 
 ## 👨🏻‍💻 Technical Experience
 
 **Technical Consultant** @ [Artisan Studios](https://www.artisan-studios.com) _(November 2021 - Present)_ <br>
-  - Systems Analyst working on client supply chain software projects and supporting related applications and infrastructure. 
+  - Point-of-contact for troubleshooting and resolving second-level inventory software issues 
+  - Project support/systems analyst task fulfillment for supply chain API developer teams 
+  - Drives initiatives to completion by collaborating across business groups, internal development teams, and vendor support when necessary to develop new software features 
+  - Learns site reliability engineering (SRE) concepts while fulfilling documentation requests as the SRE team's system analyst
+  - User account administration and technical support
+  - Active member of the team charged with planning and coordinating various employee engagement and wellness initiatives.  
 <br><br>
 
 **Senior Systems Analyst** @ [Howmet Aerospace](https://www.howmet.com/) (formerly Arconic, Inc.) _(August 2018 - November 2021)_ <br>
@@ -52,12 +57,12 @@ Product support for Ariba sourcing platform (now SAP Ariba) to English and Spani
   
 ## 🎥 Digital Media Experience
 
-**Digital Media Producer** @ [@happyhealthybabe](https://www.tiktok.com/@happyhealthybabe/) _(February 2021 - present)_ <br>
-[@happyhealthybabe](https://www.tiktok.com/@happyhealthybabe/) is a TikTok and Instagram content creator.
+**Digital Media Producer** @[happyhealthybabe](https://www.happyhealthybabe.fit) _(February 2021 - present)_ <br>
+[@happyhealthybabe](https://www.happyhealthybabe.fit) is a social media content creator.
   - Photographer, videographer, and editor
   - Communications and business management 
   - Logistical, operational, and technical support
-  - **_Technologies used:_** Nikon D, Sony α, iPhone, Adobe Lightroom, Apple iMovie, various social media apps.
+  - **_Technologies used:_** Nikon D, Sony α, iPhone, Adobe Lightroom, CapCut, Photopea, various social media apps.
 <br><br><br>
 
   
