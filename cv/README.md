@@ -14,7 +14,7 @@ _Technical Consultant and Digital Media Producer based in Pittsburgh, PA, US_ <b
   - Drives initiatives to completion by collaborating across business groups, internal development teams, and vendor support when necessary to develop new software features 
   - Learns site reliability engineering (SRE) concepts while fulfilling documentation requests as the SRE team's system analyst
   - User account administration and technical support
-  - Active member of the team charged with planning and coordinating various employee engagement and wellness initiatives.  
+  - Active member of the team charged with planning and coordinating various employee engagement and wellness initiatives.
 <br><br>
 
 **Senior Systems Analyst** @ [Howmet Aerospace](https://www.howmet.com/) (formerly Arconic, Inc.) _(August 2018 - November 2021)_ <br>
