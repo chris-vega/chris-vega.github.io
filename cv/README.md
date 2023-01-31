@@ -2,7 +2,7 @@
 
 _Technical Consultant and Digital Media Producer based in Pittsburgh, PA, US_ <br>
 
-[Email](mailto:chris@happyhealthybabe.fit) / [LinkedIn](https://www.linkedin.com/in/chrisevega/) / [GitHub](https://github.com/chris-vega/) / [DEV](https://dev.to/twop0intfive) / [Pluralsight](https://app.pluralsight.com/profile/twop0intfive)<br><br><br>
+[Email](mailto:chris@happyhealthybabe.fit) / [Website](https://chris.happyhealthybabe.fit) / [LinkedIn](https://www.linkedin.com/in/chrisevega/) / [GitHub](https://github.com/chris-vega/) / [DEV](https://dev.to/twop0intfive) <br><br><br>
 
 
 
@@ -47,8 +47,7 @@ Product support for Ariba sourcing platform (now SAP Ariba) to English and Spani
   - Documentation and escalation of technical issues to engineering team.
 <br><br>
 
-**Data/Voice Specialist (Bilingual)** @ [Breezeline](https://www.breezeline.com/) _(Nov 2006 - January 2011)_ <br>
-(formerly Atlantic Broadband)
+**Data/Voice Specialist (Bilingual)** @ [Breezeline](https://www.breezeline.com/) (formerly Atlantic Broadband) _(Nov 2006 - January 2011)_ <br>
   - Provided technical support for English and Spanish-speaking end users of commercial and residential internet and telephone services
   - Completed an internship with the IT group in data center hardware and software installation, configuration, and repair, response to network abuse and spam reports, and equipment and legacy software inventory.
 <br><br><br>
@@ -69,8 +68,8 @@ Product support for Ariba sourcing platform (now SAP Ariba) to English and Spani
   
 ## 💬 Languages
 
-**English**: Native <br>
-**Spanish**: Native
+**English**: _native fluency_ <br>
+**Spanish**: _native fluency_
 <br><br><br>
 
   
@@ -84,7 +83,7 @@ Product support for Ariba sourcing platform (now SAP Ariba) to English and Spani
 [Western Governors University](https://www.wgu.edu/) _(2012 - 2017)_ <br>
 
 **Associate of Arts and Sciences** in Network Administration<br>
-[Pennsylvania Highlands Community College](https://www.pennhighlands.edu/) - Johnstown, PA, USA _(2006 - 2008)_ <br>
+[Pennsylvania Highlands Community College](https://www.pennhighlands.edu/) _(2006 - 2008)_ <br>
 
 **Associate of Arts and Sciences** in Computer Forensics<br>
-[Pennsylvania Highlands Community College](https://www.pennhighlands.edu/) - Johnstown, PA, USA _(2005 - 2008)_ <br>
+[Pennsylvania Highlands Community College](https://www.pennhighlands.edu/) _(2005 - 2008)_ <br>
