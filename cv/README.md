@@ -2,7 +2,7 @@
 
 _Technical Consultant and Digital Media Producer based in Pittsburgh, PA, US_ <br>
 
-[Email](mailto:chris@happyhealthybabe.fit) / [Website](https://chris.happyhealthybabe.fit) / [LinkedIn](https://www.linkedin.com/in/chrisevega/) / [GitHub](https://github.com/chris-vega/) / [DEV](https://dev.to/twop0intfive) <br><br><br>
+[Email](mailto:chris@happyhealthybabe.fit) / [LinkedIn](https://www.linkedin.com/in/chrisevega/) / [GitHub](https://github.com/chris-vega/) / [DEV](https://dev.to/twop0intfive) / [Pluralsight](https://app.pluralsight.com/profile/twop0intfive) <br><br><br>
 
 
 
