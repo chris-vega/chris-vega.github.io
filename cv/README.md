@@ -56,8 +56,7 @@ Product support for Ariba sourcing platform (now SAP Ariba) to English and Spani
   
 ## 🎥 Digital Media Experience
 
-**Digital Media Producer** @[happyhealthybabe](https://www.happyhealthybabe.fit) _(February 2021 - present)_ <br>
-[@happyhealthybabe](https://www.happyhealthybabe.fit) is a social media content creator.
+**Digital Media Producer** @a social media content creator _(February 2021 - present)_ <br>
   - Photographer, videographer, and editor
   - Communications and business management 
   - Logistical, operational, and technical support
