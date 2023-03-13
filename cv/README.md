@@ -8,48 +8,52 @@ _Technical Consultant and Digital Media Producer based in Pittsburgh, PA, US_ <b
 
 ## 👨🏻‍💻 Technical Experience
 
-**Technical Consultant** @ [Artisan Studios](https://www.artisan-studios.com) _(November 2021 - Present)_ <br>
-  - Point-of-contact for troubleshooting and resolving second-level inventory software issues 
-  - Project support/systems analyst task fulfillment for supply chain API developer teams 
-  - Drives initiatives to completion by collaborating across business groups, internal development teams, and vendor support when necessary to develop new software features 
-  - Learns site reliability engineering (SRE) concepts while fulfilling documentation requests as the SRE team's system analyst
-  - User account administration and technical support
-  - Active member of the team charged with planning and coordinating various employee engagement and wellness initiatives.
+**Systems Analyst** @ [Artisan Studios](https://www.artisan-studios.com) _(March 2023 - Present)_ <br>
+  - Primary point-of-contact for second-level inventory software issues, providing effective troubleshooting and resolution to ensure smooth operations 
+  - Provides crucial project support and systems analyst services to supply chain API developer teams, collaborating across business groups, internal development teams, and vendor support to develop new software features 
+  - Acquires a deepening understanding of site reliability engineering concepts and hones documentation skills as a system analyst for the SRE team 
+  - Responsible for user account administration and providing technical support to ensure team members have necessary resources to succeed
+  - Achiever/Motivator on the team coordinating various employee engagement and wellness initiatives, utilizing strong communication and interpersonal skills to collaborate effectively with colleagues at all levels of the organization.
+<br><br>
+
+**Technical Consultant** @ [Artisan Studios](https://www.artisan-studios.com) _(November 2021 - March 2023)_ <br>
+Collaborated closely with clients on supply chain software projects, providing expert support for related applications and infrastructure.
 <br><br>
 
 **Senior Systems Analyst** @ [Howmet Aerospace](https://www.howmet.com/) (formerly Arconic, Inc.) _(August 2018 - November 2021)_ <br>
-  - Technical lead and project manager for multiple web applications, including the public-facing corporate website, a B2B ecommerce platform, and various smaller-scale productivity applications
-  - Translated change and project requests into actionable work items for developers
-  - Collaborated with individual business unit, corporate communications, and investor relations teams to develop and implement website content updates and project requests
-  - Lead multiple concurrent software development projects spanning differing applications and technology stacks to completion
-  - Provided end-user account administration and technical support
-  - Compliance, data privacy, and disaster recovery lead for the Productivity Applications team, coordinating and reviewing compliance testing as well as adherence to applicable government-mandated privacy requirements, including CCPA and GDPR
-  - Contributed to the development of smaller-scale tools utilized by team, including design, coding, testing, release, and maintenance. 
+  - Led and managed multiple web applications, including the public-facing corporate website, a B2B ecommerce platform, and smaller-scale productivity applications, as technical lead and project manager.
+  - Translated change and project requests into actionable work items for developers, ensuring timely and efficient delivery of solutions.
+  - Collaborated with cross-functional teams, including business units, corporate communications, and investor relations, to develop and implement website content updates and project requests.
+  - Successfully completed multiple concurrent software development projects across varying applications and technology stacks.
+  - Provided end-user account administration and technical support, ensuring high-level customer satisfaction.
+  - Served as the Compliance, Data Privacy, and Disaster Recovery lead for the Productivity Applications team, overseeing and coordinating compliance testing and adherence to government-mandated privacy requirements such as CCPA and GDPR.
+  - Contributed to the development of internal tools, including design, coding, testing, release, and maintenance, optimizing efficiency and productivity.
   - **_Technologies used:_** HTML, Java, bash, IIS, Linux, Windows Server 2012, Content Management Systems, Google Analytics.
 <br><br>
 
 **Technical Analyst** @ [Crown Castle](http://www.crowncastle.com/) _(May 2014 - Aug 2018)_ <br>
 Network Operations Center (NOC) analyst providing 24x7 support to a variety of large commercial clients. <br>
-  - Diagnosed and remedied network and remote site issues on deployed mobile telecommunications equipment including as dark fiber, distributed antenna systems, small cells, and large-scale enterprise WiFi
-  - Responded to support requests from in-house, vendor, and carrier engineering and operations teams, building and maintaining strong rapport with a focus on encouraging cross-organizational teamwork
-  - System administrator for [Errigal](https://www.errigal.com/) network monitoring, change management, and ticketing application suite
-  - Authored, reviewed, and maintained NOC procedure documentation.
+  - Proactively identified and resolved network and remote site issues on deployed mobile telecommunications equipment, including dark fiber, distributed antenna systems, small cells, and large-scale enterprise WiFi, resulting in increased network reliability and uptime
+  - Responded promptly and effectively to support requests from in-house, vendor, and carrier engineering and operations teams, building and maintaining strong collaborative relationships across organizational boundaries to facilitate seamless communication and teamwork
+  - Demonstrated expert-level proficiency as a system administrator for network monitoring, change management, and ticketing application suite, ensuring optimal performance and efficient workflows
+  - Authored, reviewed, and maintained comprehensive NOC procedure documentation, ensuring adherence to industry best practices and promoting continuous improvement in operational efficiency and effectiveness.
 <br><br>
 
 **Fiber Customer Support Analyst** @ [Verizon](https://www.verizon.com/) _(May 2011 - Feb 2014)_ <br>
-  - Provided best-in-class technical support for end users of residential and small business Verizon FiOS services
-  - Assisted with configuration of email clients, security software installation, and bandwidth optimization
+  - Delivered top-quality technical assistance to end-users of Verizon FiOS residential and small business services
+  - Provided exceptional guidance to customers on email client configuration, security software installation, and bandwidth optimization
+  - Demonstrated a deep understanding of Verizon FiOS products and services to troubleshoot and diagnose complex issues, delivering timely resolutions to customer problems
+  - Consistently achieved high levels of customer satisfaction through excellent communication, active listening, and strong problem-solving skills
+  - Collaborated effectively with cross-functional teams, including sales, engineering, and network operations, to resolve customer issues and deliver outstanding service.
 <br><br>
 
 **Customer Support Associate (Bilingual)** @ [Ariba, Inc.](https://www.ariba.com/) _(Jan 2011 - May 2011)_ <br>
-Product support for Ariba sourcing platform (now SAP Ariba) to English and Spanish-speaking domestic and international business clients. <br>
-  - Duties: account administration, password resets, and navigation support
-  - Documentation and escalation of technical issues to engineering team.
+As a Bilingual Customer Support Associate, I provided exceptional technical support for domestic and international business clients using the Ariba sourcing platform (now SAP Ariba). My responsibilities included efficient management of account administration, password resets, and navigation support, while ensuring accurate documentation and escalation of technical issues to the engineering team.<br>
 <br><br>
 
 **Data/Voice Specialist (Bilingual)** @ [Breezeline](https://www.breezeline.com/) (formerly Atlantic Broadband) _(Nov 2006 - January 2011)_ <br>
-  - Provided technical support for English and Spanish-speaking end users of commercial and residential internet and telephone services
-  - Completed an internship with the IT group in data center hardware and software installation, configuration, and repair, response to network abuse and spam reports, and equipment and legacy software inventory.
+  - Provided top-notch technical support to both English and Spanish-speaking customers for commercial and residential internet and telephone services
+  - Successfully completed an internship with the IT group, where I gained hands-on experience in data center hardware and software installation, configuration, and repair, as well as responding to network abuse and spam reports, and equipment and legacy software inventory.
 <br><br><br>
     
   
@@ -57,9 +61,9 @@ Product support for Ariba sourcing platform (now SAP Ariba) to English and Spani
 ## 🎥 Digital Media Experience
 
 **Digital Media Producer** @a social media content creator _(February 2021 - present)_ <br>
-  - Photographer, videographer, and editor
-  - Communications and business management 
-  - Logistical, operational, and technical support
+  - Serves as a skilled photographer, videographer, and editor, producing high-quality digital media content for diverse audiences.
+  - Provides effective communications and business management, utilizing strong interpersonal skills to coordinate with team members, clients, and vendors.
+  - Offers logistical, operational, and technical support to ensure smooth operations, from project planning to post-production.
   - **_Technologies used:_** Nikon D, Sony α, iPhone, Adobe Lightroom, CapCut, Photopea, various social media apps.
 <br><br><br>
 
@@ -67,8 +71,8 @@ Product support for Ariba sourcing platform (now SAP Ariba) to English and Spani
   
 ## 💬 Languages
 
-**English**: _native fluency_ <br>
-**Spanish**: _native fluency_
+**Spanish**: _native fluency_ <br>
+**English**: _native fluency_
 <br><br><br>
 
   
