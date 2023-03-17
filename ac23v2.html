@@ -46,7 +46,7 @@
 
 	<div class="countdown-container">
 		<div class="countdown-timer" id="countdown"></div>
-		<div class="countdown-label">Days&nbsp;&nbsp;&nbsp;&nbsp;Hours&nbsp;&nbsp;&nbsp;&nbsp;Minutes&nbsp;&nbsp;&nbsp;&nbsp;Seconds</div>
+		<!--<div class="countdown-label">Days&nbsp;&nbsp;&nbsp;&nbsp;Hours&nbsp;&nbsp;&nbsp;&nbsp;Minutes&nbsp;&nbsp;&nbsp;&nbsp;Seconds</div>-->
 	</div>
 
 	<script>
@@ -70,7 +70,7 @@
 
 		  // Display the remaining time in the Confluence page
 		  var countdownElement = document.getElementById("countdown");
-		  countdownElement.innerHTML = days + "&nbsp;&nbsp;&nbsp;&nbsp;" + hours + "&nbsp;&nbsp;&nbsp;&nbsp;" + minutes + "&nbsp;&nbsp;&nbsp;&nbsp;" + seconds + "\n" + "until Artisan Connect 2023!";
+		  countdownElement.innerHTML = days + " days &nbsp;&nbsp;&nbsp;&nbsp;" + hours + " hours &nbsp;&nbsp;&nbsp;&nbsp;" + minutes + " minutes &nbsp;&nbsp;&nbsp;&nbsp;" + seconds + " seconds " + "\n" + "\n" + "until Artisan Connect 2023!";
 
 		  // If the countdown is finished, display a message
 		  if (distance < 0) {
