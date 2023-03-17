@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Countdown Timer</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			background-color: #f5f5f5;
+			text-align: center;
+			margin: 0;
+		}
+
+		h1 {
+			font-size: 48px;
+			margin-top: 50px;
+			margin-bottom: 20px;
+			color: #444;
+		}
+
+		.countdown-container {
+			background-color: #fff;
+			border-radius: 10px;
+			box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+			display: inline-block;
+			padding: 20px;
+			margin-bottom: 50px;
+		}
+
+		.countdown-timer {
+			font-size: 36px;
+			margin-bottom: 10px;
+			color: #555;
+		}
+
+		.countdown-label {
+			font-size: 16px;
+			color: #777;
+			text-transform: uppercase;
+			letter-spacing: 2px;
+		}
+	</style>
+</head>
+<body>
+
+	<h1>Countdown Timer</h1>
+
+	<div class="countdown-container">
+		<div class="countdown-timer" id="countdown"></div>
+		<div class="countdown-label">Days&nbsp;&nbsp;&nbsp;&nbsp;Hours&nbsp;&nbsp;&nbsp;&nbsp;Minutes&nbsp;&nbsp;&nbsp;&nbsp;Seconds</div>
+	</div>
+
+	<script>
+		// Set the date we're counting down to
+		var countDownDate = new Date("April 20, 2023 00:00:00").getTime();
+
+		// Update the countdown every second
+		var x = setInterval(function() {
+
+		  // Get the current date and time
+		  var now = new Date().getTime();
+
+		  // Calculate the distance between now and the countdown date
+		  var distance = countDownDate - now;
+
+		  // Calculate remaining days, hours, minutes and seconds
+		  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+		  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+		  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+		  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+		  // Display the remaining time in the Confluence page
+		  var countdownElement = document.getElementById("countdown");
+		  countdownElement.innerHTML = days + "&nbsp;&nbsp;&nbsp;&nbsp;" + hours + "&nbsp;&nbsp;&nbsp;&nbsp;" + minutes + "&nbsp;&nbsp;&nbsp;&nbsp;" + seconds;
+
+		  // If the countdown is finished, display a message
+		  if (distance < 0) {
+		    clearInterval(x);
+		    countdownElement.innerHTML = "EXPIRED";
+		  }
+		}, 1000);
+	</script>
+
+</body>
+</html>
