@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Countdown Timer</title>
+	<title>AC23 Countdown Timer</title>
 </head>
 <body>
 
@@ -28,12 +28,12 @@
 
 		  // Display the remaining time in the Confluence page
 		  var countdownElement = document.getElementById("countdown");
-		  countdownElement.innerHTML = days + " days, " + hours + " hours, " + minutes + " minutes, " + seconds + " seconds remaining.";
+		  countdownElement.innerHTML = "FYI: only" + days + " days, " + hours + " hours, " + minutes + " minutes, " + seconds + " seconds remain until Artisan Connect 2023!";
 
 		  // If the countdown is finished, display a message
 		  if (distance < 0) {
 		    clearInterval(x);
-		    countdownElement.innerHTML = "EXPIRED";
+		    countdownElement.innerHTML = "WE HOPE YOU ENJOY ARTISAN CONNECT!!! :)";
 		  }
 		}, 1000);
 	</script>
