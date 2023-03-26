@@ -2,3 +2,15 @@ theme: jekyll-theme-minimal
 title: 💻🚧🎥📸
 description: CV's CV
 google_analytics: G-C9YKR7YG6H
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      layout: "dark"
+    values:
+      theme: "dark"
