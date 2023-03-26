@@ -7,3 +7,25 @@
 
   gtag('config', 'G-C9YKR7YG6H');
 </script>
+<!-- css -->
+<head>
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
+</head>
+<!-- Dark Mode Toggle -->
+<body>
+  const toggleButton = document.getElementById('dark-mode-toggle');
+  const body = document.body;
+
+  toggleButton.addEventListener('click', () => {
+    body.classList.toggle('dark-mode');
+  });
+
+  // Check for browser color scheme preference
+  const prefersDark = window.matchMedia("(prefers-color-scheme: dark)");
+
+  if (prefersDark.matches) {
+    body.classList.add('dark-mode');
+  }
+</body>
+<!-- put the Dark Mode Toggle onto the page -->
+{% include dark-mode-toggle.html %}
