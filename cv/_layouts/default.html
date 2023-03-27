@@ -10,6 +10,7 @@
 <!-- css -->
 <head>
   <link rel="stylesheet" href="{{ site.baseurl }}/cv/css/style.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/cv/css/dark-mode.css" id="dark-mode-link">
 </head>
 <!-- Dark Mode Toggle -->
 <body>
@@ -28,4 +29,23 @@
   }
 </body>
 <!-- put the Dark Mode Toggle onto the page -->
-{% include dark-mode-toggle.html %}
+  <!-- {% include dark-mode-toggle.html %} -->
+<button id="dark-mode-toggle" onclick="toggleDarkMode()">Toggle dark mode</button>
+<!-- Dark Mode script -->
+<script>
+  function toggleDarkMode() {
+    var body = document.body;
+    var darkModeToggle = document.getElementById('dark-mode-toggle');
+    var darkModeLink = document.getElementById('dark-mode-link');
+  
+    if (body.classList.contains('dark-mode')) {
+      body.classList.remove('dark-mode');
+      darkModeToggle.textContent = 'Toggle dark mode';
+      darkModeLink.href = '{{ site.baseurl }}/assets/css/dark-mode.css';
+    } else {
+      body.classList.add('dark-mode');
+      darkModeToggle.textContent = 'Toggle light mode';
+      darkModeLink.href = '{{ site.baseurl }}/assets/css/light-mode.css';
+    }
+  }
+  </script>  
