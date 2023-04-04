@@ -9,10 +9,10 @@ _Technical Consultant and Digital Media Producer based in Pittsburgh, PA, US_ <b
 ## 👨🏻‍💻 Technical Experience
 
 **Systems Analyst** @ [Artisan Studios](https://www.artisan-studios.com) _(March 2023 - Present)_ <br>
-  - Primary point-of-contact for second-level inventory software issues, providing effective troubleshooting and resolution to ensure smooth operations 
-  - Provides crucial project support and systems analyst services to supply chain API developer teams, collaborating across business groups, internal development teams, and vendor support to develop new software features 
-  - Acquires a deepening understanding of site reliability engineering concepts and hones documentation skills as a system analyst for the SRE team 
+  - Primary point-of-contact for escalated inventory software issues, providing effective troubleshooting and resolution to ensure smooth operations
+  - Provides crucial project support and systems analyst services to supply chain API developer teams, collaborating across business groups, internal development teams, and vendor support to develop new software features
   - Responsible for user account administration and providing technical support to ensure team members have necessary resources to succeed
+  - Continually deepens understanding of software engineering concepts and refines documentation skills to drive continuous improvement and elevate team performance
   - Achiever/Motivator on the team coordinating various employee engagement and wellness initiatives, utilizing strong communication and interpersonal skills to collaborate effectively with colleagues at all levels of the organization.
 <br><br>
 
