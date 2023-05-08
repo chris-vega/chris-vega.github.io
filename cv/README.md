@@ -28,7 +28,6 @@ Collaborated closely with clients on supply chain software projects, providing e
   - Provided end-user account administration and technical support, ensuring high-level customer satisfaction.
   - Served as the Compliance, Data Privacy, and Disaster Recovery lead for the Productivity Applications team, overseeing and coordinating compliance testing and adherence to government-mandated privacy requirements such as CCPA and GDPR.
   - Contributed to the development of internal tools, including design, coding, testing, release, and maintenance, optimizing efficiency and productivity.
-  - **_Technologies used:_** HTML, Java, bash, IIS, Linux, Windows Server 2012, Content Management Systems, Google Analytics.
 <br><br>
 
 **Technical Analyst** @ [Crown Castle](http://www.crowncastle.com/) _(May 2014 - Aug 2018)_ <br>
@@ -60,7 +59,7 @@ As a Bilingual Customer Support Associate, I provided exceptional technical supp
   
 ## 🎥 Digital Media Experience
 
-**Digital Media Producer** @a social media content creator _(February 2021 - present)_ <br>
+**Digital Media Producer** (freelance) _(February 2021 - present)_ <br>
   - Serves as a skilled photographer, videographer, and editor, producing high-quality digital media content for diverse audiences.
   - Provides effective communications and business management, utilizing strong interpersonal skills to coordinate with team members, clients, and vendors.
   - Offers logistical, operational, and technical support to ensure smooth operations, from project planning to post-production.
