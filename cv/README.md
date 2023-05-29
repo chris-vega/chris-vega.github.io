@@ -89,3 +89,8 @@ As a Bilingual Customer Support Associate, I provided exceptional technical supp
 
 **Associate of Arts and Sciences** in Computer Forensics<br>
 [Pennsylvania Highlands Community College](https://www.pennhighlands.edu/) _(2005 - 2008)_ <br>
+
+
+
+<script src="js/print.js"></script>
+<button id="print-button">PDF (print this!)</button>
