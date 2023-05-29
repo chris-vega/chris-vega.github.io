@@ -4,6 +4,8 @@ _Technical Consultant and Digital Media Producer based in Pittsburgh, PA, US_ <b
 
 [Email](mailto:chris@happyhealthybabe.fit) / [Website](https://koji.to/k/86TS) / [LinkedIn](https://www.linkedin.com/in/chrisevega/) / [GitHub](https://github.com/chris-vega/) / [DEV](https://dev.to/twop0intfive) / [Pluralsight](https://app.pluralsight.com/profile/twop0intfive) <br><br><br>
 
+<script src="js/print.js"></script>
+<button id="print-button">Print! (PDF)</button>
 
 
 ## 👨🏻‍💻 Technical Experience
@@ -89,8 +91,3 @@ As a Bilingual Customer Support Associate, I provided exceptional technical supp
 
 **Associate of Arts and Sciences** in Computer Forensics<br>
 [Pennsylvania Highlands Community College](https://www.pennhighlands.edu/) _(2005 - 2008)_ <br>
-
-
-
-<script src="js/print.js"></script>
-<button id="print-button">PDF (print this!)</button>
