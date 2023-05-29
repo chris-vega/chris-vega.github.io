@@ -1,11 +1,13 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.2/jspdf.min.js"></script>
+<script src="js/print.js"></script>
+<button id="print-button">Print this! (PDF)</button>
+
 # Chris Vega
 
 _Technical Consultant and Digital Media Producer based in Pittsburgh, PA, US_ <br>
 
 [Email](mailto:chris@happyhealthybabe.fit) / [Website](https://koji.to/k/86TS) / [LinkedIn](https://www.linkedin.com/in/chrisevega/) / [GitHub](https://github.com/chris-vega/) / [DEV](https://dev.to/twop0intfive) / [Pluralsight](https://app.pluralsight.com/profile/twop0intfive) <br><br><br>
 
-<script src="js/print.js"></script>
-<button id="print-button">Print! (PDF)</button>
 
 
 ## 👨🏻‍💻 Technical Experience
