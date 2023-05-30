@@ -3,7 +3,11 @@
   <button id="print-button">Print this! (PDF)</button>-->
 <!-- TESTING || Print button TWO (html2pdf) -->
   <button id="pdf-button">Generate PDF</button>
-  <br><br><br>
+  <br>
+<!-- TESTING || Dark Mode button -->
+  <button id="dark-mode-toggle" onclick="toggleDarkMode()">toggle dark mode</button>
+
+<br><br><br>
 
 # Chris Vega
 
