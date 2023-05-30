@@ -1,5 +1,5 @@
 <!-- Print button -->
-<script src="/cv/js/print.js"></script>
+<script src="cv/js/print.js"></script>
 <button id="print-button">Print this! (PDF)</button>
 <br><br><br>
 
