@@ -1,6 +1,5 @@
 <!-- Print button -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.2/jspdf.min.js"></script>
-<script src="cv/js/print.js"></script>
+<script src="/cv/js/print.js"></script>
 <button id="print-button">Print this! (PDF)</button>
 
 
