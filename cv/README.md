@@ -4,6 +4,9 @@
 <!-- TESTING || Print button TWO (html2pdf) -->
   <button id="pdf-button">Generate PDF</button>
   <br>
+<!-- TESTING || Print button THREE (browser) -->
+  <button id="pdf-button3">G3nerate PDF</button>
+  <br>
 <!-- TESTING || Dark Mode button -->
   <button id="dark-mode-toggle" onclick="toggleDarkMode()">toggle dark mode</button>
 
