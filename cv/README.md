@@ -16,11 +16,10 @@
 
 -->
 
-# Chris Vega
+# [Chris Vega](mailto:chris@twop0intfive.xyz)
 
 _Technical Consultant and Digital Media Producer based in Pittsburgh, PA, US_ <br>
-
-[Email](mailto:chris@happyhealthybabe.fit) / [Website](https://koji.to/k/86TS) / [LinkedIn](https://www.linkedin.com/in/chrisevega/) / [GitHub](https://github.com/chris-vega/) / [DEV](https://dev.to/twop0intfive) / [Pluralsight](https://app.pluralsight.com/profile/twop0intfive) <br><br><br>
+[LinkedIn](https://www.linkedin.com/in/chrisevega/) / [GitHub](https://github.com/chris-vega/) / [Pluralsight](https://app.pluralsight.com/profile/twop0intfive) <br><br><br>
 
 
 
