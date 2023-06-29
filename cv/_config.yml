@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
 title: 💻🚧🎥📸
 description: CV's CV
-google_analytics: G-C9YKR7YG6H
+analytics:
+  tracking_id: G-N8B957VS8E
 defaults:
   -
     scope:
