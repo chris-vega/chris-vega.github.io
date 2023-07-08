@@ -16,7 +16,7 @@
 
 -->
 
-# [Chris Vega](mailto:chris@twop0intfive.xyz)
+# [Chris Vega](mailto:chris@twop0intfive.xyz) 📧
 
 _Technical Consultant and Digital Media Producer based in Pittsburgh, PA, US_ <br>
 [LinkedIn](https://www.linkedin.com/in/chrisevega/) / [Credly](https://www.credly.com/users/christian-vega.3c10d314/badges) / [skillsoft](https://skillsoft.digitalbadges.skillsoft.com/profile/christianvega767921/wallet) / [Pluralsight](https://app.pluralsight.com/profile/twop0intfive) <br><br><br>
