@@ -25,7 +25,7 @@ _Technical Consultant and Digital Media Producer based in Pittsburgh, PA, US_ <b
 
 ## 👨🏻‍💻 Technical Experience
 
-**Systems Analyst / Technical Consultant** @ [Artisan Studios](https://www.artisan-studios.com) _(November 2021 - Present)_ <br>
+**Systems Analyst / Technical Consultant** @ [Artisan Studios](https://www.artisan-studios.com) _(November 2021 - July 2023)_ <br>
   - Consultant role focused on client projects, providing support for cloud-based applications. 
   - Acted as the primary point of contact for inventory-related issues in a large cloud-based back-office application, collaborating with end-users, corporate teams, and software vendors to troubleshoot and resolve issues. 
   - Led an initiative with the vendor to enable inventory functions for international locations, ensuring global operational efficiency. 
