@@ -25,16 +25,16 @@ _Technical Consultant and Digital Media Producer based in Pittsburgh, PA, US_ <b
 
 ## 👨🏻‍💻 Technical Experience
 
-**Systems Analyst** @ [Artisan Studios](https://www.artisan-studios.com) _(March 2023 - Present)_ <br>
-  - Primary point-of-contact for escalated inventory software issues, providing effective troubleshooting and resolution to ensure smooth operations
-  - Provides crucial project support and systems analyst services to supply chain API developer teams, collaborating across business groups, internal development teams, and vendor support to develop new software features
-  - Responsible for user account administration and providing technical support to ensure team members have necessary resources to succeed
-  - Continually deepens understanding of software engineering concepts and refines documentation skills to drive continuous improvement and elevate team performance
-  - Achiever/Motivator on the team coordinating various employee engagement and wellness initiatives, utilizing strong communication and interpersonal skills to collaborate effectively with colleagues at all levels of the organization.
-<br><br>
-
-**Technical Consultant** @ [Artisan Studios](https://www.artisan-studios.com) _(November 2021 - March 2023)_ <br>
-Collaborated closely with clients on supply chain software projects, providing expert support for related applications and infrastructure.
+**Systems Analyst / Technical Consultant** @ [Artisan Studios](https://www.artisan-studios.com) _(November 2021 - Present)_ <br>
+  - Consultant role focused on client projects, providing support for cloud-based applications. 
+  - Acted as the primary point of contact for inventory-related issues in a large cloud-based back-office application, collaborating with end-users, corporate teams, and software vendors to troubleshoot and resolve issues. 
+  - Led an initiative with the vendor to enable inventory functions for international locations, ensuring global operational efficiency. 
+  - Created comprehensive Confluence documentation, outlining troubleshooting procedures, escalation paths, and other pertinent information for seamless knowledge transfer to successors. 
+  - Established and managed a Jira board for issue tracking, fostering team collaboration and streamlined issue resolution. 
+  - Conducted release testing, data verification, and other related tasks to ensure the stability and functionality of applications. 
+  - Provided support for a cloud-based procure-to-pay (P2P) application, performing monthly release testing and responding to trouble tickets. 
+  - Collaborated with the vendor and corporate teams to resolve back-end scripting issues, ensuring smooth application operations. 
+  - Documented CI/CD processes and developed organization-wide documentation on new development tools, facilitating knowledge sharing and process standardization. 
 <br><br>
 
 **Senior Systems Analyst** @ [Howmet Aerospace](https://www.howmet.com/) (formerly Arconic, Inc.) _(August 2018 - November 2021)_ <br>
@@ -49,18 +49,17 @@ Collaborated closely with clients on supply chain software projects, providing e
 
 **Technical Analyst** @ [Crown Castle](http://www.crowncastle.com/) _(May 2014 - Aug 2018)_ <br>
 Network Operations Center (NOC) analyst providing 24x7 support to a variety of large commercial clients. <br>
-  - Proactively identified and resolved network and remote site issues on deployed mobile telecommunications equipment, including dark fiber, distributed antenna systems, small cells, and large-scale enterprise WiFi, resulting in increased network reliability and uptime
-  - Responded promptly and effectively to support requests from in-house, vendor, and carrier engineering and operations teams, building and maintaining strong collaborative relationships across organizational boundaries to facilitate seamless communication and teamwork
-  - Demonstrated expert-level proficiency as a system administrator for network monitoring, change management, and ticketing application suite, ensuring optimal performance and efficient workflows
-  - Authored, reviewed, and maintained comprehensive NOC procedure documentation, ensuring adherence to industry best practices and promoting continuous improvement in operational efficiency and effectiveness.
+  - Proactively resolved network and remote site issues on mobile telecommunications equipment, enhancing network reliability and uptime. 
+  - Promptly handled support requests from in-house, vendor, and carrier teams, fostering seamless communication and teamwork. 
+  - Expertly administered network monitoring, change management, and ticketing application suite for optimal performance. 
+  - Authored, reviewed, and maintained comprehensive NOC procedure documentation, driving operational efficiency and improvement. 
 <br><br>
 
 **Fiber Customer Support Analyst** @ [Verizon](https://www.verizon.com/) _(May 2011 - Feb 2014)_ <br>
-  - Delivered top-quality technical assistance to end-users of Verizon FiOS residential and small business services
-  - Provided exceptional guidance to customers on email client configuration, security software installation, and bandwidth optimization
-  - Demonstrated a deep understanding of Verizon FiOS products and services to troubleshoot and diagnose complex issues, delivering timely resolutions to customer problems
-  - Consistently achieved high levels of customer satisfaction through excellent communication, active listening, and strong problem-solving skills
-  - Collaborated effectively with cross-functional teams, including sales, engineering, and network operations, to resolve customer issues and deliver outstanding service.
+  - Delivered top-quality technical assistance to end-users, ensuring smooth usage of residential and small business services. 
+  - Provided exceptional guidance on email client configuration, security software installation, and bandwidth optimization. 
+  - Demonstrated expertise in troubleshooting and resolving complex issues promptly, ensuring customer satisfaction. 
+  - Collaborated effectively with cross-functional teams to deliver outstanding service and resolve customer issues. 
 <br><br>
 
 **Customer Support Associate (Bilingual)** @ [Ariba, Inc.](https://www.ariba.com/) _(Jan 2011 - May 2011)_ <br>
