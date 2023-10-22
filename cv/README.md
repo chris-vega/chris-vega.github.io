@@ -19,7 +19,7 @@
 ## [Chris Vega](mailto:chris@twop0intfive.xyz) 📧
 
 _Technical Consultant and Digital Media Producer based in Pittsburgh, PA, US_ <br>
-[LinkedIn🇺🇸](https://www.linkedin.com/in/chrisevega/) / [LinkedIn🇵🇷](https://www.linkedin.com/in/chrisevega/?locale%253Des_ES) / [Credly](https://www.credly.com/users/christian-vega.3c10d314/badges) / [skillsoft](https://skillsoft.digitalbadges.skillsoft.com/profile/christianvega767921/wallet) / [Pluralsight](https://app.pluralsight.com/profile/twop0intfive) <br><br><br>
+[LinkedIn](https://www.linkedin.com/in/chrisevega/) / [Credly](https://www.credly.com/users/christian-vega.3c10d314/badges) / [skillsoft](https://skillsoft.digitalbadges.skillsoft.com/profile/christianvega767921/wallet) / [Pluralsight](https://app.pluralsight.com/profile/twop0intfive) <br><br><br>
 
 
 
@@ -89,7 +89,7 @@ Network Operations Center (NOC) analyst providing 24x7 support to a variety of l
 ## 👨🏻‍🎓 Education
 
 **Master of Science** in [Information Technology Management](https://www.wgu.edu/online-it-degrees/information-technology-management-masters-program.html)<br>
-[Western Governors University](https://www.wgu.edu/) _(2018 - 2019)_ <br>
+[Western Governors University](https://www.wgu.edu/) _(2018 - 2020)_ <br>
 
 **Bachelor of Science** in [Information Technology](https://www.wgu.edu/online-it-degrees/information-technology-bachelors-program.html)<br>
 [Western Governors University](https://www.wgu.edu/) _(2012 - 2017)_ <br>
