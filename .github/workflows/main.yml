@@ -1,0 +1,26 @@
+name: Update Cloud Deployments
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: AWS Deployment
+        run: |
+          aws s3 sync /path/to/updated/file s3://your-bucket-name
+          
+      - name: Azure Deployment
+        run: |
+          az storage blob upload --account-name yourstorageaccountname --account-key youraccountkey --container-name yourcontainername --name filename --type block --source /path/to/updated/file
+
+      - name: GCP Deployment
+        run: |
+          gsutil cp /path/to/updated/file gs://your-bucket-name
