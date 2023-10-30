@@ -34,7 +34,7 @@ _Versatile Technologist | Digital Media Producer | Blending Technical Expertise 
 - **Effective Communication with Diverse Teams**
 - **Spanish** _(Native-level Business, Conversational, and Technical Fluency)_
 
-<br><br>
+<br>
 
 
 
@@ -50,7 +50,7 @@ _Versatile Technologist | Digital Media Producer | Blending Technical Expertise 
 - **IT Compliance**_(CCPA, GDPR)_
 - **Troubleshooting and Issue Resolution**
 
-<br><br>
+<br>
 
 
 
@@ -59,7 +59,7 @@ _Versatile Technologist | Digital Media Producer | Blending Technical Expertise 
 **Spanish**: _native fluency_<br>
 **English**: _native fluency_
 
-<br><br>
+<br>
 
 
 
@@ -71,7 +71,7 @@ _Versatile Technologist | Digital Media Producer | Blending Technical Expertise 
 **Bachelor of Science** in [Information Technology](https://www.wgu.edu/online-it-degrees/information-technology-bachelors-program.html)<br>
 [Western Governors University](https://www.wgu.edu/) _(2012 - 2017)_
 
-<br><br><br>
+<br><br>
 
 
 
@@ -116,7 +116,7 @@ Network Operations Center (NOC) analyst providing 24x7 support to a variety of l
 **Data/Voice Specialist (Bilingual)** @ [Breezeline](https://www.breezeline.com/) (formerly Atlantic Broadband) _(Nov 2006 - January 2011)_ <br>
   - Provided technical support for commercial and residential internet and telephone services to English and Spanish-speaking customers.
   - Completed IT internship involving hands-on experience in data center hardware/software, network abuse and spam report handling, and equipment/software inventory management.
-<br><br><br>
+<br><br>
     
   
   
