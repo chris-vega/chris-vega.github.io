@@ -16,14 +16,14 @@
 
 -->
 
-## [Chris Vega](mailto:chris@twop0intfive.xyz) 📧
+# [Chris Vega](mailto:chris@twop0intfive.xyz) 📧
 
 _Versatile Technologist | Digital Media Producer | Blending Technical Expertise with Creative Vision_ <br>
 [LinkedIn](https://www.linkedin.com/in/chrisevega/) / [Credly](https://www.credly.com/users/christian-vega.3c10d314/badges) / [skillsoft](https://skillsoft.digitalbadges.skillsoft.com/profile/christianvega767921/wallet) / [Pluralsight](https://app.pluralsight.com/profile/twop0intfive) <br><br>
 
 
 
-## 🫱🏽‍🫲🏿 Soft Skills
+### 🫱🏽‍🫲🏿 Soft Skills
 
 - **Project Management** _(Agile, Scrum, Waterfall)_
 - **Cross-functional Collaboration**
@@ -38,7 +38,7 @@ _Versatile Technologist | Digital Media Producer | Blending Technical Expertise 
 
 
 
-## 💻 Technical Skills
+### 💻 Technical Skills
 
 - **Systems Architecture and Cloud Implementation**
 - **Application Development and Support**
@@ -49,15 +49,6 @@ _Versatile Technologist | Digital Media Producer | Blending Technical Expertise 
 - **Security Solutions**
 - **IT Compliance**_(CCPA, GDPR)_
 - **Troubleshooting and Issue Resolution**
-
-<br>
-
-
-
-## 🔡 Languages
-
-**Spanish**: _native fluency_<br>
-**English**: _native fluency_
 
 <br>
 
