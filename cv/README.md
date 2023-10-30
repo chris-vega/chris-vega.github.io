@@ -19,7 +19,7 @@
 ## [Chris Vega](mailto:chris@twop0intfive.xyz) 📧
 
 _Versatile Technologist | Digital Media Producer | Blending Technical Expertise with Creative Vision_ <br>
-[LinkedIn](https://www.linkedin.com/in/chrisevega/) / [Credly](https://www.credly.com/users/christian-vega.3c10d314/badges) / [skillsoft](https://skillsoft.digitalbadges.skillsoft.com/profile/christianvega767921/wallet) / [Pluralsight](https://app.pluralsight.com/profile/twop0intfive) <br><br><br>
+[LinkedIn](https://www.linkedin.com/in/chrisevega/) / [Credly](https://www.credly.com/users/christian-vega.3c10d314/badges) / [skillsoft](https://skillsoft.digitalbadges.skillsoft.com/profile/christianvega767921/wallet) / [Pluralsight](https://app.pluralsight.com/profile/twop0intfive) <br><br>
 
 
 
@@ -34,7 +34,7 @@ _Versatile Technologist | Digital Media Producer | Blending Technical Expertise 
 - **Effective Communication with Diverse Teams**
 - **Spanish** _(Native-level Business, Conversational, and Technical Fluency)_
 
-<br><br><br>
+<br><br>
 
 
 
@@ -50,16 +50,16 @@ _Versatile Technologist | Digital Media Producer | Blending Technical Expertise 
 - **IT Compliance**_(CCPA, GDPR)_
 - **Troubleshooting and Issue Resolution**
 
-<br><br><br>
+<br><br>
 
 
 
 ## 🔡 Languages
 
-**Spanish**: _native fluency_
+**Spanish**: _native fluency_<br>
 **English**: _native fluency_
 
-<br><br><br>
+<br><br>
 
 
 
@@ -70,6 +70,7 @@ _Versatile Technologist | Digital Media Producer | Blending Technical Expertise 
 
 **Bachelor of Science** in [Information Technology](https://www.wgu.edu/online-it-degrees/information-technology-bachelors-program.html)<br>
 [Western Governors University](https://www.wgu.edu/) _(2012 - 2017)_
+
 <br><br><br>
 
 
