@@ -18,23 +18,74 @@
 
 ## [Chris Vega](mailto:chris@twop0intfive.xyz) 📧
 
-_Technical Consultant and Digital Media Producer based in Pittsburgh, PA, US_ <br>
+_Versatile Technologist | Digital Media Producer | Blending Technical Expertise with Creative Vision_ <br>
 [LinkedIn](https://www.linkedin.com/in/chrisevega/) / [Credly](https://www.credly.com/users/christian-vega.3c10d314/badges) / [skillsoft](https://skillsoft.digitalbadges.skillsoft.com/profile/christianvega767921/wallet) / [Pluralsight](https://app.pluralsight.com/profile/twop0intfive) <br><br><br>
+
+
+
+## 🫱🏽‍🫲🏿 Soft Skills
+
+- **Project Management** _(Agile, Scrum, Waterfall)_
+- **Cross-functional Collaboration**
+- **Documentation and Training**
+- **Problem-solving in Ambiguous/Undefined Situations**
+- **Strong Sense of Ownership and Urgency**
+- **Vendor Collaboration**
+- **Effective Communication with Diverse Teams**
+- **Spanish** _(Native-level Business, Conversational, and Technical Fluency)_
+
+<br><br><br>
+
+
+
+## 💻 Technical Skills
+
+- **Systems Architecture and Cloud Implementation**
+- **Application Development and Support**
+- **Network and Element Management**
+- **Scripting and Programming**_(JavaScript, bash, HTML)_
+- **Performance Monitoring**
+- **Configuration Management**
+- **Security Solutions**
+- **IT Compliance**_(CCPA, GDPR)_
+- **Troubleshooting and Issue Resolution**
+
+<br><br><br>
+
+
+
+## 🔡 Languages
+
+**Spanish**: _native fluency_
+**English**: _native fluency_
+
+<br><br><br>
+
+
+
+## 👨🏻‍🎓 Education
+
+**Master of Science** in [Information Technology Management](https://www.wgu.edu/online-it-degrees/information-technology-management-masters-program.html)<br>
+[Western Governors University](https://www.wgu.edu/) _(2018 - 2020)_ <br>
+
+**Bachelor of Science** in [Information Technology](https://www.wgu.edu/online-it-degrees/information-technology-bachelors-program.html)<br>
+[Western Governors University](https://www.wgu.edu/) _(2012 - 2017)_
+<br><br><br>
 
 
 
 ## 👨🏻‍💻 Technical Experience
 
 **Systems Analyst / Technical Consultant** @ [Artisan Studios](https://www.artisan-studios.com) _(November 2021 - July 2023)_ <br>
-  - Consulted on client projects, specializing in cloud-based supply chain applications.
-  - Acted as the primary contact for inventory-related issues, collaborating with end-users, corporate teams, and vendors for issue resolution.
-  - Led an initiative to enable inventory functions for international locations, ensuring global operational efficiency.
-  - Created comprehensive Confluence documentation for seamless knowledge transfer.
-  - Established and managed a Jira board for streamlined issue resolution and team collaboration.
-  - Conducted release testing and data verification to ensure application stability.
-  - Provided support for a cloud-based procure-to-pay (P2P) application, handling release testing and trouble tickets.
-  - Collaborated with vendors and corporate teams to resolve back-end scripting issues.
-  - Documented CI/CD processes and developed organization-wide documentation on new development tools for knowledge sharing and process standardization. 
+  - Consulted on pivotal client projects, specializing in the strategic development of cloud-based supply chain applications.
+  - Assumed a central role as the go-to authority for intricate inventory-related challenges, fostering collaboration with end-users, corporate teams, and vendors for effective issue resolution.
+  - Spearheaded a groundbreaking initiative, extending inventory functionalities to international locations, thereby elevating global operational efficiency.
+  - Architected comprehensive Confluence documentation, ensuring a seamless transfer of knowledge and expertise.
+  - Established and oversaw a dynamic Jira board, enhancing team collaboration and expediting issue resolution.
+  - Executed rigorous release testing and data verification protocols, guaranteeing the stability of critical applications.
+  - Provided adept support for a cloud-based procure-to-pay (P2P) application, excelling in release testing and swiftly resolving trouble tickets.
+  - Collaborated seamlessly with vendors and corporate teams, effectively resolving intricate back-end scripting issues.
+  - Authored and documented CI/CD processes, contributing to organization-wide awareness and standardization of new development tools. 
 <br><br>
 
 **Senior Systems Analyst** @ [Howmet Aerospace](https://www.howmet.com/) (formerly Arconic, Inc.) _(August 2018 - November 2021)_ <br>
@@ -71,31 +122,6 @@ Network Operations Center (NOC) analyst providing 24x7 support to a variety of l
 ## 🎥 Digital Media Experience
 
 **Media Producer / Production Coordinator** (freelance) _(February 2021 - present)_ <br>
-  - Skilled photographer, videographer, and editor producing high-quality digital media content. 
+  - Skilled photographer, videographer, and editor producing high-quality digital media content.
   - Provides effective communication and business management, coordinating with team members, clients, and vendors.
   - Offers logistical, operational, and technical support for seamless project planning to post-production operations.
-<br><br><br>
-
-  
-  
-## 💬 Languages
-
-**Spanish**: _native fluency_ <br>
-**English**: _native fluency_
-<br><br><br>
-
-  
-  
-## 👨🏻‍🎓 Education
-
-**Master of Science** in [Information Technology Management](https://www.wgu.edu/online-it-degrees/information-technology-management-masters-program.html)<br>
-[Western Governors University](https://www.wgu.edu/) _(2018 - 2020)_ <br>
-
-**Bachelor of Science** in [Information Technology](https://www.wgu.edu/online-it-degrees/information-technology-bachelors-program.html)<br>
-[Western Governors University](https://www.wgu.edu/) _(2012 - 2017)_ <br>
-
-**Associate of Arts and Sciences** in Network Administration<br>
-[Pennsylvania Highlands Community College](https://www.pennhighlands.edu/) _(2006 - 2008)_ <br>
-
-**Associate of Arts and Sciences** in Computer Forensics<br>
-[Pennsylvania Highlands Community College](https://www.pennhighlands.edu/) _(2005 - 2008)_ <br>
