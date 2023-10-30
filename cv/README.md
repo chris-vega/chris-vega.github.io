@@ -107,7 +107,7 @@ Network Operations Center (NOC) analyst providing 24x7 support to a variety of l
 **Data/Voice Specialist (Bilingual)** @ [Breezeline](https://www.breezeline.com/) (formerly Atlantic Broadband) _(Nov 2006 - January 2011)_ <br>
   - Provided technical support for commercial and residential internet and telephone services to English and Spanish-speaking customers.
   - Completed IT internship involving hands-on experience in data center hardware/software, network abuse and spam report handling, and equipment/software inventory management.
-<br><br>
+<br><br><br>
     
   
   
