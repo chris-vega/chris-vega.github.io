@@ -5,26 +5,38 @@ _Versatile Technologist | Digital Media Producer | Blending Technical Expertise 
 
 
 
+## 👨🏻‍💻 Certifications
+**Certified Associate in Project Management (CAPM)**  _Project Management Institute (PMI)_<br>
+**Linux+**  _CompTIA_<br>
+**Microsoft Technology Associate (MTA): Software Development (C#)**  _Microsoft_<br>
+**Web Design Specialist**  _CIW_<br>
+**AWS Partner: Technical**  _Amazon Web Services_
+<br><br>
+
+
+
 ## 👨🏻‍💻 Technical Experience
 
 **Systems Analyst / Technical Consultant** @ [Artisan Studios](https://www.artisan-studios.com) _(November 2021 - July 2023)_ <br>
   • Consulted on pivotal client projects, specializing in the strategic development of cloud-based supply chain applications<br>
-  • Assumed a central role as the go-to authority for intricate inventory-related challenges, fostering collaboration with end-users, corporate teams, and vendors for effective issue resolution<br>
-  • Spearheaded a groundbreaking initiative, extending inventory functionalities to international locations, thereby elevating global operational efficiency<br>
+  • Assumed a central role as the go-to authority for intricate inventory-related challenges, resolving intricate supply chain challenges through collaboration with 50+ cross-functional team members and vendors<br>
+  • Led comprehensive business analysis efforts, translating intricate business requirements into precise technical specifications for development teams, contributing to the successful implementation of strategic projects<br>
+  • Spearheaded inventory donation management extension to international locations, increasing operational efficiency<br>
   • Designed and maintained comprehensive documentation for seamless knowledge transfer<br>
   • Established and oversaw dynamic collaboration tools, expediting team interaction and issue resolution, while ensuring application stability through rigorous testing
   <br><br>
-  _Technologies/skills:_ business analysis, Agile, Scrum, AWS, lambda, APIs, technical requirements, vendor management
+  _Skills:_ Agile, Scrum, Jira, Confluence, ServiceNow, AWS, APIs, technical requirements, vendor management
 <br><br>
 
 **Senior Systems Analyst** @ [Howmet Aerospace](https://www.howmet.com/) (formerly Arconic, Inc.) _(August 2018 - November 2021)_ <br>
-  • Led and managed multiple web applications, ensuring timely solutions for change and project requests<br>
+  • Technical and project lead for multiple web applications, ensuring timely solutions for change and project requests<br>
+  • Led technical efforts to clone and upgrade legacy applications for day one launch of Howmet Aerospace, the newly formed entity comprised of separated business units, including the cloning of existing databases and systems to new tenants and code upgrades to ensure continuous operations on first day of business<br>
   • Collaborated across corporate teams and business units on content updates, feature implementation, and customized software solutions<br>
   • Provided end-user account administration and technical support, prioritizing customer satisfaction<br>
   • Led Compliance, Data Privacy, and Disaster Recovery efforts for the Productivity Applications team, ensuring regulatory compliance<br>
   • Contributed to the development of internal tools, optimizing efficiency and productivity
   <br><br>
-  _Technologies/skills:_ HTML, CSS, .NET, JavaScript, code review, project management, requirements gathering
+  _Skills:_ HTML, CSS, .NET, JavaScript, code review, M365, ServiceNow, project management, requirements gathering
 <br><br>
 
 **Technical Analyst** @ [Crown Castle](http://www.crowncastle.com/) _(May 2014 - Aug 2018)_ <br>
@@ -33,7 +45,7 @@ _Versatile Technologist | Digital Media Producer | Blending Technical Expertise 
   • Administered network monitoring, change management, and ticketing application suite for optimal performance<br>
   • Authored, reviewed, and maintained comprehensive NOC procedure documentation, enhancing operational efficiency
   <br><br>
-  _Technologies/skills:_ WAN, enterprise WiFi, cellular networks, dark and lit fiber services, DAS and small cell networks
+  _Skills:_ WAN, enterprise WiFi, cellular networks, dark and lit fiber services, DAS and small cell networks, NMS, EMS
 <br><br>
 
 **Fiber Customer Support Analyst** @ [Verizon](https://www.verizon.com/) _(May 2011 - Feb 2014)_ <br>
@@ -42,7 +54,7 @@ _Versatile Technologist | Digital Media Producer | Blending Technical Expertise 
   • Demonstrated expertise in prompt troubleshooting and resolution of complex small office and home office connectivity issues, ensuring high customer satisfaction<br>
   • Collaborated effectively with cross-functional teams to deliver outstanding service and resolve customer issues
   <br><br>
-  _Technologies/skills:_ LAN, IPv4, WiFi, network troubleshooting, VoIP telephony, digital video, fiber optic networks
+  _Skills:_ LAN, IPv4, WiFi, network troubleshooting, VoIP telephony, digital video, fiber optic networks
 <br><br><br>
     
   
