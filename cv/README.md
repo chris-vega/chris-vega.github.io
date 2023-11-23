@@ -1,4 +1,4 @@
-# [Chris Vega](mailto:chris@twop0intfive.xyz) 📧 <br><br>
+# [Chris Vega](mailto:chris@twop0intfive.xyz) 📧 <br>
 
 _Experienced IT Systems Analyst_ **|** _Bilingual Technical Support_ **|** _MS, IT Management | CAPM_ <br>
 [LinkedIn](https://www.linkedin.com/in/chrisevega/) / [Credly](https://www.credly.com/users/christian-vega.3c10d314/badges) / [skillsoft](https://skillsoft.digitalbadges.skillsoft.com/profile/christianvega767921/wallet) / [Pluralsight](https://app.pluralsight.com/profile/twop0intfive) <br><br>
