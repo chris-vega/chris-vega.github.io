@@ -8,20 +8,19 @@ __CAPM__ | __MS, IT Management__ | __Experienced IT Systems Analyst__ | __Biling
 
 
 
-## Professional Profile
+## 👤 Professional Profile
 Chris is an IT professional with 17 years of experience supporting applications and networks, systems analysis, and implementing technical solutions to complex business problems spanning the broadband, wireless, aerospace, and quick-service restaurant industries.<br><br>
 Chris has led numerous technical engagements to create and implement new applications and features, web development projects, and in-depth issue resolution efforts. His more recent work has centered on project management for supply chain API development and inventory and supply chain software support.
 <br><br><br>
 
 
 
-## 👨🏻‍💻 Education & Certifications
+## 👨🏻‍🎓 Education & Certifications
 [Master of Science, Information Technology Management](https://www.wgu.edu/online-it-degrees/information-technology-management-masters-program.html)  @  _Western Governors University_<br>
 [Certified Associate in Project Management (CAPM)](https://www.credly.com/badges/53d36d2b-f25e-438c-a1df-50556c585e59)  @  _Project Management Institute (PMI)_<br>
 [Linux+](https://www.credly.com/badges/522af907-eef4-43cd-8431-bb02636bd5f5)  @  _CompTIA_<br>
 [Microsoft Technology Associate (MTA): Software Development (C#)](https://www.credly.com/badges/7c19476b-a729-4cd3-9e9c-9f73289ee52d)  @  _Microsoft_<br>
 [AWS Partner: Technical](https://www.credly.com/badges/360a7bc9-5e74-44bd-8c49-c51e98bc8dfd)  @  _Amazon Web Services_<br>
-Web Design Specialist  @  _CIW_
 <br><br><br>
 
 
@@ -46,14 +45,4 @@ Web Design Specialist  @  _CIW_
   Expertise in application development and support, network and element management, and security solutions.<br><br>
   **System Administration**<br>
   Administered network monitoring, change management, and ticketing application suite for enterprise fiber and small cell networks, ensuring system uptime and optimal performance.
-<br><br><br>
-    
-  
-  
-## 🎥 Digital Media Experience
-
-**Media Producer / Production Coordinator** (freelance) _(February 2021 - present)_ <br>
-  • Skilled photographer, videographer, and editor producing high-quality digital media content for social networks<br>
-  • Provides effective communication and business management, coordinating with team members, clients, and vendors<br>
-  • Offers logistical, operational, and technical support for seamless project planning to post-production operations
 <br><br><br>
