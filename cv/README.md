@@ -1,8 +1,8 @@
 # [Chris Vega](mailto:chris@twop0intfive.xyz) 📧 <br>
 
-_CAPM_ **|** _MS, IT Management_ **|** _Experienced IT Systems Analyst_ **|** _Bilingual Technical Support_ <br>
+_CAPM_ | _MS, IT Management_ | _Experienced IT Systems Analyst_ | _Bilingual Technical Support_ <br>
 
-[LinkedIn](https://www.linkedin.com/in/chrisevega/) / [Credly](https://www.credly.com/users/christian-vega.3c10d314/badges) / [skillsoft](https://skillsoft.digitalbadges.skillsoft.com/profile/christianvega767921/wallet) / [Pluralsight](https://app.pluralsight.com/profile/twop0intfive) <br><br>
+[LinkedIn](https://www.linkedin.com/in/chrisevega/) / [Credly](https://www.credly.com/users/christian-vega.3c10d314/badges) / [skillsoft](https://skillsoft.digitalbadges.skillsoft.com/profile/christianvega767921/wallet) / [Pluralsight](https://app.pluralsight.com/profile/twop0intfive) <br><br><br>
 
 
 
@@ -13,7 +13,7 @@ _CAPM_ **|** _MS, IT Management_ **|** _Experienced IT Systems Analyst_ **|** _B
 [Microsoft Technology Associate (MTA): Software Development (C#)](https://www.credly.com/badges/7c19476b-a729-4cd3-9e9c-9f73289ee52d)  /  _Microsoft_<br>
 [AWS Partner: Technical](https://www.credly.com/badges/360a7bc9-5e74-44bd-8c49-c51e98bc8dfd)  /  _Amazon Web Services_<br>
 Web Design Specialist  /  _CIW_
-<br><br>
+<br><br><br>
 
 
 
@@ -44,7 +44,7 @@ Web Design Specialist  /  _CIW_
 ## 🎥 Digital Media Experience
 
 **Media Producer / Production Coordinator** (freelance) _(February 2021 - present)_ <br>
-  • Skilled photographer, videographer, and editor producing high-quality digital media content<br>
+  • Skilled photographer, videographer, and editor producing high-quality digital media content for social networks<br>
   • Provides effective communication and business management, coordinating with team members, clients, and vendors<br>
   • Offers logistical, operational, and technical support for seamless project planning to post-production operations
 <br><br><br>
