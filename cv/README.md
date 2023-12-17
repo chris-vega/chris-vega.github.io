@@ -19,14 +19,14 @@ Web Design Specialist  /  _CIW_
 
 ## 👨🏻‍💻 Professional Technical Experience
 
-  • **Web Application Project Management:** Led technical efforts to clone and upgrade legacy applications for remote day one launch of a newly formed entity comprised of business units separated from their previous parent corporation, including the cloning of existing databases and systems to new tenants and code upgrades to ensure continuous operations on the first day of business.
-  • **Feature Delivery:** Spearheaded inventory donation management extension project to international locations, resolving intricate supply chain challenges through collaboration with 50+ cross-functional team members and vendors, increasing global operational efficiency. 
-  • **Requirements Elicitation and Documentation:** Designed and maintained comprehensive documentation, including authoring, reviewing, and maintaining knowledge base entries as well as the implementation of dynamic collaboration tools, expediting team interaction and issue resolution, ensuring seamless knowledge transfer among team members. 
-  • **Telecommunications Industry Experience:** over ten years' experience in cable, fiber, and wireless provider network operations, supporting the delivery of business, residential, and enterprise Internet, telephony, and video services, ensuring smooth user experiences.
-  • **Agile Project Delivery:** Well-versed in Scrum methodologies and Agile project management best practices; holds Certified Associate in Project Management (CAPM) credential.
-  • **Digital Transformation:** Extensive background in Systems Architecture and Cloud Implementation.
-  • **Requirements Elicitation:** Proven ability to bridge communication gaps between stakeholders and development teams.
-  • **Application and Network Operations:** Expertise in application development and support, network and element management, and security solutions.
+  • **Web Application Project Management:** Led technical efforts to clone and upgrade legacy applications for remote day one launch of a newly formed entity comprised of business units separated from their previous parent corporation, including the cloning of existing databases and systems to new tenants and code upgrades to ensure continuous operations on the first day of business.<br>
+  • **Feature Delivery:** Spearheaded inventory donation management extension project to international locations, resolving intricate supply chain challenges through collaboration with 50+ cross-functional team members and vendors, increasing global operational efficiency.<br>
+  • **Requirements Elicitation and Documentation:** Designed and maintained comprehensive documentation, including authoring, reviewing, and maintaining knowledge base entries as well as the implementation of dynamic collaboration tools, expediting team interaction and issue resolution, ensuring seamless knowledge transfer among team members.<br> 
+  • **Telecommunications Industry Experience:** over ten years' experience in cable, fiber, and wireless provider network operations, supporting the delivery of business, residential, and enterprise Internet, telephony, and video services, ensuring smooth user experiences.<br>
+  • **Agile Project Delivery:** Well-versed in Scrum methodologies and Agile project management best practices; holds Certified Associate in Project Management (CAPM) credential.<br>
+  • **Digital Transformation:** Extensive background in Systems Architecture and Cloud Implementation.<br>
+  • **Requirements Elicitation:** Proven ability to bridge communication gaps between stakeholders and development teams.<br>
+  • **Application and Network Operations:** Expertise in application development and support, network and element management, and security solutions.<br>
   • **System Administration:** Administered network monitoring, change management, and ticketing application suite for enterprise fiber and small cell networks, ensuring system uptime and optimal performance.
 <br><br><br>
     
