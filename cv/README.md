@@ -1,23 +1,31 @@
 # [Chris Vega](mailto:chris@twop0intfive.xyz) 📧 <br>
 
-_CAPM_ | _MS, IT Management_ | _Experienced IT Systems Analyst_ | _Bilingual Technical Support_ <br>
+__CAPM__  __MS, IT Management__  __Experienced IT Systems Analyst__  __Bilingual Technical Support__ <br>
 
-[LinkedIn](https://www.linkedin.com/in/chrisevega/) / [Credly](https://www.credly.com/users/christian-vega.3c10d314/badges) / [skillsoft](https://skillsoft.digitalbadges.skillsoft.com/profile/christianvega767921/wallet) / [Pluralsight](https://app.pluralsight.com/profile/twop0intfive) <br><br><br>
-
-
-
-## 👨🏻‍💻 Education & Certifications
-[Master of Science, Information Technology Management](https://www.wgu.edu/online-it-degrees/information-technology-management-masters-program.html)  /  _Western Governors University_<br>
-[Certified Associate in Project Management (CAPM)](https://www.credly.com/badges/53d36d2b-f25e-438c-a1df-50556c585e59)  /  _Project Management Institute (PMI)_<br>
-[Linux+](https://www.credly.com/badges/522af907-eef4-43cd-8431-bb02636bd5f5)  /  _CompTIA_<br>
-[Microsoft Technology Associate (MTA): Software Development (C#)](https://www.credly.com/badges/7c19476b-a729-4cd3-9e9c-9f73289ee52d)  /  _Microsoft_<br>
-[AWS Partner: Technical](https://www.credly.com/badges/360a7bc9-5e74-44bd-8c49-c51e98bc8dfd)  /  _Amazon Web Services_<br>
-Web Design Specialist  /  _CIW_
+[LinkedIn](https://www.linkedin.com/in/chrisevega/) / [Credly](https://www.credly.com/users/christian-vega.3c10d314/badges) / [skillsoft](https://skillsoft.digitalbadges.skillsoft.com/profile/christianvega767921/wallet) / [Pluralsight](https://app.pluralsight.com/profile/twop0intfive)
 <br><br><br>
 
 
 
-## 👨🏻‍💻 Professional Technical Experience
+## Professional Profile
+Chris is an IT professional with 17 years of experience supporting applications and networks, systems analysis, and implementing technical solutions to complex business problems spanning the broadband, wireless, aerospace, and quick-service restaurant industries.<br><br>
+Chris has led numerous technical engagements to create and implement new applications and features, web development projects, and in-depth issue resolution efforts. His more recent work has centered on project management for supply chain API development and inventory and supply chain software support.
+<br><br><br>
+
+
+
+## 👨🏻‍💻 Education & Certifications
+[Master of Science, Information Technology Management](https://www.wgu.edu/online-it-degrees/information-technology-management-masters-program.html)  @  _Western Governors University_<br>
+[Certified Associate in Project Management (CAPM)](https://www.credly.com/badges/53d36d2b-f25e-438c-a1df-50556c585e59)  @  _Project Management Institute (PMI)_<br>
+[Linux+](https://www.credly.com/badges/522af907-eef4-43cd-8431-bb02636bd5f5)  @  _CompTIA_<br>
+[Microsoft Technology Associate (MTA): Software Development (C#)](https://www.credly.com/badges/7c19476b-a729-4cd3-9e9c-9f73289ee52d)  @  _Microsoft_<br>
+[AWS Partner: Technical](https://www.credly.com/badges/360a7bc9-5e74-44bd-8c49-c51e98bc8dfd)  @  _Amazon Web Services_<br>
+Web Design Specialist  @  _CIW_
+<br><br><br>
+
+
+
+## 👨🏻‍💻 Technical Experience
 
   **Web Application Project Management**<br>
   Led technical efforts to clone and upgrade legacy applications for remote day one launch of a newly formed entity comprised of business units separated from their previous parent corporation, including the cloning of existing databases and systems to new tenants and code upgrades to ensure continuous operations on the first day of business.<br><br>
