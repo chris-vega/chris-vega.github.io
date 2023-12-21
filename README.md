@@ -1,48 +1,65 @@
-# [Chris Vega](mailto:chris@twop0intfive.xyz) 📧 <br>
+# cvless
 
-__CAPM__ • __MS, IT Management__ • __Experienced IT Systems Analyst__ • __Bilingual Technical Support__
-<br>
+Cvless is a theme for static websites built with Jekyll. It aims for simplicity and readability by following best practices of graphic design, like the use of [high contrast](https://www.contrastrebellion.com), [law of proximity](https://lawsofux.com/law-of-proximity), and responsive layout. Its typography is based on the [Piazzolla system](https://piazzolla.huertatipografica.com/), which performs extremely well over a wide range of font sizes.
 
-[LinkedIn](https://www.linkedin.com/in/chrisevega/) / [Credly](https://www.credly.com/users/christian-vega.3c10d314/badges) / [skillsoft](https://skillsoft.digitalbadges.skillsoft.com/profile/christianvega767921/wallet) / [Pluralsight](https://app.pluralsight.com/profile/twop0intfive)
-<br><br><br>
+The main aesthetic feature of the theme is the use of [particles.js](https://vincentgarreau.com/particles.js/) in the home and the 404 pages. In addition, the theme includes a well-designed CV page. Printing this from browser automatically adapts the layout for a more traditional appearance, so you no longer have to maintain a separate CV for offline distribution. Finally, the theme offers a simple and easily extensible blog.
 
+Light and dark modes are available. The theme initializes based on system preferences and stores the user's preference for the duration of the session.
 
+See the [demo](https://cvless.netlify.app) to get a better sense of what the theme looks like.
 
-## 👤 Professional Profile
-Chris is an IT professional with 17 years of experience supporting applications and networks, systems analysis, and implementing technical solutions to complex business problems spanning the broadband, wireless, aerospace, and quick-service restaurant industries.<br><br>
-Chris has led numerous technical engagements to create and implement new applications and features, web development projects, and in-depth issue resolution efforts. His more recent work has centered on project management for supply chain API development and inventory and supply chain software support.
-<br><br><br>
+![](https://github.com/piazzai/cvless/blob/master/screenshot.jpg)
 
+## Installation
 
+1.  Clone this repository.
+2.  Rename it to `[username].github.io`.
+3.  Start editing!
 
-## 👨🏻‍🎓 Education & Certifications
-[Master of Science, Information Technology Management](https://www.wgu.edu/online-it-degrees/information-technology-management-masters-program.html)  @  _Western Governors University_<br>
-[Certified Associate in Project Management (CAPM)](https://www.credly.com/badges/53d36d2b-f25e-438c-a1df-50556c585e59)  @  _Project Management Institute (PMI)_<br>
-[Linux+](https://www.credly.com/badges/522af907-eef4-43cd-8431-bb02636bd5f5)  @  _CompTIA_<br>
-[Microsoft Technology Associate (MTA): Software Development (C#)](https://www.credly.com/badges/7c19476b-a729-4cd3-9e9c-9f73289ee52d)  @  _Microsoft_<br>
-[AWS Partner: Technical](https://www.credly.com/badges/360a7bc9-5e74-44bd-8c49-c51e98bc8dfd)  @  _Amazon Web Services_<br>
-<br><br><br>
+## Usage
 
+Configuration primarily occurs in four files. First, `_config.yml`, which contains site variables such as title, tagline, url, and repository address, as well as the author's name and email address for inclusion in blog posts. You can also specify the path to an avatar for inclusion in the home (optional).
 
+Second, you should update icon links in `_includes/particles-home.html` and add/remove icons as needed. You might want to add icons that are not included in the theme by default. For more information on how to do this, see [this post](https://cvless.netlify.app/2022/08/01/on-the-use-of-icons/).
 
-## 👨🏻‍💻 Technical Experience
+Third, you should customize the file `_includes/contact.html` by inputting your contact details and adding/removing lines as needed. This information is prepended to your CV.
 
-  **Web Application Project Management**<br>
-  Led technical efforts to clone and upgrade legacy applications for remote day one launch of a newly formed entity comprised of business units separated from their previous parent corporation, including the cloning of existing databases and systems to new tenants and code upgrades to ensure continuous operations on the first day of business.<br><br>
-  **Feature Delivery**<br>
-  Spearheaded inventory donation management extension project to international locations, resolving intricate supply chain challenges through collaboration with 50+ cross-functional team members and vendors, increasing global operational efficiency.<br><br>
-  **Requirements Elicitation and Documentation**<br>
-  Designed and maintained comprehensive documentation, including authoring, reviewing, and maintaining knowledge base entries as well as the implementation of dynamic collaboration tools, expediting team interaction and issue resolution, ensuring seamless knowledge transfer among team members.<br><br>
-  **Telecommunications Industry Experience**<br>
-  Over ten years' experience in cable, fiber, and wireless provider network operations, supporting the delivery of business, residential, and enterprise Internet, telephony, and video services, ensuring smooth user experiences.<br><br>
-  **Agile Project Delivery**<br>
-  Well-versed in Scrum methodologies and Agile project management best practices; holds Certified Associate in Project Management (CAPM) credential.<br><br>
-  **Digital Transformation:**<br>
-  Extensive background in Systems Architecture and Cloud Implementation.<br><br>
-  **Requirements Elicitation**<br>
-  Proven ability to bridge communication gaps between stakeholders and development teams.<br><br>
-  **Application and Network Operations**<br>
-  Expertise in application development and support, network and element management, and security solutions.<br><br>
-  **System Administration**<br>
-  Administered network monitoring, change management, and ticketing application suite for enterprise fiber and small cell networks, ensuring system uptime and optimal performance.
-<br><br><br>
+Fourth, you might want to edit the style variables specified in `_sass/_variables.scss`. These allow you to customize the theme's color scheme and typefaces. There are many resources on the web to learn the principles of good web design. I personally recommend Matthew Butterick's [Practical Typography](https://practicaltypography.com/websites.html).
+
+In addition to these files, you can customize favicons in the `assets` folder. For that, [favicon.io](https://favicon.io/) is an excellent tool. You can also change the particles.js configurations in `assets/json`. The [library homepage](https://vincentgarreau.com/particles.js/) features an interactive tool from which you can export a new configuration.
+
+## Local Development
+
+This repo includes a docker-compose file that allows you to quickly setup a container running Jekyll. If you don't already have Docker and docker-compose installed, you can install them using the following guides:
+
+**Install Guides**
+* [Docker](https://docs.docker.com/get-docker/)
+* [docker-compose](https://docs.docker.com/compose/install/)
+
+To start the container simply run:
+
+```
+docker-compose up
+```
+
+Alternatively you can run the container without docker-compose using this command on iOS/Linux:
+
+```
+docker run -p 4000:4000 -v $(pwd):/site bretfisher/jekyll-serve
+```
+
+## Credits
+
+The theme draws in one way or another from the following projects:
+
+-   [Bootstrap](https://getbootstrap.com/)
+-   [Hack](https://sourcefoundry.org/hack/)
+-   [Iconoir](https://iconoir.com/)
+-   [Open Color](https://yeun.github.io/open-color/)
+-   [Particles.js](https://vincentgarreau.com/particles.js/)
+-   [Piazzolla](https://piazzolla.huertatipografica.com/)
+-   [Poole](https://getpoole.com/)
+
+## Bugs
+
+If you find any problem using this theme, please [open an issue](https://github.com/piazzai/cvless/issues).
