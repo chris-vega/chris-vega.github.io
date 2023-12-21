@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CV's CV
+title: Home
 ---
 <!--
 [Click here](/cv) to see the full CV, and [here](/cv.pdf) to download a print version. The theme also ships with a blog: [click here](/posts) to scroll posts from the most recent. Finally, [click here](/404) to see a page that can't be found.
