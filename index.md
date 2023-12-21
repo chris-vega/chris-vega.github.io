@@ -2,10 +2,10 @@
 layout: home
 title: Home
 ---
-
+<!--
 [Click here](/cv) to see the full CV, and [here](/cv.pdf) to download a print version. The theme also ships with a blog: [click here](/posts) to scroll posts from the most recent. Finally, [click here](/404) to see a page that can't be found.
 <br><br><br>
-
+-->
 
 
 ## 👤 Professional Profile
@@ -47,4 +47,6 @@ Chris has led numerous technical engagements to create and implement new applica
   Administered network monitoring, change management, and ticketing application suite for enterprise fiber and small cell networks, ensuring system uptime and optimal performance.
 <br><br><br>
 
+<!--
 {% include archive.html %}
+-->
