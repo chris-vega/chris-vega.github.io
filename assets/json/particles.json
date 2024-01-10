@@ -4,7 +4,7 @@
       "value": 20,
       "density": {
         "enable": true,
-        "value_area": 1000
+        "value_area": 800
       }
     },
     "color": {
@@ -42,7 +42,7 @@
       "straight": false,
       "out_mode": "out",
       "attract": {
-        "enable": false
+        "enable": true
       }
     }
   },
