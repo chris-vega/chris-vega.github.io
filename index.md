@@ -19,7 +19,7 @@ Chris has led numerous technical engagements to create and implement new applica
 [Master of Science, Information Technology Management](https://www.wgu.edu/online-it-degrees/information-technology-management-masters-program.html) <br>@  _Western Governors University_<br>
 [Certified Associate in Project Management (CAPM)](https://www.credly.com/badges/53d36d2b-f25e-438c-a1df-50556c585e59) <br> @  _Project Management Institute (PMI)_<br>
 [Linux+](https://www.credly.com/badges/522af907-eef4-43cd-8431-bb02636bd5f5)  @  _CompTIA_<br>
-[Microsoft Technology Associate (MTA): Software Development (C#)](https://www.credly.com/badges/7c19476b-a729-4cd3-9e9c-9f73289ee52d)  @  _Microsoft_<br>
+[Microsoft Technology Associate (MTA): Software Development (C#)](https://www.credly.com/badges/7c19476b-a729-4cd3-9e9c-9f73289ee52d) <br> @  _Microsoft_<br>
 [AWS Partner: Technical](https://www.credly.com/badges/360a7bc9-5e74-44bd-8c49-c51e98bc8dfd)  @  _Amazon Web Services_<br>
 <br><br>
 
