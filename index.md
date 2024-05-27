@@ -9,10 +9,12 @@ title: Home
 
 
 ## 👤 Professional Profile
-Chris is an IT professional with 17 years of experience supporting applications and networks, systems analysis, and implementing technical solutions to complex business problems spanning the broadband, wireless, aerospace, and quick-service restaurant industries.<br><br>
-Chris has led numerous technical engagements to create and implement new applications and features, web development projects, and in-depth issue resolution efforts. His more recent work has centered on project management for supply chain API development and inventory and supply chain software support.
+Chris is an IT professional with over 17 years of experience supporting applications and networks, systems analysis, and implementing technical solutions to complex business problems across diverse industries, including wireline and wireless broadband providers, aerospace, and financial services.
 <br><br>
-
+With a strong background in project management and technical leadership, Chris excels in collaborating with cross-functional teams to drive innovation and ensure the resilience of technology infrastructure. His expertise spans web application project management, feature delivery, requirements elicitation, and documentation.
+<br><br>
+In his most recent role, Chris collaborates closely with application teams and Subject Matter Experts to enhance technology resilience. He reviews architectural diagrams, identifies gaps, and develops comprehensive mitigation strategies, testing plans, and documentation to facilitate effective communication and understanding across teams.
+<br><br>
 
 
 ## 👨🏻‍🎓 Education & Certifications
@@ -28,24 +30,21 @@ Chris has led numerous technical engagements to create and implement new applica
 ## 👨🏻‍💻 Technical Experience
 
   **Web Application Project Management**<br>
-  Led technical efforts to clone and upgrade legacy applications for remote day one launch of a newly formed entity comprised of business units separated from their previous parent corporation, including the cloning of existing databases and systems to new tenants and code upgrades to ensure continuous operations on the first day of business.<br><br>
+  Led technical efforts to clone and upgrade legacy applications for remote day one launch of a newly formed entity, ensuring continuous operations and seamless transition.<br><br>
   **Feature Delivery**<br>
-  Spearheaded inventory donation management extension project to international locations, resolving intricate supply chain challenges through collaboration with 50+ cross-functional team members and vendors, increasing global operational efficiency.<br><br>
+  Spearheaded inventory donation management extension project to international locations, resolving intricate supply chain challenges and increasing global operational efficiency.<br><br>
   **Requirements Elicitation and Documentation**<br>
-  Designed and maintained comprehensive documentation, including authoring, reviewing, and maintaining knowledge base entries as well as the implementation of dynamic collaboration tools, expediting team interaction and issue resolution, ensuring seamless knowledge transfer among team members.<br><br>
+  Designed and maintained comprehensive documentation, expediting team interaction and issue resolution for seamless knowledge transfer.<br><br>
   **Telecommunications Industry Experience**<br>
-  Over ten years' experience in cable, fiber, and wireless provider network operations, supporting the delivery of business, residential, and enterprise Internet, telephony, and video services, ensuring smooth user experiences.<br><br>
+  Over ten years’ experience in cable, fiber, and wireless provider network operations, ensuring smooth user experiences for business, residential, and enterprise clients.<br><br>
   **Agile Project Delivery**<br>
-  Well-versed in Scrum methodologies and Agile project management best practices; holds Certified Associate in Project Management (CAPM) credential.<br><br>
+  Well-versed in Scrum methodologies and Agile project management best practices, facilitating efficient project delivery.<br><br>
   **Digital Transformation:**<br>
   Extensive background in Systems Architecture and Cloud Implementation.<br><br>
   **Requirements Elicitation**<br>
   Proven ability to bridge communication gaps between stakeholders and development teams.<br><br>
   **Application and Network Operations**<br>
   Expertise in application development and support, network and element management, and security solutions.<br><br>
-  **System Administration**<br>
-  Administered network monitoring, change management, and ticketing application suite for enterprise fiber and small cell networks, ensuring system uptime and optimal performance.
-<br><br>
 
 <!--
 {% include archive.html %}
