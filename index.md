@@ -13,7 +13,7 @@ Chris is an IT professional with over 17 years of experience supporting applicat
 <br><br>
 With a strong background in project management and technical leadership, Chris excels in collaborating with cross-functional teams to drive innovation and ensure the resilience of technology infrastructure. His expertise spans web application project management, feature delivery, requirements elicitation, and documentation.
 <br><br>
-In his most recent role, Chris collaborates closely with application teams and Subject Matter Experts to enhance technology resilience. He reviews architectural diagrams, identifies gaps, and develops comprehensive mitigation strategies, testing plans, and documentation to facilitate effective communication and understanding across teams.
+In his current role, Chris collaborates closely with application teams and Subject Matter Experts to enhance technology resilience. He reviews architectural diagrams, identifies gaps, and develops comprehensive mitigation strategies, testing plans, and documentation to facilitate effective communication and understanding across teams.
 <br><br>
 
 
