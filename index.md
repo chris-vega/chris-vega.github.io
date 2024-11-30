@@ -43,7 +43,7 @@ In his current role, Chris collaborates closely with application teams and Subje
   Spearheaded inventory donation management extension project to international locations, resolving intricate supply chain challenges and increasing global operational efficiency.<br><br>
   
   **Requirements Elicitation and Documentation**<br>
-  Designed and maintained comprehensive documentation, expediting team interaction and issue resolution for seamless knowledge transfer.<br><br>
+  Designs and maintains comprehensive documentation, expediting team interaction and issue resolution for seamless knowledge transfer.<br><br>
 
 <!--
 {% include archive.html %}
