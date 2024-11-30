@@ -24,24 +24,26 @@ In his current role, Chris collaborates closely with application teams and Subje
 <br><br>
 
 
-## 👨🏻‍💻 Technical Experience
+## 👨🏻‍💻 Career & Skill Highlights
 
-  **Web Application Project Management**<br>
-  Led technical efforts to clone and upgrade legacy applications for the remote day-one launch of a newly formed entity, ensuring continuous operations and seamless transition.<br><br>
-  **Feature Delivery**<br>
-  Spearheaded inventory donation management extension project to international locations, resolving intricate supply chain challenges and increasing global operational efficiency.<br><br>
-  **Requirements Elicitation and Documentation**<br>
-  Designed and maintained comprehensive documentation, expediting team interaction and issue resolution for seamless knowledge transfer.<br><br>
-  **Telecommunications Industry Experience**<br>
-  Over ten years of experience in cable, fiber, and wireless provider network operations, ensuring smooth user experiences for business, residential, and enterprise clients.<br><br>
-  **Agile Project Delivery**<br>
-  Well-versed in Scrum methodologies and Agile project management best practices, facilitating efficient project delivery.<br><br>
-  **Digital Transformation**<br>
-  Extensive background in Systems Architecture and Cloud Implementation.<br><br>
-  **Requirements Elicitation**<br>
-  Proven ability to bridge communication gaps between stakeholders and development teams.<br><br>
+  
+  **Agile and Waterfall Project Delivery**<br>
+  Well-versed in traditional project management styles as well as Scrum methodologies and Agile best practices, facilitating efficient project delivery across diverse environments.<br><br>
+  
   **Application and Network Operations**<br>
   Expertise in application development and support, network and element management, and security solutions.<br><br>
+
+  **Digital Transformation**<br>
+  Extensive background in Systems Architecture and Cloud Implementation.<br><br>
+  
+  **Leadership Experience With Large Initiatives**<br>
+  Led technical efforts to clone and upgrade legacy applications for the remote day-one launch of a newly formed entity, ensuring continuous operations and seamless transition.<br><br>
+  
+  **Global Feature Delivery**<br>
+  Spearheaded inventory donation management extension project to international locations, resolving intricate supply chain challenges and increasing global operational efficiency.<br><br>
+  
+  **Requirements Elicitation and Documentation**<br>
+  Designed and maintained comprehensive documentation, expediting team interaction and issue resolution for seamless knowledge transfer.<br><br>
 
 <!--
 {% include archive.html %}
