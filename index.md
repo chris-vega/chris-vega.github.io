@@ -11,13 +11,14 @@ title: Home
 ## 👤 Professional Profile
 Chris is an IT professional with over fifteen years of experience supporting applications and networks, systems analysis, and implementing technical solutions to complex business problems across diverse industries, including wireline and wireless broadband providers, aerospace, and financial services.
 <br><br>
-With a strong background in project management and technical leadership, Chris excels in collaborating with cross-functional teams to drive innovation and ensure the resilience of technology infrastructure. His expertise spans web application project management, feature delivery, requirements elicitation, and documentation.
+With a strong background in project management and technical leadership, Chris excels in collaborating with cross-functional teams to drive innovation and ensure the resilience of technology infrastructure. His expertise spans web application project management, network operations, feature delivery, requirements elicitation, and documentation.
 <br><br>
-In his current role, Chris collaborates closely with application teams and Subject Matter Experts to enhance technology resilience. He reviews architectural diagrams, identifies gaps, and develops comprehensive mitigation strategies, testing plans, and documentation to facilitate effective communication and understanding across teams.
+In his current role, Chris works with third-party partners to strengthen technology resilience and business continuity. He evaluates partner processes, identifies improvement opportunities, and facilitates workshops to assess capabilities and foster collaboration. Chris also leads projects, produces detailed documentation, and ensures alignment between external partners and internal teams.
 <br><br>
 
 
 ## 👨🏻‍🎓 Education & Certifications
+[Master of Business Administration, Information Technology Management](https://www.wgu.edu/online-business-degrees/mba-masters-business-administration-it-management-program.html) @ _Western Governors University_ - expected completion in 2025 <br> 
 [Master of Science, Information Technology Management](https://www.wgu.edu/online-it-degrees/information-technology-management-masters-program.html) @ _Western Governors University_ <br>
 [Certified Associate in Project Management (CAPM)](https://www.credly.com/badges/53d36d2b-f25e-438c-a1df-50556c585e59) @ _Project Management Institute (PMI)_ <br>
 [Linux+](https://www.credly.com/badges/522af907-eef4-43cd-8431-bb02636bd5f5) @ _CompTIA_
