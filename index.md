@@ -18,10 +18,10 @@ In his current role, Chris works with third-party partners to strengthen technol
 
 
 ## 👨🏻‍🎓 Education & Certifications
-<a href="https://www.wgu.edu/online-business-degrees/mba-masters-business-administration-it-management-program.html" target="_blank" rel="noopener noreferrer">Master of Business Administration, Information Technology Management</a> @ _Western Governors University_ - expected completion in 2025 <br> 
-[Master of Science, Information Technology Management](https://www.wgu.edu/online-it-degrees/information-technology-management-masters-program.html) @ _Western Governors University_ <br>
-[Certified Associate in Project Management (CAPM)](https://www.credly.com/badges/53d36d2b-f25e-438c-a1df-50556c585e59) @ _Project Management Institute (PMI)_ <br>
-[Linux+](https://www.credly.com/badges/522af907-eef4-43cd-8431-bb02636bd5f5) @ _CompTIA_
+<a href="https://www.wgu.edu/online-business-degrees/mba-masters-business-administration-it-management-program.html" target="_blank" rel="noopener noreferrer">Master of Business Administration, Information Technology Management</a> @ _Western Governors University_ (2025) <br>
+<a href="https://www.wgu.edu/online-it-degrees/information-technology-management-masters-program.html" target ="_blank" rel="noopener noreferrer">Master of Science, Information Technology Management</a> @ _Western Governors University_ <br>
+<a href="https://www.credly.com/badges/53d36d2b-f25e-438c-a1df-50556c585e59" target ="_blank" rel="noopener noreferrer">Certified Associate in Project Management (CAPM)</a> @ _Project Management Institute (PMI)_ <br>
+<a href="https://www.credly.com/badges/522af907-eef4-43cd-8431-bb02636bd5f5" target ="_blank" rel="noopener noreferrer">Linux+</a> @ _CompTIA_ <br>
 <br><br>
 
 
