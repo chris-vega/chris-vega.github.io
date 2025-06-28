@@ -9,42 +9,50 @@ title: Home
 
 
 ## 👤 Professional Profile
-Chris is an IT professional with over fifteen years of experience supporting applications and networks, systems analysis, and implementing technical solutions to complex business problems across diverse industries, including wireline and wireless broadband providers, aerospace, and financial services.
+Chris is an experienced technology professional with over fifteen years of success delivering systems analysis, operational risk mitigation, and technical consulting in high-stakes, compliance-driven environments. He has contributed across diverse industries—including telecommunications, aerospace, food supply chain, and financial services—building a track record of translating complex business needs into resilient, secure technology solutions.
 <br><br>
-With a strong background in project management and technical leadership, Chris excels in collaborating with cross-functional teams to drive innovation and ensure the resilience of technology infrastructure. His expertise spans web application project management, network operations, feature delivery, requirements elicitation, and documentation.
+In his current role, Chris leads initiatives to improve technology interoperability and business continuity for a major financial institution. He evaluates third-party partner systems, analyzes architectural gaps, and facilitates collaborative workshops to define actionable requirements and risk-reduction strategies. His work has directly supported enterprise-level recovery planning, streamlined partner alignment, and improved system resilience across critical applications.
 <br><br>
-In his current role, Chris works with third-party partners to strengthen technology resilience and business continuity. He evaluates partner processes, identifies improvement opportunities, and facilitates workshops to assess capabilities and foster collaboration. Chris also leads projects, produces detailed documentation, and ensures alignment between external partners and internal teams.
+With strong skills in stakeholder engagement, technical documentation, and project execution across Agile and Waterfall environments, Chris specializes in initiatives that require both strategic thinking and hands-on delivery. He is fluent in English and Spanish, holds multiple certifications, and brings a calm, solutions-focused mindset to complex, cross-functional projects.
 <br><br>
 
 
 ## 👨🏻‍🎓 Education & Certifications
-<a href="https://www.wgu.edu/online-business-degrees/mba-masters-business-administration-it-management-program.html" target="_blank" rel="noopener noreferrer">Master of Business Administration, Information Technology Management</a> @ _Western Governors University_ (2025) <br>
+<a href="https://www.wgu.edu/online-business-degrees/mba-masters-business-administration-it-management-program.html" target="_blank" rel="noopener noreferrer">Master of Business Administration, Information Technology Management</a> @ _Western Governors University_ (2024-2026) <br>
 <a href="https://www.wgu.edu/online-it-degrees/information-technology-management-masters-program.html" target ="_blank" rel="noopener noreferrer">Master of Science, Information Technology Management</a> @ _Western Governors University_ <br>
 <a href="https://www.credly.com/badges/53d36d2b-f25e-438c-a1df-50556c585e59" target ="_blank" rel="noopener noreferrer">Certified Associate in Project Management (CAPM)</a> @ _Project Management Institute (PMI)_ <br>
 <a href="https://www.credly.com/badges/522af907-eef4-43cd-8431-bb02636bd5f5" target ="_blank" rel="noopener noreferrer">Linux+</a> @ _CompTIA_ <br>
+<a href="https://www.credly.com/org/microsoft/badge/mta-software-development-fundamentals" target ="_blank" rel="noopener noreferrer">MTA: Software Development Fundamentals (C#)</a> @ _Microsoft_ <br>
+<a href="https://www.credly.com/badges/32eb7e50-3af2-4f02-86d0-c3c42fdf09f9" target ="_blank" rel="noopener noreferrer">Web Design Specialist</a> @ _CIW_ <br>
 <br><br>
 
 
 ## 👨🏻‍💻 Career & Skill Highlights
 
   
-  **Agile and Waterfall Project Delivery**<br>
-  Well-versed in traditional project management styles as well as Scrum methodologies and Agile best practices, facilitating efficient project delivery across diverse environments.<br><br>
-  
-  **Application and Network Operations**<br>
-  Expertise in application development and support, network and element management, and security solutions.<br><br>
+  **Technology Resilience & Risk Reduction**<br>
+  Leads application and infrastructure resilience initiatives at scale, reducing recovery time objectives (RTO) and aligning partner systems with enterprise business continuity plans.<br><br>
 
-  **Digital Transformation**<br>
-  Extensive background in Systems Architecture and Cloud Implementation.<br><br>
-  
-  **Leadership Experience With Large Initiatives**<br>
-  Led technical efforts to clone and upgrade legacy applications for the remote day-one launch of a newly formed entity, ensuring continuous operations and seamless transition.<br><br>
-  
-  **Global Feature Delivery**<br>
-  Spearheaded inventory donation management extension project to international locations, resolving intricate supply chain challenges and increasing global operational efficiency.<br><br>
-  
-  **Requirements Elicitation and Documentation**<br>
-  Designs and maintains comprehensive documentation, expediting team interaction and issue resolution for seamless knowledge transfer.<br><br>
+  **Cross-Team Facilitation & Documentation**<br>
+  Skilled in stakeholder engagement, workshop facilitation, and technical documentation using Confluence, SharePoint, and ServiceNow.<br><br>
+
+  **Agile and Waterfall Project Delivery**<br>
+  Experienced delivering complex systems integration and feature rollouts in both Agile and traditional project environments using Jira and related tools.<br><br>
+
+  **Cloud and Systems Architecture**<br>
+  Consulted on AWS-based application architecture for large-scale food supply chain platforms, aligning cloud solutions with evolving business requirements.<br><br>
+
+  **Global Feature Implementation**<br>
+  Spearheaded international rollout of inventory donation systems, improving data accuracy and operational efficiency across distributed sites.<br><br>
+
+  **Legacy System Modernization**<br>
+  Led legacy system cloning and upgrades to enable day-one operations following corporate divestiture, ensuring continuity across business-critical systems.<br><br>
+
+  **Network & Application Operations**<br>
+  Background includes NOC operations, network monitoring, and Tier 2 technical support across enterprise platforms and ISP-level infrastructure.<br><br>
+
+  **Bilingual Technical Communication**<br>
+  Fluent in both English and Spanish, with a strong ability to bridge technical and business domains across diverse teams.<br><br>
 
 <!--
 {% include archive.html %}
