@@ -22,9 +22,7 @@ With strong skills in stakeholder engagement, technical documentation, and proje
 <a href="https://www.wgu.edu/online-it-degrees/information-technology-management-masters-program.html" target ="_blank" rel="noopener noreferrer">Master of Science, Information Technology Management</a> @ _Western Governors University_ <br>
 <a href="https://www.credly.com/badges/53d36d2b-f25e-438c-a1df-50556c585e59" target ="_blank" rel="noopener noreferrer">Certified Associate in Project Management (CAPM)</a> @ _Project Management Institute (PMI)_ <br>
 <a href="https://www.credly.com/badges/522af907-eef4-43cd-8431-bb02636bd5f5" target ="_blank" rel="noopener noreferrer">Linux+</a> @ _CompTIA_ <br>
-<a href="https://www.credly.com/org/microsoft/badge/mta-software-development-fundamentals" target ="_blank" rel="noopener noreferrer">MTA: Software Development Fundamentals (C#)</a> @ _Microsoft_ <br>
-<a href="https://www.credly.com/badges/32eb7e50-3af2-4f02-86d0-c3c42fdf09f9" target ="_blank" rel="noopener noreferrer">Web Design Specialist</a> @ _CIW_ <br>
-<br><br>
+<a href="https://www.credly.com/earner/earned/badge/7c19476b-a729-4cd3-9e9c-9f73289ee52d" target ="_blank" rel="noopener noreferrer">MTA: Software Development Fundamentals (C#)</a> @ _Microsoft_ <br>
 
 
 ## 👨🏻‍💻 Career & Skill Highlights
