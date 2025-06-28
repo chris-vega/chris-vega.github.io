@@ -1,8 +1,8 @@
 # site settings
 
 title: Chris Vega
-description: Certified & Experienced Systems and Project Analyst • MS, IT Management • Bilingual!
-taglong: Certified & Experienced Systems and Project Analyst • MS, IT Management • Bilingual!
+description: Senior Business Systems Analyst • MBA & MS in IT Management • Bilingual (English/Spanish)
+taglong: Senior Business Systems Analyst • MBA & MS in IT Management • Bilingual (English/Spanish)
 tagshort: CV's CV
 url: https://chris-vega.github.io
 baseurl: ""
@@ -13,7 +13,7 @@ repo: https://github.com/chris-vega/chris-vega.github.io
 
 author:
   name: Chris Vega
-  email: hola@twop0intfive.xyz
+  email: employment@chris-vega.us
 photo: /assets/jpg/photo.jpg
 
 # social media links
