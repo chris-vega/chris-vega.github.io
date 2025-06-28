@@ -14,7 +14,7 @@ Chris is an experienced technology professional with over fifteen years of succe
 In his current role, Chris leads initiatives to improve technology interoperability and business continuity for a major financial institution. He evaluates third-party partner systems, analyzes architectural gaps, and facilitates collaborative workshops to define actionable requirements and risk-reduction strategies. His work has directly supported enterprise-level recovery planning, streamlined partner alignment, and improved system resilience across critical applications.
 <br><br>
 With strong skills in stakeholder engagement, technical documentation, and project execution across Agile and Waterfall environments, Chris specializes in initiatives that require both strategic thinking and hands-on delivery. He is fluent in English and Spanish, holds multiple certifications, and brings a calm, solutions-focused mindset to complex, cross-functional projects.
-<br><br>
+<br><br><br>
 
 
 ## 👨🏻‍🎓 Education & Certifications
@@ -22,7 +22,7 @@ With strong skills in stakeholder engagement, technical documentation, and proje
 <a href="https://www.wgu.edu/online-it-degrees/information-technology-management-masters-program.html" target ="_blank" rel="noopener noreferrer">Master of Science, Information Technology Management</a> @ _Western Governors University_ <br>
 <a href="https://www.credly.com/badges/53d36d2b-f25e-438c-a1df-50556c585e59" target ="_blank" rel="noopener noreferrer">Certified Associate in Project Management (CAPM)</a> @ _Project Management Institute (PMI)_ <br>
 <a href="https://www.credly.com/badges/522af907-eef4-43cd-8431-bb02636bd5f5" target ="_blank" rel="noopener noreferrer">Linux+</a> @ _CompTIA_ <br>
-<a href="https://www.credly.com/earner/earned/badge/7c19476b-a729-4cd3-9e9c-9f73289ee52d" target ="_blank" rel="noopener noreferrer">MTA: Software Development Fundamentals (C#)</a> @ _Microsoft_ <br>
+<a href="https://www.credly.com/earner/earned/badge/7c19476b-a729-4cd3-9e9c-9f73289ee52d" target ="_blank" rel="noopener noreferrer">MTA: Software Development Fundamentals (C#)</a> @ _Microsoft_ <br><br><br>
 
 
 ## 👨🏻‍💻 Career & Skill Highlights
