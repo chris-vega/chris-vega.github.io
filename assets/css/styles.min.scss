@@ -1,15 +1,11 @@
 ---
-# Use a comment to ensure Jekyll reads the file to be transformed into CSS later
-# only main files contain this front matter, not partials.
 ---
 
-@import "fonts";
+// 1. Import the Neo-Brutalist variables we defined.
 @import "variables";
+
+// 2. Import the base styles (body, container, links).
 @import "base";
-@import "code";
-@import "headings";
+
+// 3. Import the element styles (header, footer).
 @import "elements";
-@import "particles";
-@import "pulse";
-@import "pagination";
-@import "media";
