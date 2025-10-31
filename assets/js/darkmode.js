@@ -57,3 +57,5 @@ if (theme === "dark") {
   sessionStorage.setItem("theme", "light");
   document.getElementById("theme-toggle").innerHTML = moon;
 }
+
+// The extra "}" at the end of this file has been removed.
