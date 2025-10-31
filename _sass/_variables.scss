@@ -1,25 +1,36 @@
 /* ========================================
- * NEO-BRUTALIST VARIABLES
+ * NEO-BRUTALIST VARIABLES (WITH DARK MODE)
  * ========================================
 */
 
-// 1. Color Palette
+// 1. Light Mode (Default)
 :root {
-    --bg-color: #FFFF00;       /* Bright yellow background */
-    --page-bg: #FFFFFF;        /* White for the main page content */
+    --bg-color: #F0F0F0;       /* Light gray background */
+    --page-bg: #FFFFFF;        /* White content box */
     --text-color: #000000;       /* Black text */
     --border-color: #000000;     /* Black borders */
-    --accent-color: #0000FF;     /* Electric blue accent */
+    --accent-color: #0000FF;     /* Electric blue */
     --hard-shadow: 8px 8px 0px var(--border-color);
     --hard-shadow-hover: 12px 12px 0px var(--border-color);
 }
 
-// 2. Fonts
+// 2. Dark Mode (Toggled by darkmode.js)
+[data-theme="dark"] {
+    --bg-color: #1a1a1a;       /* Very dark gray background */
+    --page-bg: #333333;        /* Dark content box */
+    --text-color: #FFFFFF;       /* White text */
+    --border-color: #FFFFFF;     /* White borders */
+    --accent-color: #87CEFA;     /* Light blue accent */
+    --hard-shadow: 8px 8px 0px var(--border-color);
+    --hard-shadow-hover: 12px 12px 0px var(--border-color);
+}
+
+// 3. Fonts
 $font-family-base: 'Arial', 'Helvetica', sans-serif;
 $font-family-headings: 'Arial', 'Helvetica', sans-serif;
 $font-family-mono: 'Courier New', Courier, monospace;
 
-// 3. (Optional) Keep old variables for Jekyll compatibility
+// 4. Jekyll Theme Compatibility
 $color-bg: var(--bg-color);
 $color-text: var(--text-color);
 $color-headings: var(--text-color);
@@ -28,8 +39,6 @@ $color-links-hover: var(--text-color);
 $color-accent: var(--accent-color);
 $color-primary: var(--accent-color);
 $color-border: var(--border-color);
-
-// Bootstrap variable overrides
 $body-bg: var(--bg-color);
 $body-color: var(--text-color);
 $link-color: var(--accent-color);
