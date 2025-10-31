@@ -100,3 +100,65 @@ a.reversefootnote {
     border: none;
   }
 }
+
+/* ========================================
+ * NEO-BRUTALIST PORTFOLIO ELEMENTS
+ * ========================================
+*/
+
+// 1. Button Style
+.btn-neo {
+    display: inline-block;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 0.75rem 1.5rem;
+    background-color: var(--accent-color);
+    color: var(--page-bg);
+    border: 2px solid var(--border-color);
+    box-shadow: 4px 4px 0px var(--border-color);
+    transition: all 0.2s ease;
+
+    &:hover {
+        background-color: var(--text-color);
+        color: var(--accent-color);
+        box-shadow: 6px 6px 0px var(--border-color);
+        transform: translate(-2px, -2px);
+    }
+}
+
+// 2. Project Grid Styles
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+    padding: 0;
+    list-style: none; // Remove bullets
+    margin-top: 2rem;
+}
+
+// 3. Project Card Styles
+.project-card {
+    border: 2px solid var(--border-color);
+    background: var(--page-bg);
+    box-shadow: var(--hard-shadow);
+    transition: all 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    padding: 1.5rem;
+
+    &:hover {
+        transform: translate(-4px, -4px);
+        box-shadow: var(--hard-shadow-hover);
+    }
+    
+    // Make content fill height
+    .project-card-content {
+        flex-grow: 1;
+    }
+    
+    // Align button to the bottom
+    .project-card-actions {
+        margin-top: 1rem;
+    }
+}
