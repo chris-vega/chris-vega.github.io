@@ -1,7 +1,5 @@
 /* ========================================
  * NEO-BRUTALIST BASE STYLES
- * We are REPLACING the old 'body' and 'a' styles
- * and ADDING the '.container' style.
  * ========================================
 */
 
@@ -92,5 +90,5 @@ img {
 }
 
 table.table {
-  color: var(--color-text);
+  color: var(--text-color);
 }
