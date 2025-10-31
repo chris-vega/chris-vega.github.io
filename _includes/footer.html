@@ -1,4 +1,8 @@
-<footer>
-  <small>&copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>
-    {{ site.author.name }}. All rights reserved.</small>
+<footer class="site-footer">
+  <small>
+    &copy; {{ site.time | date: '%Y' }} {{ site.author }}.
+    <a href="{{ site.data.social.github.link }}" target="_blank" rel="noopener noreferrer">GitHub</a>
+    &bull;
+    <a href="{{ site.data.social.linkedin.link }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+  </small>
 </footer>

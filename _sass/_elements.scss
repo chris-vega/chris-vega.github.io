@@ -1,5 +1,5 @@
 /* ========================================
- * NEO-BRUTALIST CV PAGE HEADER
+ * NEO-BRUTALIST GLOBAL HEADER
  * ========================================
 */
 .cv-header {
@@ -48,6 +48,35 @@
     &:hover {
         color: var(--text-color);
         background-color: var(--bg-color);
+    }
+  }
+}
+
+/* ========================================
+ * NEO-BRUTALIST SITE FOOTER
+ * ========================================
+*/
+.site-footer {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  // Uses the border-color variable
+  border-top: 2px solid var(--border-color);
+  
+  small {
+    font-size: 0.9rem;
+    // Uses the text-color variable
+    color: var(--text-color);
+  }
+
+  // Style the new footer links
+  a {
+    font-weight: bold;
+    text-decoration: none;
+    // Uses the accent-color variable
+    color: var(--accent-color);
+    &:hover {
+      color: var(--text-color);
+      background-color: var(--bg-color);
     }
   }
 }
