@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/twop0intfive
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://chris-vega.github.io
+  * I am twop0intfive (https://keybase.io/twop0intfive) on keybase.
+  * I have a public key ASBCB3bqpeR1Det6vY5exqHeWIiVowh2dUndWZy5lh0Wiwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120420776eaa5e4750deb7abd8e5ec6a1de588895a308767549dd599cb9961d168b0a",
+      "host": "keybase.io",
+      "kid": "0120420776eaa5e4750deb7abd8e5ec6a1de588895a308767549dd599cb9961d168b0a",
+      "uid": "62407e8b133f247b92f82cdbfc923719",
+      "username": "twop0intfive"
+    },
+    "merkle_root": {
+      "ctime": 1704813168,
+      "hash": "e01146199712ad0718943c7d46ba2e492e1fb04c51e5dcd46d25a753b29cc65bdfbb3799a056705fae10df953a9c3ea0050082c6fa1498b881942090c1f184ed",
+      "hash_meta": "fcd7f0deb6fda2a200fbd51938f070f38432f2593f7aa302bee03996cf508c45",
+      "seqno": 25326634
+    },
+    "service": {
+      "entropy": "MxjP5Suo3e/WdMRMYo3gGlBb",
+      "hostname": "chris-vega.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.6"
+  },
+  "ctime": 1704813232,
+  "expire_in": 504576000,
+  "prev": "3322eb9d4e53cc4f0857fcfec5e130ba8e926dcd1544f1fb705674e756c52851",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQgd26qXkdQ3rer2OXsah3liIlaMIdnVJ3VmcuZYdFosKp3BheWxvYWTESpcCB8QgMyLrnU5TzE8IV/z+xeEwuo6Sbc0VRPH7cFZ051bFKFHEIP6UHN4YiwqKBBqWca/5UCTs7cUsFpMWyWCVVSijyx33AgHCo3NpZ8RAQJHGM+mzEB1BnTkzHuMipN9SHuUs11EiMGkCFH5ckyWUtLnbRb8SHpiFCiM1Drl/s6hQjzpRdFlwY0YsO9pXC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIK/KMQNjEUgFBKwBXJCM6eeSUaT1E/zMT2L1uObwCOv7o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/twop0intfive
+
+==================================================================
