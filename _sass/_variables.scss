@@ -5,22 +5,32 @@
 
 // 1. Light Mode (Default)
 :root {
-    --bg-color: #F0F0F0;       /* Light gray background */
-    --page-bg: #FFFFFF;        /* White content box */
-    --text-color: #000000;       /* Black text */
-    --border-color: #000000;     /* Black borders */
-    --accent-color: #0000FF;     /* Electric blue */
+    --bg-color: #F4F4F4;
+    /* Light Industrial Gray */
+    --page-bg: #FFFFFF;
+    /* Pure White */
+    --text-color: #000000;
+    /* Pure Black */
+    --border-color: #000000;
+    /* Black borders */
+    --accent-color: #FF3300;
+    /* International Orange */
     --hard-shadow: 8px 8px 0px var(--border-color);
     --hard-shadow-hover: 12px 12px 0px var(--border-color);
 }
 
 // 2. Dark Mode (Toggled by darkmode.js)
 [data-theme="dark"] {
-    --bg-color: #1a1a1a;       /* Very dark gray background */
-    --page-bg: #333333;        /* Dark content box */
-    --text-color: #FFFFFF;       /* White text */
-    --border-color: #FFFFFF;     /* White borders */
-    --accent-color: #87CEFA;     /* Light blue accent */
+    --bg-color: #050505;
+    /* Deep Black */
+    --page-bg: #121212;
+    /* Dark Material */
+    --text-color: #EEEEEE;
+    /* Off-white */
+    --border-color: #FFFFFF;
+    /* White borders */
+    --accent-color: #00E5FF;
+    /* Neon Cyan */
     --hard-shadow: 8px 8px 0px var(--border-color);
     --hard-shadow-hover: 12px 12px 0px var(--border-color);
 }
