@@ -5,33 +5,56 @@
 
 // 1. REPLACED body style
 body {
-    background-color: var(--bg-color);
-    font-family: $font-family-base; // This comes from _variables.scss
-    color: var(--text-color);
-    background-image: none; // Removes the old gradient
+  background-color: var(--bg-color);
+  font-family: $font-family-base; // This comes from _variables.scss
+  color: var(--text-color);
+  background-image: none; // Removes the old gradient
 }
 
 // 2. NEW container style
 .container {
-    background-color: var(--page-bg);
-    border: 2px solid var(--border-color);
-    box-shadow: var(--hard-shadow);
-    max-width: 1100px; 
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-    padding: 2rem;
+  background-color: var(--page-bg);
+  border: 2px solid var(--border-color);
+  box-shadow: var(--hard-shadow);
+  max-width: 1100px;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding: 2rem;
 }
 
 // 3. REPLACED link style
 a {
-    color: var(--accent-color);
-    font-weight: bold;
-    text-decoration: underline;
+  color: var(--accent-color);
+  font-weight: bold;
+  text-decoration: underline;
 
-    &:hover {
-        color: var(--text-color);
-        background-color: var(--bg-color); // Yellow hover
-    }
+  &:hover {
+    color: var(--text-color);
+    background-color: var(--bg-color); // Yellow hover
+  }
+}
+
+// 4. Accessibility Styles
+:focus {
+  outline: 3px solid var(--accent-color);
+  outline-offset: 2px;
+}
+
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: var(--accent-color);
+  color: var(--bg-color);
+  padding: 8px;
+  z-index: 100;
+  transition: top 0.3s;
+  font-weight: bold;
+  text-decoration: none;
+
+  &:focus {
+    top: 0;
+  }
 }
 
 /* ========================================

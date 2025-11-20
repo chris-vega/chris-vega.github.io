@@ -14,12 +14,12 @@
   // Style for your name
   #logo {
     text-decoration: none;
-    
+
     // We'll hide the old photo with CSS
     img {
-      display: none; 
+      display: none;
     }
-    
+
     h1 {
       font-size: 1.5rem;
       font-weight: bold;
@@ -42,12 +42,13 @@
     text-decoration: none;
     margin-left: 1rem;
     font-size: 0.9rem;
-    
+
     // Uses the global link styles we set in _base.scss
-    color: var(--accent-color); 
+    color: var(--accent-color);
+
     &:hover {
-        color: var(--text-color);
-        background-color: var(--bg-color);
+      color: var(--text-color);
+      background-color: var(--bg-color);
     }
   }
 }
@@ -61,7 +62,7 @@
   padding-top: 1rem;
   // Uses the border-color variable
   border-top: 2px solid var(--border-color);
-  
+
   small {
     font-size: 0.9rem;
     // Uses the text-color variable
@@ -71,9 +72,11 @@
   // Style the new footer links
   a {
     font-weight: bold;
+    text-transform: uppercase;
     text-decoration: none;
     // Uses the accent-color variable
     color: var(--accent-color);
+
     &:hover {
       color: var(--text-color);
       background-color: var(--bg-color);
