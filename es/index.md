@@ -5,7 +5,7 @@ lang: es
 ---
 
 <!-- ==========================================================================
-     HERO SECTION: PERFIL PROFESIONAL
+     HERO SECTION: PERFIL PROFESIONAL EJECUTIVO
      ========================================================================== -->
 <section id="about" class="section-padding section-hero bg-surface">
   <div class="content-max">
@@ -14,38 +14,38 @@ lang: es
       <!-- Columna Visual: Retrato con Tarjeta de Credencial Flotante -->
       <div class="hero-visual-col">
         <div class="portrait-wrapper">
-          <img src="/assets/jpg/photo.jpg" alt="Chris Vega, Consultor de TI y Analista Senior de Sistemas" loading="eager" width="600" height="750">
+          <img src="/assets/jpg/photo.jpg" alt="Chris Vega, Líder de Continuidad del Negocio y Analista Senior de Sistemas" loading="eager" width="600" height="750">
         </div>
         <div class="floating-badge">
-          <p class="badge-title">Analista Senior de Sistemas</p>
-          <p class="badge-sub">Consultor de TI · Riesgo Tecnológico y Arquitectura</p>
+          <p class="badge-title">Líder de Continuidad del Negocio</p>
+          <p class="badge-sub">Riesgo Cibernético · BCP/DR · Arquitectura de Sistemas</p>
         </div>
       </div>
 
-      <!-- Columna de Contenido: Biografía y Narrativa Ejecutiva -->
+      <!-- Columna de Contenido: Biografía y Trayectoria Ejecutiva -->
       <div class="hero-content-col">
         <div class="status-pill">
           <span class="status-dot"></span>
-          <span>Disponible para Asesoría Estratégica y Consultoría</span>
+          <span>Pittsburgh, PA · Disponible para Roles de Liderazgo y Especialización Senior</span>
         </div>
 
         <div class="eyebrow-container">
           <span class="eyebrow-line"></span>
-          <span class="eyebrow-text">Conozca a su Consultor</span>
+          <span class="eyebrow-text">Perfil Profesional Ejecutivo</span>
         </div>
 
         <h1>Chris Vega</h1>
-        <p class="hero-subtitle">Consultor de TI · Analista Senior de Sistemas · Tecnólogo Creativo</p>
+        <p class="hero-subtitle">Líder de Continuidad del Negocio en TI · Analista Senior de Sistemas · Tecnólogo Creativo</p>
 
         <div class="hero-narrative">
           <p>
-            La mayoría de los líderes empresariales y equipos de proyectos que me contactan navegan en escenarios de alta complejidad. Gestionan riesgos críticos de ciberseguridad con proveedores externos, enfrentan auditorías regulatorias rigurosas o deben modernizar sistemas heredados sin arriesgar la continuidad operativa del negocio.
+            A lo largo de más de quince años en servicios financieros, aeroespacial, cadena de suministro y telecomunicaciones, me he especializado en proteger sistemas empresariales de misión crítica frente a interrupciones operativas, riesgos cibernéticos de terceros y vulnerabilidades regulatorias.
           </p>
           <p>
-            Construí mi carrera en consultoría tecnológica y análisis de sistemas para ser el socio estratégico que aporta claridad en esos momentos decisivos. A lo largo de más de quince años en los sectores financiero, aeroespacial, cadena de suministro y telecomunicaciones, me he especializado en transformar densos requerimientos regulatorios, debida diligencia de ciberseguridad y cuellos de botella arquitectónicos en soluciones tecnológicas resilientes y centradas en el factor humano.
+            Actualmente lidero iniciativas de remediación de riesgos tecnológicos y continuidad del negocio para una importante institución financiera, realizando debida diligencia de ciberseguridad a proveedores, evaluando arquitecturas de recuperación ante desastres (BCP/DR) y diseñando caminos técnicos resilientes que garantizan la continuidad operativa día a día.
           </p>
           <p>
-            La verdadera resiliencia tecnológica no consiste simplemente en aprobar una auditoría o marcar una casilla de cumplimiento. Se trata de generar confianza, prevenir interrupciones operativas y brindar al liderazgo la seguridad para innovar. Como tecnólogo creativo, combino el rigor analítico con una comunicación empática para que las organizaciones no solo cumplan con las exigencias regulatorias, sino que prosperen.
+            Operando como un tecnólogo creativo, integro el rigor analítico con una comunicación empática y humana. Construyo puentes entre ingenieros de software, auditores de seguridad, gestores de proveedores y el liderazgo ejecutivo, transformando densos mandatos regulatorios en soluciones tecnológicas sólidas y mantenibles que superan las auditorías más exigentes.
           </p>
         </div>
 
@@ -78,7 +78,7 @@ lang: es
 
           <span class="chip">
             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10"/><path d="m9 12 2 2 4-4"/></svg>
-            <span>Due Diligence de Riesgo Cibernético</span>
+            <span>Due Diligence de Ciberseguridad</span>
           </span>
 
           <span class="chip">
@@ -95,25 +95,25 @@ lang: es
 
     </div>
 
-    <!-- Fórmula de Síntesis Visual -->
+    <!-- Fórmula de Síntesis Operativa -->
     <div class="equation-box">
       <div class="equation-flow">
         <div class="equation-item">
           <span class="eq-tag">Dominio Técnico</span>
-          <p class="eq-title">Análisis Preciso de Sistemas</p>
-          <p class="eq-desc">Remediación rigurosa de riesgos, arquitectura cloud y debida diligencia</p>
+          <p class="eq-title">Análisis Forense de Sistemas</p>
+          <p class="eq-desc">Debida diligencia de riesgos, arquitectura BCP/DR y entornos Linux</p>
         </div>
         <span class="equation-op">+</span>
         <div class="equation-item">
           <span class="eq-tag">Visión Humana</span>
           <p class="eq-title">Enfoque de Tecnólogo Creativo</p>
-          <p class="eq-desc">Claridad interdisciplinaria, empatía y liderazgo en talleres ejecutivos</p>
+          <p class="eq-desc">Claridad interdisciplinaria, empatía y facilitación de crisis ejecutivas</p>
         </div>
         <span class="equation-op">=</span>
         <div class="equation-item is-result">
-          <span class="eq-tag" style="color: var(--gold);">Resultado Ejecutivo</span>
-          <p class="eq-title">Impacto Empresarial Resiliente</p>
-          <p class="eq-desc">Cero tiempo de inactividad · 100% auditable · Arquitectura escalable</p>
+          <span class="eq-tag" style="color: var(--azure);">Resultado Empresarial</span>
+          <p class="eq-title">Resiliencia Operativa Sin Concesiones</p>
+          <p class="eq-desc">Cero tiempo de inactividad · 100% auditable · Continuidad BCP/DR robusta</p>
         </div>
       </div>
     </div>
@@ -133,7 +133,7 @@ lang: es
         <div class="stat-big">15+</div>
         <div class="stat-heading">Años de Experiencia Especializada</div>
         <p class="stat-description">
-          Dedicados exclusivamente al análisis de sistemas empresariales, mitigación de riesgos cibernéticos y consultoría estratégica de misión crítica en instituciones de alta exigencia.
+          Dedicados al análisis de sistemas empresariales, mitigación de riesgos cibernéticos y continuidad operativa en instituciones de alta exigencia.
         </p>
       </div>
 
@@ -142,13 +142,13 @@ lang: es
         <div class="bento-stat-card">
           <div class="stat-number">4+</div>
           <div class="stat-title">Sectores Regulados</div>
-          <p class="stat-sub">Soluciones en Servicios Financieros, Aeroespacial, Cadena de Suministro y Telecomunicaciones.</p>
+          <p class="stat-sub">Servicios Financieros, Aeroespacial, Cadena de Suministro y Telecomunicaciones.</p>
         </div>
 
         <div class="bento-stat-card">
           <div class="stat-number">100%</div>
-          <div class="stat-title">Alineación y Cumplimiento</div>
-          <p class="stat-sub">Rigurosa debida diligencia de ciberseguridad con proveedores y gobernanza de continuidad operativa.</p>
+          <div class="stat-title">Defendibilidad en Auditorías</div>
+          <p class="stat-sub">Rigurosa debida diligencia de ciberseguridad con proveedores y gobernanza de BCP/DR.</p>
         </div>
 
         <div class="bento-stat-card">
@@ -160,18 +160,18 @@ lang: es
 
     </div>
 
-    <!-- Matriz Comparativa Estratégica -->
+    <!-- Matriz de Comparación: Sistemas Convencionales vs. Marco Resiliente -->
     <div style="margin-top: 5rem;">
       <div class="text-center" style="margin-bottom: 2.5rem;">
         <div class="eyebrow-container">
           <span class="eyebrow-line"></span>
-          <span class="eyebrow-text">Comparativa Estratégica</span>
+          <span class="eyebrow-text">Comparación Estratégica</span>
           <span class="eyebrow-line"></span>
         </div>
-        <h2>Consultoría Tradicional vs. El Enfoque de <span class="font-serif-italic">Sistemas Resilientes</span></h2>
+        <h2>Gestión Tradicional de TI vs. El Marco de <span class="font-serif-italic">Sistemas Resilientes</span></h2>
         <div class="gold-bar centered"></div>
         <p class="content-narrow">
-          Cómo un enfoque de tecnólogo creativo elimina los puntos de fallo de la consultoría corporativa convencional.
+          Cómo una mentalidad proactiva de continuidad operativa elimina los puntos únicos de fallo en la TI corporativa convencional.
         </p>
       </div>
 
@@ -180,41 +180,41 @@ lang: es
           <thead>
             <tr>
               <th>Dimensión Estratégica</th>
-              <th>Consultoría Tradicional</th>
-              <th class="th-highlight">El Enfoque de Chris Vega</th>
+              <th>TI Empresarial Convencional</th>
+              <th class="th-highlight">El Marco de Chris Vega</th>
               <th style="text-align: right;">Impacto</th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td class="col-dim">Due Diligence de Proveedores</td>
-              <td class="col-conv">Cuestionarios genéricos y listas de verificación pasivas que ocultan grandes vulnerabilidades cibernéticas.</td>
-              <td class="col-vega">Evaluación técnica forense: arquitectura de conmutación por error, cifrado, límites de acceso y auditabilidad.</td>
-              <td class="col-metric"><span class="matrix-badge">100% AUDITABLE</span></td>
+              <td class="col-dim">Due Diligence de Ciberseguridad</td>
+              <td class="col-conv">Cuestionarios genéricos y hojas de cálculo pasivas que dejan graves puntos ciegos de seguridad.</td>
+              <td class="col-vega">Evaluación técnica forense: arquitectura de failover, límites de cifrado y defendibilidad en auditorías.</td>
+              <td class="col-metric"><span class="matrix-badge">100% AUDIT READY</span></td>
             </tr>
             <tr>
-              <td class="col-dim">Modernización de Sistemas</td>
-              <td class="col-conv">Reemplazos drásticos de alto riesgo que generan semanas de fricción e interrupciones del servicio.</td>
-              <td class="col-vega">Clonación disciplinada de sistemas y transiciones escalonadas diseñadas para cero tiempo de inactividad desde el primer día.</td>
-              <td class="col-metric"><span class="matrix-badge">CERO INTERRUPCIÓN</span></td>
+              <td class="col-dim">Escisiones y Modernización</td>
+              <td class="col-conv">Migraciones descoordinadas y cortes de alto riesgo que generan semanas de fricción e inactividad.</td>
+              <td class="col-vega">Clonación disciplinada de sistemas heredados y arquitecturas de corte en fases diseñadas para cero inactividad.</td>
+              <td class="col-metric"><span class="matrix-badge">ZERO DOWNTIME</span></td>
             </tr>
             <tr>
-              <td class="col-dim">Alineación entre Equipos</td>
-              <td class="col-conv">Jerga técnica opaca que distancia a los líderes del negocio y profundiza los silos organizacionales.</td>
-              <td class="col-vega">Facilitación de tecnólogo creativo: traduce deuda técnica compleja en hojas de ruta estratégicas y ejecutables.</td>
-              <td class="col-metric"><span class="matrix-badge">EQUIPOS UNIDOS</span></td>
+              <td class="col-dim">Alineación Interdisciplinaria</td>
+              <td class="col-conv">Jerga técnica opaca que aísla a los líderes de negocio y profundiza los silos entre desarrollo y seguridad.</td>
+              <td class="col-vega">Facilitación de tecnólogo creativo: traduciendo deuda técnica compleja en hojas de ruta ejecutivas claras.</td>
+              <td class="col-metric"><span class="matrix-badge">EQUIPOS ALINEADOS</span></td>
             </tr>
             <tr>
-              <td class="col-dim">Arquitectura en la Nube</td>
-              <td class="col-conv">Arquitecturas sobrecargadas con dispersión descontrolada de recursos y vacíos de gobernanza.</td>
-              <td class="col-vega">Diseños pragmáticos en AWS y entornos híbridos optimizados para cumplimiento normativo, escala y mantenibilidad.</td>
-              <td class="col-metric"><span class="matrix-badge">ESCALA Y CONTROL</span></td>
+              <td class="col-dim">Nube y Recuperación (BCP/DR)</td>
+              <td class="col-conv">Arquitecturas frágiles y sobredimensionadas con vías de recuperación no probadas ni validadas.</td>
+              <td class="col-vega">Entornos AWS pragmáticos con conmutación por error automatizada, RTO/RPO comprobados y cumplimiento estricto.</td>
+              <td class="col-metric"><span class="matrix-badge">RESILIENCIA BCP/DR</span></td>
             </tr>
             <tr>
-              <td class="col-dim">Confiabilidad Operativa</td>
-              <td class="col-conv">Tickets reactivos de nivel 1 donde los problemas se escalan únicamente después de que el negocio se ve afectado.</td>
-              <td class="col-vega">Supervisión en centros NOC/SOC 24/7, mitigación proactiva y comunicación bilingüe fluida para resolver incidentes a tiempo.</td>
-              <td class="col-metric"><span class="matrix-badge">RESILIENCIA 24/7</span></td>
+              <td class="col-dim">Triaje de Incidentes Operativos</td>
+              <td class="col-conv">Gestión reactiva de tickets de nivel 1 donde los problemas se atienden solo tras la interrupción del servicio.</td>
+              <td class="col-vega">Supervisión NOC/SOC 24/7, mitigación proactiva de riesgos y comunicación bilingüe (inglés/español) efectiva.</td>
+              <td class="col-metric"><span class="matrix-badge">TELEMETRÍA 24/7</span></td>
             </tr>
           </tbody>
         </table>
@@ -225,16 +225,16 @@ lang: es
 </section>
 
 <!-- ==========================================================================
-     SECCIÓN 3: CREDENCIALES, FORMACIÓN Y GOBERNANZA
+     SECCIÓN 3: FORMACIÓN, SISTEMAS Y GOBERNANZA EMPRESARIAL
      ========================================================================== -->
 <section id="credentials" class="section-padding bg-surface">
   <div class="content-prose text-center">
     <div class="eyebrow-container">
       <span class="eyebrow-line"></span>
-      <span class="eyebrow-text">Credenciales y Gobernanza</span>
+      <span class="eyebrow-text">Credenciales y Formación</span>
       <span class="eyebrow-line"></span>
     </div>
-    <h2>Formación, Dominio Técnico y Gobernanza Empresarial</h2>
+    <h2>Formación Académica, Dominio Técnico y Gobernanza</h2>
     <div class="gold-bar centered"></div>
 
     <div style="text-align: left;">
@@ -252,31 +252,31 @@ lang: es
 </section>
 
 <!-- ==========================================================================
-     SECCIÓN 4: LA VENTAJA DEL TECNÓLOGO CREATIVO (DIFERENCIADOR PRINCIPAL)
+     SECCIÓN 4: LA VENTAJA DEL TECNÓLOGO CREATIVO (DIFERENCIADOR)
      ========================================================================== -->
 <section id="differentiator" class="section-padding bg-surface-low">
   <div class="content-prose">
     <div class="eyebrow-container">
       <span class="eyebrow-line"></span>
-      <span class="eyebrow-text">La Ventaja Distintiva</span>
+      <span class="eyebrow-text">El Diferenciador Clave</span>
     </div>
-    <h2>La Ventaja del Tecnólogo <span class="font-serif-italic">Creativo</span></h2>
+    <h2>La Ventaja del <span class="font-serif-italic">Tecnólogo Creativo</span></h2>
     <div class="gold-bar"></div>
 
     <p>
       Las fallas más perjudiciales en la tecnología empresarial rara vez provienen de errores de programación: surgen de fallas en la comunicación humana. Cuando los auditores de seguridad, los gestores de proveedores, los ingenieros de software y el liderazgo ejecutivo operan en silos aislados hablando lenguajes totalmente distintos, los riesgos críticos se ocultan y los cronogramas se estancan.
     </p>
     <p>
-      Chris aborda cada iniciativa con la perspectiva dual de un <strong>tecnólogo creativo</strong>. Perfeccionada a través de quince años en tecnología corporativa combinados con formación formal en artes escénicas, se destaca facilitando sesiones de alineación de alto impacto, traduciendo densos requerimientos criptográficos y normativos en decisiones ejecutivas claras, y fomentando una colaboración donde cada integrante se siente escuchado.
+      Chris aborda cada desafío técnico desde la perspectiva dual de un <strong>tecnólogo creativo</strong>. Perfeccionado por quince años en tecnología corporativa junto con formación formal en artes escénicas, se destaca facilitando sesiones de alineación de alto impacto, traduciendo mandatos criptográficos y regulatorios densos en decisiones ejecutivas claras, y fomentando la colaboración interdisciplinaria donde cada contribuyente se siente escuchado.
     </p>
     <p>
-      Esta visión define cada proyecto: las decisiones deben ser matemáticamente sólidas, humanamente viables y orientadas a la resiliencia operativa a largo plazo, en lugar de adoptar atajos apresurados o convenientes.
+      Esta perspectiva guía cada iniciativa que lidera: las decisiones técnicas deben ser matemáticamente sólidas, humanamente viables para los equipos y fundamentadas en la resiliencia operativa a largo plazo.
     </p>
   </div>
 </section>
 
 <!-- ==========================================================================
-     SECCIÓN 5: FILOSOFÍA Y SEIS PRINCIPIOS RECTORES
+     SECCIÓN 5: FILOSOFÍA Y PRINCIPIOS RECTORES
      ========================================================================== -->
 <section id="philosophy" class="section-padding bg-surface">
   <div class="content-max">
@@ -286,77 +286,77 @@ lang: es
         <span class="eyebrow-text">Principios Rectores</span>
         <span class="eyebrow-line"></span>
       </div>
-      <h2>La Filosofía Detrás de Esta Práctica</h2>
+      <h2>Filosofía Profesional Central</h2>
       <div class="gold-bar centered"></div>
       <p class="content-narrow">
-        La práctica de consultoría de Chris Vega se fundamenta en seis principios esenciales presentes en cada revisión arquitectónica, plan de proyecto y diálogo con las partes interesadas.
+        Seis principios fundamentales que respaldan cada revisión arquitectónica, hoja de ruta de remediación de riesgos y liderazgo de equipos.
       </p>
     </div>
 
     <div class="values-grid">
-      <!-- 1. Defensa y Claridad del Cliente -->
+      <!-- 1 -->
       <div class="value-card">
         <div class="value-icon-box">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19.414 14.414C21 12.828 22 11.5 22 9.5a5.5 5.5 0 0 0-9.591-3.676.6.6 0 0 1-.818.001A5.5 5.5 0 0 0 2 9.5c0 2.3 1.5 4 3 5.5l5.535 5.362a2 2 0 0 0 2.879.052 2.12 2.12 0 0 0-.004-3 2.124 2.124 0 1 0 3-3 2.124 2.124 0 0 0 3.004 0 2 2 0 0 0 0-2.828l-1.881-1.882a2.41 2.41 0 0 0-3.409 0l-1.71 1.71a2 2 0 0 1-2.828 0 2 2 0 0 1 0-2.828l2.823-2.762"/></svg>
         </div>
-        <h3 class="value-title">Defensa y Claridad del Cliente</h3>
+        <h3 class="value-title">Defensa de las Partes Interesadas</h3>
         <p class="value-desc">
-          Escuchamos con atención la fricción operativa real antes de proponer arquitecturas. Cada líder merece total transparencia y claridad procesable, sin tecnicismos innecesarios.
+          Escuchar con atención la realidad operativa de los equipos y directivos: fricciones, riesgos y metas. Garantizar que todos comprendan las implicaciones técnicas antes de tomar decisiones críticas.
         </p>
       </div>
 
-      <!-- 2. Resiliencia Arquitectónica -->
+      <!-- 2 -->
       <div class="value-card">
         <div class="value-icon-box">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10"/><path d="m9 12 2 2 4-4"/></svg>
         </div>
         <h3 class="value-title">Resiliencia Arquitectónica</h3>
         <p class="value-desc">
-          Aplicar soluciones genéricas es fácil, pero casi siempre introduce deuda técnica latente. Diseñamos arquitecturas basadas en evidencia que priorizan estabilidad, continuidad y auditabilidad.
+          Diseñar sistemas personalizados basados en evidencia que prioricen la estabilidad, la continuidad del negocio y el cumplimiento regulatorio, evitando atajos que generen deuda técnica inmanejable.
         </p>
       </div>
 
-      <!-- 3. Unidad Interdisciplinaria -->
+      <!-- 3 -->
       <div class="value-card">
         <div class="value-icon-box">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
         </div>
         <h3 class="value-title">Unidad Interdisciplinaria</h3>
         <p class="value-desc">
-          Los mejores resultados ocurren cuando ciberseguridad, gestión de proveedores, desarrollo y áreas de negocio operan en sincronía. Eliminamos los vacíos organizacionales.
+          Los mejores resultados ocurren cuando la seguridad cibernética, los proveedores, el desarrollo de software y el negocio operan de forma coordinada, eliminando vacíos de responsabilidad.
         </p>
       </div>
 
-      <!-- 4. Pasión por el Impacto Tangible -->
+      <!-- 4 -->
       <div class="value-card">
         <div class="value-icon-box">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
         </div>
-        <h3 class="value-title">Pasión por el Impacto Tangible</h3>
+        <h3 class="value-title">Pasión por el Impacto</h3>
         <p class="value-desc">
-          Nos apasiona resolver desafíos de misión crítica: modernizar cuellos de botella heredados, proteger datos sensibles y garantizar una operatividad impecable desde el primer día en escisiones corporativas.
+          Impulsado por desafíos de alta exigencia: restaurar la estabilidad operativa, salvaguardar activos confidenciales y garantizar una transición fluida durante escisiones corporativas complejas.
         </p>
       </div>
 
-      <!-- 5. Rendición de Cuentas e Integridad -->
+      <!-- 5 -->
       <div class="value-card">
         <div class="value-icon-box">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="18" height="18" x="3" y="3" rx="2"/><path d="m9 12 2 2 4-4"/></svg>
         </div>
-        <h3 class="value-title">Rendición de Cuentas e Integridad</h3>
+        <h3 class="value-title">Responsabilidad e Integridad</h3>
         <p class="value-desc">
-          Brindamos asesoría transparente sobre riesgos, deuda técnica y vulnerabilidades normativas. Hacemos lo que es técnica y éticamente correcto para la organización, no solo lo más conveniente.
+          Transparencia radical, honestidad y apego a lo técnicamente y éticamente correcto para la organización, incluso cuando demande mayor rigor técnico. Aportar diagnósticos reales, no complacientes.
         </p>
       </div>
 
-      <!-- 6. Compromiso con el Crecimiento Continuo -->
+      <!-- 6 -->
       <div class="value-card">
         <div class="value-icon-box">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"/><path d="M22 10v6"/><path d="M6 12.5V16a6 3 0 0 0 12 0v-3.5"/></svg>
         </div>
-        <h3 class="value-title">Crecimiento Continuo</h3>
+        <h3 class="value-title">Compromiso con el Crecimiento</h3>
         <p class="value-desc">
-          Los entornos tecnológicos y regulatorios cambian a diario. Mantenemos una curiosidad constante, certificaciones activas y perfeccionamiento metodológico continuo para entregar soluciones de vanguardia.
+          La tecnología y los entornos regulatorios evolucionan sin cesar. Mantener la curiosidad, ampliar certificaciones y optimizar flujos de trabajo año con año para ofrecer resultados de vanguardia.
         </p>
       </div>
     </div>
@@ -364,7 +364,7 @@ lang: es
 </section>
 
 <!-- ==========================================================================
-     SECCIÓN 6: MANIFIESTO EJECUTIVO / CITA PRINCIPAL
+     SECCIÓN 6: MANIFIESTO EJECUTIVO / QUOTE BANNER
      ========================================================================== -->
 <section class="section-padding quote-section">
   <div class="content-prose">
@@ -373,118 +373,118 @@ lang: es
       <path d="M5 3a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2 1 1 0 0 1 1 1v1a2 2 0 0 1-2 2 1 1 0 0 0-1 1v2a1 1 0 0 0 1 1 6 6 0 0 0 6-6V5a2 2 0 0 0-2-2z"/>
     </svg>
     <blockquote class="quote-text">
-      “Mi compromiso no es solo implementar sistemas que funcionen el primer día. Es diseñar arquitecturas resilientes, posturas de riesgo disciplinadas y dinámicas de trabajo humanas que empoderen a los equipos y resistan el escrutinio durante años.”
+      “Mi misión no es solo implementar sistemas que funcionen el primer día. Es diseñar arquitecturas resilientes, posturas de riesgo disciplinadas y flujos de trabajo alineados con el factor humano que fortalezcan a los equipos, prevengan caídas operativas y superen el escrutinio a lo largo del tiempo.”
     </blockquote>
     <p class="quote-attribution">— Chris Vega, MBA, MS ITM, CAPM</p>
   </div>
 </section>
 
 <!-- ==========================================================================
-     SECCIÓN 7: ESPECIALIDADES Y CICLO DE RESILIENCIA OPERATIVA
+     SECCIÓN 7: CICLO DE VIDA OPERATIVO Y COMPETENCIAS CLAVE
      ========================================================================== -->
-<section id="practice" class="section-padding bg-surface-low">
+<section id="competencies" class="section-padding bg-surface-low">
   <div class="content-max">
     <div class="text-center" style="margin-bottom: 3.5rem;">
       <div class="eyebrow-container">
         <span class="eyebrow-line"></span>
-        <span class="eyebrow-text">Metodología de Consultoría</span>
+        <span class="eyebrow-text">Metodología Empresarial</span>
         <span class="eyebrow-line"></span>
       </div>
-      <h2>Áreas de Práctica y <span class="font-serif-italic">Ciclo Operativo</span></h2>
+      <h2>Ciclo de Vida Operativo y <span class="font-serif-italic">Competencias Clave</span></h2>
       <div class="gold-bar centered"></div>
       <p class="content-narrow">
-        Disciplinas clave de asesoría y el marco de trabajo de cuatro fases que garantiza la continuidad operativa empresarial.
+        Un marco metodológico de cuatro etapas respaldado por un profundo dominio técnico en tecnología empresarial, ciberseguridad y resiliencia operativa.
       </p>
     </div>
 
-    <!-- Ciclo Operativo de 4 Fases -->
+    <!-- 4 Fases de Resiliencia Operativa -->
     <div class="workflow-grid">
       <div class="workflow-card">
         <div class="workflow-step-num">FASE 01</div>
-        <h4 class="workflow-title">Auditoría de Riesgo y Due Diligence</h4>
+        <h4 class="workflow-title">Auditoría Forense y BCP</h4>
         <p class="workflow-desc">
-          Análisis técnico forense de proveedores externos, deuda arquitectónica, posturas de ciberseguridad y pruebas de conmutación BCP/DR.
+          Análisis forense exhaustivo de proveedores externos, deuda técnica, posturas de ciberseguridad y preparación ante desastres (BCP/DR).
         </p>
       </div>
 
       <div class="workflow-card">
         <div class="workflow-step-num">FASE 02</div>
-        <h4 class="workflow-title">Diseño de Arquitectura</h4>
+        <h4 class="workflow-title">Arquitectura Resiliente</h4>
         <p class="workflow-desc">
-          Diseño de entornos cloud en AWS y planos de integración que equilibran el cumplimiento normativo estricto con la agilidad operativa.
+          Diseño de entornos cloud en AWS y esquemas de integración que equilibran el cumplimiento normativo con una alta eficiencia operativa.
         </p>
       </div>
 
       <div class="workflow-card">
         <div class="workflow-step-num">FASE 03</div>
-        <h4 class="workflow-title">Transición por Etapas y Ejecución</h4>
+        <h4 class="workflow-title">Corte en Fases y Ejecución</h4>
         <p class="workflow-desc">
-          Gestión de migraciones sin tiempo de inactividad, clonación en escisiones corporativas y entrega de sprints bajo estándares PMI CAPM.
+          Dirección de transiciones sin tiempo de inactividad, clonación de sistemas heredados en escisiones y gestión de sprints bajo gobernanza CAPM.
         </p>
       </div>
 
       <div class="workflow-card">
         <div class="workflow-step-num">FASE 04</div>
-        <h4 class="workflow-title">Gobernanza y Monitoreo Continuo</h4>
+        <h4 class="workflow-title">Telemetría y Gobernanza Continua</h4>
         <p class="workflow-desc">
-          Implementación de telemetría 24/7, protocolos de escalamiento en centros NOC/SOC y comunicación bilingüe para asegurar resiliencia sostenida.
+          Establecimiento de telemetría 24/7, protocolos de escalamiento NOC/SOC y comunicación bilingüe con partes interesadas para una resiliencia sostenible.
         </p>
       </div>
     </div>
 
-    <!-- Tarjetas de Práctica -->
+    <!-- Cuadrícula de Competencias Clave -->
     <div class="practice-grid" style="margin-top: 3.5rem;">
       <!-- 1 -->
       <div class="practice-card">
-        <span class="practice-badge">Gobernanza y Seguridad</span>
-        <h3 class="practice-title">Remediación de Riesgos de TI</h3>
+        <span class="practice-badge">Resiliencia y Recuperación</span>
+        <h3 class="practice-title">Continuidad del Negocio y BCP/DR</h3>
         <p class="practice-desc">
-          Evaluación y due diligence de ciberseguridad en proveedores externos, resiliencia operativa y alineación con rigurosas normativas regulatorias.
+          Liderazgo en la planificación de continuidad corporativa y pruebas de recuperación ante desastres para garantizar cero tiempo de inactividad operativo.
         </p>
       </div>
 
       <!-- 2 -->
       <div class="practice-card">
-        <span class="practice-badge">Estrategia y Alineación</span>
-        <h3 class="practice-title">Estrategia de Tecnólogo Creativo</h3>
+        <span class="practice-badge">Gobernanza y Seguridad</span>
+        <h3 class="practice-title">Due Diligence de Ciberseguridad</h3>
         <p class="practice-desc">
-          Integración de precisión técnica con empatía humana. Alineación entre ingeniería, áreas de cumplimiento y alta dirección mediante hojas de ruta transparentes.
+          Evaluación técnica forense de proveedores en postura de ciberseguridad, protección de datos y alineación con mandatos regulatorios estrictos.
         </p>
       </div>
 
       <!-- 3 -->
       <div class="practice-card">
         <span class="practice-badge">Infraestructura y Nube</span>
-        <h3 class="practice-title">Arquitectura Cloud y Sistemas (AWS)</h3>
+        <h3 class="practice-title">Arquitectura Cloud y Resiliencia en AWS</h3>
         <p class="practice-desc">
-          Consultoría en arquitectura de plataformas críticas y cadenas de suministro en AWS, equilibrando escalabilidad, alta disponibilidad y control de riesgos.
+          Diseño de entornos en la nube escalables y de alta disponibilidad para plataformas logísticas y aplicaciones financieras de misión crítica.
         </p>
       </div>
 
       <!-- 4 -->
       <div class="practice-card">
         <span class="practice-badge">Transacciones Corporativas</span>
-        <h3 class="practice-title">Modernización en Escisiones</h3>
+        <h3 class="practice-title">Clonación y Modernización en Escisiones</h3>
         <p class="practice-desc">
-          Clonación de sistemas heredados, segregación de infraestructura y transiciones sin tiempo de inactividad para habilitar operaciones inmediatas tras escisiones corporativas.
+          Dirección de clonación de sistemas legados, modernización de infraestructura y cortes desacoplados para asegurar operaciones independientes desde el primer día.
         </p>
       </div>
 
       <!-- 5 -->
       <div class="practice-card">
-        <span class="practice-badge">Ejecución y Gestión</span>
-        <h3 class="practice-title">Gestión de Proyectos Ágiles y Tradicionales</h3>
+        <span class="practice-badge">Ejecución y Entrega</span>
+        <h3 class="practice-title">Gobernanza Ágil y Tradicional</h3>
         <p class="practice-desc">
-          Liderazgo y entrega de integraciones de sistemas complejos bajo metodologías Agile y Waterfall con Jira, Confluence y estándares certificados por el PMI (CAPM).
+          Gestión de integraciones complejas de sistemas, despliegues y ciclos de lanzamiento utilizando Jira, Confluence, ServiceNow y estándares CAPM.
         </p>
       </div>
 
       <!-- 6 -->
       <div class="practice-card">
-        <span class="practice-badge">Operaciones Críticas</span>
-        <h3 class="practice-title">Operaciones 24/7 y Soporte Bilingüe</h3>
+        <span class="practice-badge">Operaciones y Soporte</span>
+        <h3 class="practice-title">Operaciones NOC/SOC y Triaje Bilingüe</h3>
         <p class="practice-desc">
-          Amplia experiencia en monitoreo de redes en centros NOC/SOC, respuesta ante incidentes y más de 4 años de comunicación técnica bilingüe especializada (inglés y español).
+          Amplia experiencia en supervisión de infraestructura 24/7, resolución de incidentes de red y más de 4 años de comunicación bilingüe (inglés/español).
         </p>
       </div>
     </div>
@@ -499,64 +499,64 @@ lang: es
     <div class="text-center" style="margin-bottom: 2rem;">
       <div class="eyebrow-container">
         <span class="eyebrow-line"></span>
-        <span class="eyebrow-text">Asesoría Estratégica</span>
+        <span class="eyebrow-text">Trayectoria y Metodología</span>
         <span class="eyebrow-line"></span>
       </div>
       <h2>Preguntas <span class="font-serif-italic">Frecuentes</span></h2>
       <div class="gold-bar centered"></div>
       <p class="content-narrow">
-        Detalles clave sobre proyectos empresariales, debida diligencia técnica y cómo es trabajar con un tecnólogo creativo.
+        Detalles clave sobre mi enfoque técnico, liderazgo en continuidad operativa e impacto interdisciplinario.
       </p>
     </div>
 
     <div class="faq-accordion">
       <details class="faq-item" open>
         <summary class="faq-summary">
-          <span>¿Qué valor concreto aporta un Analista Senior de Sistemas y Consultor a mi organización?</span>
+          <span>¿Qué valor concreto aporta un Líder de Continuidad del Negocio a una organización?</span>
           <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
         </summary>
         <div class="faq-content">
-          Cierro la brecha costosa entre la visión estratégica del negocio y la implementación tecnológica. En lugar de ofrecer únicamente sugerencias teóricas, me integro directamente en entornos normativos exigentes para reducir la deuda técnica, garantizar el cumplimiento de proveedores externos, diseñar arquitecturas en la nube resilientes y coordinar la entrega entre equipos para proteger los ingresos y evitar interrupciones operativas.
+          Uno la gobernanza de riesgos corporativos con la realidad técnica de las operaciones. En lugar de basarme en carpetas estáticas de cumplimiento, diseño marcos vivos y comprobables de continuidad. Evalúo riesgos de proveedores, valido arquitecturas de recuperación ante desastres (BCP/DR), elimino puntos únicos de fallo y dirijo la ejecución entre equipos para blindar los ingresos y asegurar la resiliencia institucional.
         </div>
       </details>
 
       <details class="faq-item">
         <summary class="faq-summary">
-          <span>¿Cómo aborda la debida diligencia de ciberseguridad con proveedores en sectores regulados?</span>
+          <span>¿Cómo abordas la debida diligencia de ciberseguridad con proveedores en sectores regulados?</span>
           <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
         </summary>
         <div class="faq-content">
-          En el sector bancario y financiero, la debida diligencia no puede depender de simples cuestionarios de autoevaluación. Evalúo a fondo la arquitectura del proveedor, el cifrado de datos, los controles de acceso, las pruebas de continuidad y recuperación ante desastres (BCP/DR) y las certificaciones normativas (SOC 2, NIST, ISO) frente a los estándares corporativos, definiendo planes concretos de mitigación antes de firmar contratos.
+          En servicios financieros y sectores regulados, la debida diligencia no puede depender de cuestionarios de autoevaluación pasivos. Analizo la arquitectura técnica, los perímetros de cifrado de datos, el control de accesos, los resultados reales de pruebas de continuidad (BCP/DR) y las certificaciones formales frente a estándares empresariales estrictos, estableciendo planes de remediación vinculantes antes de la firma de contratos.
         </div>
       </details>
 
       <details class="faq-item">
         <summary class="faq-summary">
-          <span>¿Cuál es la ventaja práctica de contar con un 'tecnólogo creativo'?</span>
+          <span>¿Cuál es la ventaja práctica de contar con un 'tecnólogo creativo' en equipos de riesgo?</span>
           <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
         </summary>
         <div class="faq-content">
-          Las iniciativas de TI suelen estancarse por falta de comunicación fluida entre áreas: los desarrolladores hablan en código mientras los ejecutivos se enfocan en valor comercial. Con una trayectoria en tecnología corporativa y formación en artes escénicas, me especializo en facilitar talleres de alineación de alto nivel, traducir compensaciones técnicas densas en decisiones ejecutivas comprensibles y construir consensos sólidos.
+          Las iniciativas corporativas suelen frenarse no por fallas de código, sino por barreras de comunicación humana. Los equipos de seguridad, ingeniería de software y directivos suelen hablar lenguajes distintos. Aprovechando mi experiencia en sistemas corporativos y formación en artes escénicas, facilito talleres decisivos, traduzco deuda técnica densa en decisiones estratégicas claras y unifico equipos hacia una meta común.
         </div>
       </details>
 
       <details class="faq-item">
         <summary class="faq-summary">
-          <span>¿Cómo asegura cero tiempo de inactividad durante escisiones corporativas y clonación de sistemas?</span>
+          <span>¿Cómo influyen tus dos maestrías (MBA y M.S. en Gestión de TI) en tus decisiones de ingeniería?</span>
           <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
         </summary>
         <div class="faq-content">
-          Me especializo en clonación de infraestructura heredada, desacoplamiento de sistemas y transiciones en fases paralelas. Al planificar la transición hacia atrás desde los requerimientos operativos del primer día, ejecutar pruebas piloto exhaustivas y monitorear la conmutación en tiempo real, las organizaciones logran independencia operativa sin cortes en el servicio ni impacto para los clientes.
+          La Maestría en Gestión de TI aporta un sólido fundamento técnico en arquitectura de sistemas, infraestructura empresarial y gobernanza de ciberseguridad. El MBA complementa esto con visión financiera estratégica, comportamiento organizacional y comunicación directiva. Esta combinación asegura que cada solución técnica sea arquitectónicamente sólida y a la vez impulse la estabilidad y rentabilidad del negocio.
         </div>
       </details>
 
       <details class="faq-item">
         <summary class="faq-summary">
-          <span>¿Qué modelos de consultoría y contratación tiene disponibles?</span>
+          <span>¿Cómo garantizas cero tiempo de inactividad durante escisiones corporativas y clonación de sistemas?</span>
           <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
         </summary>
         <div class="faq-content">
-          Con base en Pittsburgh, PA, asesoro a clientes corporativos e instituciones financieras en todo Estados Unidos y Norteamérica. Las colaboraciones están disponibles como asesoría fraccional estratégica, auditorías específicas de riesgo de proveedores o formatos híbridos con talleres presenciales para hitos arquitectónicos y auditorías clave.
+          Me especializo en la clonación de infraestructura heredada, transiciones desacopladas y ejecución en paralelo. Mediante ingeniería inversa de los requisitos de continuidad del día uno, simulacros previos y la gestión en tiempo real de las operaciones de corte, las organizaciones logran su independencia operativa el día uno sin interrupciones del servicio ni impacto en clientes.
         </div>
       </details>
     </div>
@@ -564,40 +564,40 @@ lang: es
 </section>
 
 <!-- ==========================================================================
-     SECCIÓN 9: DÓNDE EJERZO (UBICACIÓN Y MODELO DE TRABAJO)
+     SECCIÓN 9: UBICACIÓN Y MODALIDAD DE TRABAJO
      ========================================================================== -->
 <section id="location" class="section-padding bg-surface-low">
   <div class="content-prose text-center">
     <div class="eyebrow-container">
       <span class="eyebrow-line"></span>
-      <span class="eyebrow-text">Modelo de Trabajo</span>
+      <span class="eyebrow-text">Disponibilidad y Modalidad</span>
       <span class="eyebrow-line"></span>
     </div>
-    <h2>Dónde Ejerzo y Consulto</h2>
+    <h2>Ubicación y Modalidad de Trabajo</h2>
     <div class="gold-bar centered"></div>
     <p>
-      Chris opera desde <strong>Pittsburgh, Pensilvania</strong>, colaborando con empresas, instituciones financieras y organizaciones de vanguardia en todo Estados Unidos y Norteamérica. Disponible para consultoría estratégica remota y talleres presenciales híbridos para hitos críticos, auditorías y revisiones de arquitectura.
+      Chris reside en <strong>Pittsburgh, Pennsylvania</strong>, con más de 15 años colaborando con equipos interdisciplinarios e instituciones empresariales en todo el país. Disponible para oportunidades de liderazgo y especialización técnica senior en modalidades híbridas y remotas.
     </p>
   </div>
 </section>
 
 <!-- ==========================================================================
-     SECCIÓN 10: LLAMADO A LA ACCIÓN (CTA)
+     SECCIÓN 10: CONTACTO Y CONEXIÓN
      ========================================================================== -->
 <section id="contact" class="section-padding bg-surface" style="padding-top: 2rem;">
   <div class="content-max">
     <div class="cta-banner">
-      <h2>¿Listo para Fortalecer sus Operaciones Tecnológicas?</h2>
+      <h2>Conectemos</h2>
       <p>
-        Agende una consulta inicial para evaluar análisis de sistemas, mitigación de riesgos de ciberseguridad o asesoría estratégica para su equipo.
+        ¿Interesado en conversar sobre resiliencia tecnológica, liderazgo en continuidad operativa u oportunidades técnicas senior?
       </p>
       <div class="cta-button-group">
         <a href="mailto:{{ site.author.email }}" class="button-gold lg">
-          <span>Agendar Consulta</span>
+          <span>Contactar</span>
           <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
         </a>
         <a href="https://www.linkedin.com/in/chrisevega" target="_blank" rel="noopener noreferrer" class="button-ghost lg">
-          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect width="4" height="12" x="2" y="9"/><circle cx="4" cy="4" r="2"/></svg>
+          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect width="4" height="12" x="2" y="9"/><circle cx="4" cy="4" r="2"/></svg>
           <span>Conectar en LinkedIn</span>
         </a>
       </div>

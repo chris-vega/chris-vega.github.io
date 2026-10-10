@@ -1,106 +1,130 @@
 /* ==========================================================================
-   DESIGN TOKENS - EXECUTIVE LUXURY (Wise Dental Inspired)
-   Chris Vega - IT Consultant | Senior Systems Analyst | Creative Technologist
+   DESIGN TOKENS - EXECUTIVE MIDNIGHT & ELECTRIC COBALT
+   Chris Vega - Technology Business Continuity Lead | Senior Systems Analyst
    ========================================================================== */
 
 :root {
-  // Brand Anchors
-  --navy: #0B1728;
-  --navy-surface: #102038;
-  --navy-dark: #060D17;
-  --navy-glow: rgba(11, 23, 40, 0.08);
+  // Brand Anchors: Midnight & Deep Steel
+  --midnight: #0A0F1D;
+  --midnight-surface: #101828;
+  --midnight-dark: #070B14;
+  --midnight-glow: rgba(10, 15, 29, 0.08);
 
-  // Metallic Accents (Champagne / Burnished Gold)
-  --gold: #C5A880;
-  --gold-hover: #B39366;
-  --gold-light: #F4ECE1;
-  --gold-accent: #D4AF37;
-  --gold-glow: rgba(197, 168, 128, 0.25);
+  // Tech Accent: Electric Cobalt & Azure (Business Continuity & Cloud Resilience)
+  --cobalt: #2563EB;
+  --cobalt-hover: #1D4ED8;
+  --cobalt-light: #EFF6FF;
+  --cobalt-glow: rgba(37, 99, 235, 0.25);
+  --azure: #0284C7;
+  --azure-glow: rgba(2, 132, 199, 0.22);
+
+  // Aliases for unified styling
+  --gold: #2563EB;
+  --gold-hover: #1D4ED8;
+  --gold-light: #EFF6FF;
+  --gold-accent: #0284C7;
+  --gold-glow: rgba(37, 99, 235, 0.25);
+  --navy: #0A0F1D;
+  --navy-surface: #101828;
+  --navy-dark: #070B14;
 
   // Neutral Surface Hierarchy (Light Mode)
-  --surface: #FAFBFC;
-  --surface-container-low: #F3F5F9;
+  --surface: #F8FAFC;
+  --surface-container-low: #F1F5F9;
   --surface-container-lowest: #FFFFFF;
-  --surface-container-high: #EAEFF5;
+  --surface-container-high: #E2E8F0;
   --surface-elevated: #FFFFFF;
 
   // Text Hierarchy
-  --on-surface: #0E1726;
+  --on-surface: #0F172A;
   --on-surface-variant: #475569;
   --on-surface-muted: #64748B;
   --on-navy: #FFFFFF;
-  --on-navy-variant: rgba(255, 255, 255, 0.72);
+  --on-navy-variant: rgba(255, 255, 255, 0.76);
 
   // Card & Component Tokens
-  --card-stat-color: #0B1728;
-  --icon-box-bg: rgba(11, 23, 40, 0.06);
-  --icon-box-color: #0B1728;
-  --badge-title-color: #0B1728;
+  --card-stat-color: #0A0F1D;
+  --icon-box-bg: rgba(37, 99, 235, 0.08);
+  --icon-box-color: #2563EB;
+  --badge-title-color: #0A0F1D;
 
   // Borders & Outlines
-  --border-subtle: rgba(14, 23, 38, 0.08);
-  --border-hover: rgba(197, 168, 128, 0.4);
-  --outline-variant: rgba(14, 23, 38, 0.06);
+  --border-subtle: rgba(15, 23, 42, 0.08);
+  --border-hover: rgba(37, 99, 235, 0.35);
+  --outline-variant: rgba(15, 23, 42, 0.05);
 
   // Elevation & Shadows
-  --shadow-ambient: 0 10px 30px -10px rgba(11, 23, 40, 0.08), 0 4px 12px -4px rgba(11, 23, 40, 0.04);
-  --shadow-ambient-lg: 0 20px 45px -15px rgba(11, 23, 40, 0.12), 0 8px 20px -6px rgba(11, 23, 40, 0.06);
-  --shadow-gold: 0 10px 25px -5px rgba(197, 168, 128, 0.3);
+  --shadow-ambient: 0 10px 30px -10px rgba(10, 15, 29, 0.08), 0 4px 12px -4px rgba(10, 15, 29, 0.04);
+  --shadow-ambient-lg: 0 20px 45px -15px rgba(10, 15, 29, 0.12), 0 8px 20px -6px rgba(10, 15, 29, 0.06);
+  --shadow-gold: 0 10px 25px -5px rgba(37, 99, 235, 0.3);
 
   // Glassmorphic Navigation
-  --nav-bg: rgba(11, 23, 40, 0.88);
+  --nav-bg: rgba(10, 15, 29, 0.88);
   --nav-border: rgba(255, 255, 255, 0.08);
 
   // Typography
   --font-family-base: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   --font-family-headline: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-family-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  --font-family-serif: 'Cormorant Garamond', Georgia, serif;
 }
 
 [data-theme="dark"] {
-  // Brand Anchors
-  --navy: #0F1D33;
-  --navy-surface: #142642;
-  --navy-dark: #070E1A;
-  --navy-glow: rgba(0, 0, 0, 0.4);
+  // Brand Anchors: Midnight Obsidian
+  --midnight: #070B14;
+  --midnight-surface: #0C1220;
+  --midnight-dark: #04070D;
+  --midnight-glow: rgba(0, 0, 0, 0.5);
 
-  // Metallic Accents
-  --gold: #D4AF37;
-  --gold-hover: #E5C358;
-  --gold-light: #2A2416;
-  --gold-accent: #E5C358;
-  --gold-glow: rgba(212, 175, 55, 0.25);
+  // Tech Accent: Electric Cobalt & Bright Azure
+  --cobalt: #3B82F6;
+  --cobalt-hover: #60A5FA;
+  --cobalt-light: rgba(59, 130, 246, 0.15);
+  --cobalt-glow: rgba(59, 130, 246, 0.3);
+  --azure: #38BDF8;
+  --azure-glow: rgba(56, 189, 248, 0.35);
+
+  // Aliases for unified styling
+  --gold: #3B82F6;
+  --gold-hover: #60A5FA;
+  --gold-light: rgba(59, 130, 246, 0.15);
+  --gold-accent: #38BDF8;
+  --gold-glow: rgba(59, 130, 246, 0.3);
+  --navy: #0B1324;
+  --navy-surface: #101B33;
+  --navy-dark: #050912;
 
   // Neutral Surface Hierarchy (Dark Mode)
-  --surface: #070E1A;
-  --surface-container-low: #0B1526;
-  --surface-container-lowest: #0F1C31;
-  --surface-container-high: #162640;
-  --surface-elevated: #111E33;
+  --surface: #070B14;
+  --surface-container-low: #0A0F1D;
+  --surface-container-lowest: #0F172A;
+  --surface-container-high: #15203B;
+  --surface-elevated: #101A30;
 
   // Text Hierarchy
   --on-surface: #F8FAFC;
   --on-surface-variant: #94A3B8;
   --on-surface-muted: #64748B;
   --on-navy: #FFFFFF;
-  --on-navy-variant: rgba(255, 255, 255, 0.72);
+  --on-navy-variant: rgba(255, 255, 255, 0.76);
 
   // Card & Component Tokens
-  --card-stat-color: #D4AF37;
-  --icon-box-bg: rgba(212, 175, 55, 0.12);
-  --icon-box-color: #D4AF37;
-  --badge-title-color: #D4AF37;
+  --card-stat-color: #38BDF8;
+  --icon-box-bg: rgba(59, 130, 246, 0.15);
+  --icon-box-color: #38BDF8;
+  --badge-title-color: #38BDF8;
 
   // Borders & Outlines
   --border-subtle: rgba(255, 255, 255, 0.08);
-  --border-hover: rgba(212, 175, 55, 0.4);
+  --border-hover: rgba(56, 189, 248, 0.4);
   --outline-variant: rgba(255, 255, 255, 0.05);
 
   // Elevation & Shadows
-  --shadow-ambient: 0 10px 30px -10px rgba(0, 0, 0, 0.45);
-  --shadow-ambient-lg: 0 20px 45px -15px rgba(0, 0, 0, 0.65);
-  --shadow-gold: 0 10px 25px -5px rgba(212, 175, 55, 0.2);
+  --shadow-ambient: 0 10px 30px -10px rgba(0, 0, 0, 0.55);
+  --shadow-ambient-lg: 0 20px 45px -15px rgba(0, 0, 0, 0.75);
+  --shadow-gold: 0 10px 25px -5px rgba(59, 130, 246, 0.25);
 
   // Glassmorphic Navigation
-  --nav-bg: rgba(7, 14, 26, 0.92);
-  --nav-border: rgba(255, 255, 255, 0.06);
+  --nav-bg: rgba(7, 11, 20, 0.92);
+  --nav-border: rgba(255, 255, 255, 0.07);
 }
