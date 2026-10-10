@@ -7,10 +7,11 @@
 <link rel="shortcut icon" href="/assets/favicon.ico">
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 
-<!-- Alternate language links for SEO -->
-<link rel="alternate" hreflang="en" href="https://chris-vega.us/" />
-<link rel="alternate" hreflang="es" href="https://chris-vega.us/es/" />
-<link rel="alternate" hreflang="x-default" href="https://chris-vega.us/" />
+<!-- Canonical & Alternate language links for SEO -->
+<link rel="canonical" href="{{ site.url }}{% if page.url != '/' %}{{ page.url }}{% else %}/{% endif %}" />
+<link rel="alternate" hreflang="en" href="{{ site.url }}/" />
+<link rel="alternate" hreflang="es" href="{{ site.url }}/es/" />
+<link rel="alternate" hreflang="x-default" href="{{ site.url }}/" />
 
 <!-- Google Fonts: Plus Jakarta Sans, JetBrains Mono, Cormorant Garamond -->
 <link rel="preconnect" href="https://fonts.googleapis.com">

@@ -169,68 +169,6 @@ lang: es
       </div>
 
     </div>
-
-    <!-- Matriz de Comparación: Sistemas Convencionales vs. Marco Resiliente -->
-    <div style="margin-top: 5rem;">
-      <div class="text-center" style="margin-bottom: 2.5rem;">
-        <div class="eyebrow-container">
-          <span class="eyebrow-line"></span>
-          <span class="eyebrow-text">Comparación Estratégica</span>
-          <span class="eyebrow-line"></span>
-        </div>
-        <h2>Gestión Tradicional de TI vs. El Marco de <span class="font-serif-italic">Sistemas Resilientes</span></h2>
-        <div class="gold-bar centered"></div>
-        <p class="content-narrow">
-          Cómo una mentalidad proactiva de continuidad operativa elimina los puntos únicos de fallo en la TI corporativa convencional.
-        </p>
-      </div>
-
-      <div class="comparison-table-wrapper">
-        <table class="comparison-table">
-          <thead>
-            <tr>
-              <th>Dimensión Estratégica</th>
-              <th>TI Empresarial Convencional</th>
-              <th class="th-highlight">El Marco de Chris Vega</th>
-              <th style="text-align: right;">Impacto</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td class="col-dim">Due Diligence de Ciberseguridad</td>
-              <td class="col-conv">Cuestionarios genéricos y hojas de cálculo pasivas que dejan graves puntos ciegos de seguridad.</td>
-              <td class="col-vega">Evaluación técnica forense: arquitectura de failover, límites de cifrado y defendibilidad en auditorías.</td>
-              <td class="col-metric"><span class="matrix-badge">100% AUDIT READY</span></td>
-            </tr>
-            <tr>
-              <td class="col-dim">Escisiones y Modernización</td>
-              <td class="col-conv">Migraciones descoordinadas y cortes de alto riesgo que generan semanas de fricción e inactividad.</td>
-              <td class="col-vega">Clonación disciplinada de sistemas heredados y arquitecturas de corte en fases diseñadas para cero inactividad.</td>
-              <td class="col-metric"><span class="matrix-badge">ZERO DOWNTIME</span></td>
-            </tr>
-            <tr>
-              <td class="col-dim">Alineación Interdisciplinaria</td>
-              <td class="col-conv">Jerga técnica opaca que aísla a los líderes de negocio y profundiza los silos entre desarrollo y seguridad.</td>
-              <td class="col-vega">Facilitación de tecnólogo creativo: traduciendo deuda técnica compleja en hojas de ruta ejecutivas claras.</td>
-              <td class="col-metric"><span class="matrix-badge">EQUIPOS ALINEADOS</span></td>
-            </tr>
-            <tr>
-              <td class="col-dim">Nube y Recuperación (BCP/DR)</td>
-              <td class="col-conv">Arquitecturas frágiles y sobredimensionadas con vías de recuperación no probadas ni validadas.</td>
-              <td class="col-vega">Entornos AWS pragmáticos con conmutación por error automatizada, RTO/RPO comprobados y cumplimiento estricto.</td>
-              <td class="col-metric"><span class="matrix-badge">RESILIENCIA BCP/DR</span></td>
-            </tr>
-            <tr>
-              <td class="col-dim">Triaje de Incidentes Operativos</td>
-              <td class="col-conv">Gestión reactiva de tickets de nivel 1 donde los problemas se atienden solo tras la interrupción del servicio.</td>
-              <td class="col-vega">Supervisión NOC/SOC 24/7, mitigación proactiva de riesgos y comunicación bilingüe (inglés/español) efectiva.</td>
-              <td class="col-metric"><span class="matrix-badge">TELEMETRÍA 24/7</span></td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-    </div>
-
   </div>
 </section>
 
