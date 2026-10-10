@@ -14,11 +14,11 @@ lang: es
       <!-- Columna Visual: Retrato con Tarjeta de Credencial Flotante -->
       <div class="hero-visual-col">
         <div class="portrait-wrapper">
-          <img src="/assets/jpg/photo.jpg" alt="Chris Vega, Líder de Continuidad del Negocio y Analista Senior de Sistemas" loading="eager" width="600" height="750">
+          <img src="/assets/jpg/photo.jpg" alt="Chris Vega, Líder de Continuidad del Negocio y Tecnólogo Creativo" loading="eager" width="600" height="750">
         </div>
         <div class="floating-badge">
           <p class="badge-title">Líder de Continuidad del Negocio</p>
-          <p class="badge-sub">Riesgo Cibernético · BCP/DR · Arquitectura de Sistemas</p>
+          <p class="badge-sub">Riesgo Cibernético · BCP/DR · Resiliencia de Sistemas</p>
         </div>
       </div>
 
@@ -35,7 +35,7 @@ lang: es
         </div>
 
         <h1>Chris Vega</h1>
-        <p class="hero-subtitle">Líder de Continuidad del Negocio en TI · Analista Senior de Sistemas · Tecnólogo Creativo</p>
+        <p class="hero-subtitle">Líder de Continuidad del Negocio en TI · Resiliencia Cibernética · Tecnólogo Creativo</p>
 
         <div class="hero-narrative">
           <p>
@@ -89,6 +89,16 @@ lang: es
           <span class="chip">
             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" x2="22" y1="12" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
             <span>Bilingüe (Inglés / Español)</span>
+          </span>
+
+          <span class="chip">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v2a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3z"/><path d="m19 8-4 4"/><path d="m5 8 4 4"/><circle cx="12" cy="14" r="3"/><path d="M10 17 8 22"/><path d="M14 17 16 22"/></svg>
+            <span>Pilotaje de Drones (Candidato FCC)</span>
+          </span>
+
+          <span class="chip">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3l-2.5-3z"/><circle cx="12" cy="13" r="3"/></svg>
+            <span>Fotografía y Videografía</span>
           </span>
         </div>
       </div>
@@ -255,23 +265,79 @@ lang: es
      SECCIÓN 4: LA VENTAJA DEL TECNÓLOGO CREATIVO (DIFERENCIADOR)
      ========================================================================== -->
 <section id="differentiator" class="section-padding bg-surface-low">
-  <div class="content-prose">
-    <div class="eyebrow-container">
-      <span class="eyebrow-line"></span>
-      <span class="eyebrow-text">El Diferenciador Clave</span>
+  <div class="content-max">
+    <div class="text-center" style="margin-bottom: 3rem;">
+      <div class="eyebrow-container">
+        <span class="eyebrow-line"></span>
+        <span class="eyebrow-text">El Diferenciador Clave</span>
+        <span class="eyebrow-line"></span>
+      </div>
+      <h2>La Ventaja del <span class="font-serif-italic">Tecnólogo Creativo</span></h2>
+      <div class="gold-bar centered"></div>
+      <p class="content-narrow">
+        Cómo la práctica continua en pilotaje aéreo de precisión, narrativa visual y artes escénicas potencia la serenidad ante crisis, la disciplina espacial y el liderazgo multidisciplinario en la tecnología empresarial.
+      </p>
     </div>
-    <h2>La Ventaja del <span class="font-serif-italic">Tecnólogo Creativo</span></h2>
-    <div class="gold-bar"></div>
 
-    <p>
-      Las fallas más perjudiciales en la tecnología empresarial rara vez provienen de errores de programación: surgen de fallas en la comunicación humana. Cuando los auditores de seguridad, los gestores de proveedores, los ingenieros de software y el liderazgo ejecutivo operan en silos aislados hablando lenguajes totalmente distintos, los riesgos críticos se ocultan y los cronogramas se estancan.
-    </p>
-    <p>
-      Chris aborda cada desafío técnico desde la perspectiva dual de un <strong>tecnólogo creativo</strong>. Perfeccionado por quince años en tecnología corporativa junto con formación formal en artes escénicas, se destaca facilitando sesiones de alineación de alto impacto, traduciendo mandatos criptográficos y regulatorios densos en decisiones ejecutivas claras, y fomentando la colaboración interdisciplinaria donde cada contribuyente se siente escuchado.
-    </p>
-    <p>
-      Esta perspectiva guía cada iniciativa que lidera: las decisiones técnicas deben ser matemáticamente sólidas, humanamente viables para los equipos y fundamentadas en la resiliencia operativa a largo plazo.
-    </p>
+    <div class="content-prose" style="margin-bottom: 3.5rem;">
+      <p>
+        Las fallas más perjudiciales en la tecnología empresarial rara vez provienen de errores de programación: surgen de fallas en la comunicación humana. Cuando los auditores de seguridad, los gestores de proveedores, los ingenieros de software y el liderazgo ejecutivo operan en silos aislados hablando lenguajes totalmente distintos, los riesgos críticos se ocultan y los cronogramas se estancan.
+      </p>
+      <p>
+        Chris aborda cada desafío técnico desde la perspectiva dual de un <strong>tecnólogo creativo</strong>. Perfeccionado por quince años en tecnología corporativa junto con práctica activa en pilotaje de drones, fotografía profesional, videografía y artes escénicas, se destaca facilitando sesiones de alineación de alto impacto, traduciendo mandatos criptográficos y regulatorios densos en decisiones ejecutivas claras, y fomentando la colaboración interdisciplinaria donde cada contribuyente se siente escuchado.
+      </p>
+    </div>
+
+    <!-- Cuadrícula de 4 Tarjetas: Disciplinas Creativas -->
+    <div class="creative-grid">
+      <!-- 1. Pilotaje de Drones -->
+      <div class="creative-card">
+        <div class="creative-icon-box">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v2a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3z"/><path d="m19 8-4 4"/><path d="m5 8 4 4"/><circle cx="12" cy="14" r="3"/><path d="M10 17 8 22"/><path d="M14 17 16 22"/></svg>
+        </div>
+        <span class="creative-badge">Operaciones Aéreas · En Proceso</span>
+        <h3 class="creative-title">Pilotaje de Drones e Imagen Aérea</h3>
+        <p class="creative-desc">
+          En formación activa hacia la certificación de vuelo comercial. El pilotaje multirrotor exige estrictas listas de verificación de telemetría previa al vuelo, conciencia espacial en tiempo real y protocolos de seguridad a prueba de fallos, reflejando con exactitud la disciplina requerida en la recuperación ante desastres.
+        </p>
+      </div>
+
+      <!-- 2. Fotografía -->
+      <div class="creative-card">
+        <div class="creative-icon-box">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3l-2.5-3z"/><circle cx="12" cy="13" r="3"/></svg>
+        </div>
+        <span class="creative-badge">Oficio Visual · Varios Años</span>
+        <h3 class="creative-title">Fotografía Profesional</h3>
+        <p class="creative-desc">
+          Años de práctica dedicada abarcando retratos profesionales, proyectos para clientes y trabajo editorial. Dominio de iluminación natural y de estudio, encuadre y jerarquía visual para transmitir claridad e identidad humana auténtica.
+        </p>
+      </div>
+
+      <!-- 3. Videografía -->
+      <div class="creative-card">
+        <div class="creative-icon-box">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="23 7 16 12 23 17 23 7"/><rect width="15" height="14" x="1" y="5" rx="2" ry="2"/></svg>
+        </div>
+        <span class="creative-badge">Producción y Movimiento</span>
+        <h3 class="creative-title">Videografía y Cinematografía</h3>
+        <p class="creative-desc">
+          Producción audiovisual integral, narrativa visual y diseño de sonido. Transformando conceptos complejos de múltiples niveles en medios visuales atractivos con ritmo que simplifican ideas complejas y capturan la atención directiva.
+        </p>
+      </div>
+
+      <!-- 4. Actuación -->
+      <div class="creative-card">
+        <div class="creative-icon-box">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" x2="12" y1="19" y2="22"/></svg>
+        </div>
+        <span class="creative-badge">Escenario y Pantalla · Presencia</span>
+        <h3 class="creative-title">Artes Escénicas y Actuación</h3>
+        <p class="creative-desc">
+          Formación formal y experiencia teatral/audiovisual que cultivan escucha activa, modulación de voz y serenidad bajo extrema presión. Aporta la compostura indispensable para presentaciones ejecutivas y el comando de incidentes de emergencia.
+        </p>
+      </div>
+    </div>
   </div>
 </section>
 
@@ -532,11 +598,11 @@ lang: es
 
       <details class="faq-item">
         <summary class="faq-summary">
-          <span>¿Cuál es la ventaja práctica de contar con un 'tecnólogo creativo' en equipos de riesgo?</span>
+          <span>¿Cómo potencian tus disciplinas creativas (fotografía, actuación, drones) tu liderazgo en resiliencia técnica?</span>
           <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
         </summary>
         <div class="faq-content">
-          Las iniciativas corporativas suelen frenarse no por fallas de código, sino por barreras de comunicación humana. Los equipos de seguridad, ingeniería de software y directivos suelen hablar lenguajes distintos. Aprovechando mi experiencia en sistemas corporativos y formación en artes escénicas, facilito talleres decisivos, traduzco deuda técnica densa en decisiones estratégicas claras y unifico equipos hacia una meta común.
+          Las iniciativas corporativas y las operaciones de recuperación ante desastres fallan con mayor frecuencia no por defectos en el código, sino por silos de comunicación y pánico bajo presión. La formación en actuación y artes escénicas inculca presencia, escucha activa y serenidad directiva durante el comando de incidentes críticos. La fotografía profesional y la videografía agudizan el encuadre visual y la claridad narrativa, convirtiendo densos mandatos regulatorios en presentaciones ejecutivas intuitivas. El pilotaje de drones exige rigurosas listas de verificación de telemetría previa al vuelo, conciencia espacial continua y mentalidad a prueba de fallos, reflejando directamente la disciplina necesaria para diseñar y ejecutar planes de continuidad auditables.
         </div>
       </details>
 

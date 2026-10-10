@@ -13,11 +13,11 @@ title: Home
       <!-- Visual Column: Portrait with Floating Credential Badge -->
       <div class="hero-visual-col">
         <div class="portrait-wrapper">
-          <img src="/assets/jpg/photo.jpg" alt="Chris Vega, Technology Business Continuity Lead & Senior Systems Analyst" loading="eager" width="600" height="750">
+          <img src="/assets/jpg/photo.jpg" alt="Chris Vega, Technology Business Continuity Lead & Creative Technologist" loading="eager" width="600" height="750">
         </div>
         <div class="floating-badge">
           <p class="badge-title">Business Continuity Lead</p>
-          <p class="badge-sub">Enterprise Cyber Risk · BCP/DR · Systems Architecture</p>
+          <p class="badge-sub">Enterprise Cyber Risk · BCP/DR · Systems Resilience</p>
         </div>
       </div>
 
@@ -34,7 +34,7 @@ title: Home
         </div>
 
         <h1>Chris Vega</h1>
-        <p class="hero-subtitle">Technology Business Continuity Lead · Senior Systems Analyst · Creative Technologist</p>
+        <p class="hero-subtitle">Technology Business Continuity Lead · Enterprise Cyber Resilience · Creative Technologist</p>
 
         <div class="hero-narrative">
           <p>
@@ -88,6 +88,16 @@ title: Home
           <span class="chip">
             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" x2="22" y1="12" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
             <span>Bilingual (English / Spanish)</span>
+          </span>
+
+          <span class="chip">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v2a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3z"/><path d="m19 8-4 4"/><path d="m5 8 4 4"/><circle cx="12" cy="14" r="3"/><path d="M10 17 8 22"/><path d="M14 17 16 22"/></svg>
+            <span>Drone Piloting (FCC Candidate)</span>
+          </span>
+
+          <span class="chip">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3l-2.5-3z"/><circle cx="12" cy="13" r="3"/></svg>
+            <span>Photography &amp; Videography</span>
           </span>
         </div>
       </div>
@@ -254,23 +264,79 @@ title: Home
      SECTION 4: THE CREATIVE TECHNOLOGIST ADVANTAGE (SIGNATURE DIFFERENTIATOR)
      ========================================================================== -->
 <section id="differentiator" class="section-padding bg-surface-low">
-  <div class="content-prose">
-    <div class="eyebrow-container">
-      <span class="eyebrow-line"></span>
-      <span class="eyebrow-text">The Distinctive Edge</span>
+  <div class="content-max">
+    <div class="text-center" style="margin-bottom: 3rem;">
+      <div class="eyebrow-container">
+        <span class="eyebrow-line"></span>
+        <span class="eyebrow-text">The Distinctive Edge</span>
+        <span class="eyebrow-line"></span>
+      </div>
+      <h2>The Creative Technologist <span class="font-serif-italic">Advantage</span></h2>
+      <div class="gold-bar centered"></div>
+      <p class="content-narrow">
+        How multi-year practice across precision aerial flight, visual storytelling, and performance arts powers high-stakes crisis composure, spatial discipline, and cross-functional leadership in enterprise technology.
+      </p>
     </div>
-    <h2>The Creative Technologist <span class="font-serif-italic">Advantage</span></h2>
-    <div class="gold-bar"></div>
 
-    <p>
-      The most catastrophic breakdowns in enterprise technology rarely stem from raw code defects—they stem from breakdowns in human communication. When security auditors, vendor management, software engineers, and executive leadership operate in disparate silos speaking entirely different languages, critical risks get obscured and project timelines stall.
-    </p>
-    <p>
-      Chris approaches every technical challenge with the dual lens of a <strong>creative technologist</strong>. Sharpened by fifteen years in corporate technology alongside formal background in the performance arts, he excels at facilitating high-stakes alignment sessions, translating dense cryptographic and regulatory mandates into clear executive choices, and fostering cross-team collaboration where every contributor feels heard.
-    </p>
-    <p>
-      This perspective shapes every initiative Chris leads: technical decisions must be mathematically sound, biologically maintainable for human teams, and grounded in long-term operational resilience rather than whatever is fastest or most convenient.
-    </p>
+    <div class="content-prose" style="margin-bottom: 3.5rem;">
+      <p>
+        The most catastrophic breakdowns in enterprise technology rarely stem from raw code defects—they stem from breakdowns in human communication. When security auditors, vendor management, software engineers, and executive leadership operate in disparate silos speaking entirely different languages, critical risks get obscured and project timelines stall.
+      </p>
+      <p>
+        Chris approaches every technical challenge with the dual lens of a <strong>creative technologist</strong>. Sharpened by fifteen years in corporate technology alongside dedicated real-world practice in drone piloting, professional photography, videography, and the performance arts, he excels at facilitating high-stakes alignment sessions, translating dense cryptographic and regulatory mandates into clear executive choices, and fostering cross-team collaboration where every contributor feels heard.
+      </p>
+    </div>
+
+    <!-- 4-Card Creative Showcase Grid -->
+    <div class="creative-grid">
+      <!-- 1. Drone Piloting -->
+      <div class="creative-card">
+        <div class="creative-icon-box">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v2a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3z"/><path d="m19 8-4 4"/><path d="m5 8 4 4"/><circle cx="12" cy="14" r="3"/><path d="M10 17 8 22"/><path d="M14 17 16 22"/></svg>
+        </div>
+        <span class="creative-badge">Flight Operations · In Progress</span>
+        <h3 class="creative-title">Drone Piloting &amp; Aerial Imaging</h3>
+        <p class="creative-desc">
+          Actively training toward commercial certification. Multi-rotor flight execution demands strict pre-flight telemetry checks, real-time spatial awareness, and fail-safe protocols—mirroring the exact operational discipline required in disaster recovery.
+        </p>
+      </div>
+
+      <!-- 2. Photography -->
+      <div class="creative-card">
+        <div class="creative-icon-box">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3l-2.5-3z"/><circle cx="12" cy="13" r="3"/></svg>
+        </div>
+        <span class="creative-badge">Visual Craft · Multi-Year</span>
+        <h3 class="creative-title">Professional Photography</h3>
+        <p class="creative-desc">
+          Years of dedicated practice spanning professional portraiture, client commissions, and editorial work. Honing natural and studio light, framing, and visual hierarchy to reveal clarity and authentic human character.
+        </p>
+      </div>
+
+      <!-- 3. Videography -->
+      <div class="creative-card">
+        <div class="creative-icon-box">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="23 7 16 12 23 17 23 7"/><rect width="15" height="14" x="1" y="5" rx="2" ry="2"/></svg>
+        </div>
+        <span class="creative-badge">Motion &amp; Production</span>
+        <h3 class="creative-title">Videography &amp; Cinematography</h3>
+        <p class="creative-desc">
+          End-to-end video production, motion storytelling, and sound design. Translating multi-layered narratives into engaging visual media that simplify complex ideas and command stakeholder attention.
+        </p>
+      </div>
+
+      <!-- 4. Acting -->
+      <div class="creative-card">
+        <div class="creative-icon-box">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" x2="12" y1="19" y2="22"/></svg>
+        </div>
+        <span class="creative-badge">Stage &amp; Screen · Presence</span>
+        <h3 class="creative-title">Acting &amp; Performance Arts</h3>
+        <p class="creative-desc">
+          Formal training and stage/screen experience cultivating acute listening, vocal modulation, and poise under extreme pressure. Instills the high-stakes composure essential for executive briefings and emergency incident command.
+        </p>
+      </div>
+    </div>
   </div>
 </section>
 
@@ -531,11 +597,11 @@ title: Home
 
       <details class="faq-item">
         <summary class="faq-summary">
-          <span>What is the practical advantage of having a 'creative technologist' on technical risk teams?</span>
+          <span>How do your creative disciplines (photography, acting, drone piloting) enhance your technical resilience leadership?</span>
           <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
         </summary>
         <div class="faq-content">
-          Enterprise initiatives stall most frequently not from software bugs, but from human communication silos. Security teams, software engineers, and executive leaders often speak entirely different languages. Drawing on a dual background in corporate systems and performance arts, I facilitate high-stakes workshops, translate dense technical debt into transparent executive decisions, and align teams around a shared, cohesive outcome.
+          Enterprise initiatives and disaster recovery operations stall most frequently not from code defects, but from human communication silos and panic under pressure. Training in acting and performance arts instills poise, active listening, and calm executive presence during high-stakes incident command. Professional photography and videography hone visual framing and narrative clarity, transforming dense regulatory mandates into intuitive stakeholder presentations. Drone piloting demands strict pre-flight telemetry checklists, continuous spatial awareness, and fail-safe thinking—directly mirroring the discipline required to architect and execute audit-defensible business continuity plans.
         </div>
       </details>
 

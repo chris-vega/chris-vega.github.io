@@ -1,6 +1,6 @@
 /* ==========================================================================
    DESIGN TOKENS - CYBER SLATE & ELECTRIC CYAN / TEAL
-   Chris Vega - Technology Business Continuity Lead | Senior Systems Analyst
+   Chris Vega - Technology Business Continuity Lead | Creative Technologist
    ========================================================================== */
 
 :root {
@@ -1563,4 +1563,82 @@ a {
   color: var(--on-surface-variant);
   border-top: 1px solid var(--border-subtle);
   padding-top: 1.25rem;
+}
+
+/* --------------------------------------------------------------------------
+   12. Creative Technologist Disciplines Grid
+   -------------------------------------------------------------------------- */
+.creative-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  margin-top: 2.75rem;
+
+  @media (min-width: 640px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (min-width: 1024px) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.creative-card {
+  background: var(--surface-container-lowest);
+  border: 1px solid var(--border-subtle);
+  border-radius: 1.25rem;
+  padding: 1.75rem 1.5rem;
+  box-shadow: var(--shadow-ambient);
+  transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+  position: relative;
+  overflow: hidden;
+
+  &:hover {
+    transform: translateY(-4px);
+    border-color: var(--border-hover);
+    box-shadow: var(--shadow-ambient-lg);
+  }
+
+  .creative-badge {
+    font-family: var(--font-family-mono);
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--cyan);
+    display: inline-block;
+    margin-bottom: 0.75rem;
+  }
+
+  .creative-icon-box {
+    width: 2.75rem;
+    height: 2.75rem;
+    border-radius: 0.75rem;
+    background: var(--icon-box-bg);
+    color: var(--icon-box-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+
+    svg {
+      width: 1.4rem;
+      height: 1.4rem;
+    }
+  }
+
+  .creative-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--on-surface);
+    margin: 0 0 0.5rem 0;
+    line-height: 1.25;
+  }
+
+  .creative-desc {
+    font-size: 0.875rem;
+    line-height: 1.6;
+    color: var(--on-surface-variant);
+    margin: 0;
+  }
 }
