@@ -54,6 +54,8 @@
   
   --font-family-base: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   --font-family-headline: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-family-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  --font-family-serif: 'Cormorant Garamond', Georgia, serif;
 }
 
 [data-theme="dark"] {
@@ -172,6 +174,17 @@ h2 {
 h3 {
   font-size: clamp(1.25rem, 2vw, 1.5rem);
   font-weight: 700;
+}
+
+.font-mono {
+  font-family: var(--font-family-mono);
+}
+
+.font-serif-italic {
+  font-family: var(--font-family-serif);
+  font-style: italic;
+  font-weight: 400;
+  color: var(--gold);
 }
 
 p {
@@ -1182,4 +1195,333 @@ a {
     width: 1.25rem;
     height: 1.25rem;
   }
+}
+
+/* --------------------------------------------------------------------------
+   12. FPX-Inspired High-Tech Components
+   -------------------------------------------------------------------------- */
+
+/* Live Availability Status Pill */
+.status-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.35rem 0.85rem;
+  border-radius: 9999px;
+  background: rgba(16, 185, 129, 0.08);
+  border: 1px solid rgba(16, 185, 129, 0.25);
+  font-family: var(--font-family-mono);
+  font-size: 0.725rem;
+  font-weight: 600;
+  color: #10B981;
+  letter-spacing: 0.04em;
+  margin-bottom: 1.5rem;
+
+  .status-dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 9999px;
+    background-color: #10B981;
+    box-shadow: 0 0 8px #10B981;
+    animation: pulse-dot 2s infinite ease-in-out;
+  }
+}
+
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.4; transform: scale(0.85); }
+}
+
+/* The Visual Synthesis Formula (Equation Box) */
+.equation-box {
+  background: var(--surface-container-lowest);
+  border: 1px solid var(--border-subtle);
+  border-radius: 1.75rem;
+  padding: 2.25rem 2rem;
+  box-shadow: var(--shadow-ambient);
+  margin-top: 3.5rem;
+  border-left: 4px solid var(--gold);
+}
+
+.equation-flow {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.25rem;
+
+  @media (min-width: 900px) {
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 1.5rem;
+  }
+}
+
+.equation-item {
+  flex: 1;
+  text-align: center;
+  padding: 1.25rem 1rem;
+  border-radius: 1rem;
+  background: var(--surface-container-low);
+  width: 100%;
+
+  .eq-tag {
+    font-family: var(--font-family-mono);
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--gold);
+    display: block;
+    margin-bottom: 0.35rem;
+  }
+
+  .eq-title {
+    font-size: 1.15rem;
+    font-weight: 800;
+    color: var(--on-surface);
+    margin: 0 0 0.25rem 0;
+    line-height: 1.2;
+  }
+
+  .eq-desc {
+    font-size: 0.825rem;
+    color: var(--on-surface-variant);
+    margin: 0;
+    line-height: 1.4;
+  }
+
+  &.is-result {
+    background: var(--navy);
+    color: #FFFFFF;
+    box-shadow: 0 8px 24px rgba(11, 23, 40, 0.25);
+
+    .eq-title {
+      color: var(--gold);
+    }
+
+    .eq-desc {
+      color: rgba(255, 255, 255, 0.8);
+    }
+  }
+}
+
+.equation-op {
+  font-size: 1.75rem;
+  font-weight: 300;
+  color: var(--gold);
+  line-height: 1;
+  user-select: none;
+}
+
+/* Comparison Matrix: Conventional vs. Chris Vega */
+.comparison-table-wrapper {
+  overflow-x: auto;
+  border-radius: 1.5rem;
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-container-lowest);
+  box-shadow: var(--shadow-ambient);
+}
+
+.comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+  font-size: 0.925rem;
+
+  th, td {
+    padding: 1.35rem 1.75rem;
+    border-bottom: 1px solid var(--border-subtle);
+    vertical-align: middle;
+  }
+
+  th {
+    font-family: var(--font-family-mono);
+    font-size: 0.75rem;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--on-surface-muted);
+    background: var(--surface-container-low);
+
+    &.th-highlight {
+      color: var(--gold);
+      background: var(--navy);
+    }
+  }
+
+  tr:last-child td {
+    border-bottom: none;
+  }
+
+  .col-dim {
+    font-weight: 700;
+    color: var(--on-surface);
+    width: 22%;
+  }
+
+  .col-conv {
+    color: var(--on-surface-muted);
+    width: 34%;
+  }
+
+  .col-vega {
+    font-weight: 600;
+    color: var(--on-surface);
+    width: 34%;
+    background: rgba(197, 168, 128, 0.04);
+  }
+
+  .col-metric {
+    width: 10%;
+    text-align: right;
+  }
+}
+
+.matrix-badge {
+  display: inline-block;
+  font-family: var(--font-family-mono);
+  font-size: 0.725rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  padding: 0.35rem 0.75rem;
+  border-radius: 9999px;
+  background: var(--gold-light);
+  color: var(--gold);
+  border: 1px solid var(--gold-glow);
+  white-space: nowrap;
+
+  [data-theme="dark"] & {
+    background: rgba(212, 175, 55, 0.15);
+    color: var(--gold-accent);
+  }
+}
+
+/* 4-Stage Operational Resilience Lifecycle */
+.workflow-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  margin-top: 3rem;
+
+  @media (min-width: 640px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (min-width: 1024px) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.workflow-card {
+  background: var(--surface-container-lowest);
+  border: 1px solid var(--border-subtle);
+  border-radius: 1.5rem;
+  padding: 2rem 1.5rem;
+  box-shadow: var(--shadow-ambient);
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+
+  &:hover {
+    transform: translateY(-4px);
+    border-color: var(--border-hover);
+  }
+
+  .workflow-step-num {
+    font-family: var(--font-family-mono);
+    font-size: 0.85rem;
+    font-weight: 800;
+    color: var(--gold);
+    margin-bottom: 1rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+
+    &::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--border-subtle);
+    }
+  }
+
+  .workflow-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--on-surface);
+    margin-bottom: 0.5rem;
+  }
+
+  .workflow-desc {
+    font-size: 0.85rem;
+    line-height: 1.6;
+    color: var(--on-surface-variant);
+    margin: 0;
+  }
+}
+
+/* Interactive Executive FAQ Accordion */
+.faq-accordion {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  max-width: 920px;
+  margin: 3rem auto 0;
+}
+
+.faq-item {
+  background: var(--surface-container-lowest);
+  border: 1px solid var(--border-subtle);
+  border-radius: 1.25rem;
+  box-shadow: var(--shadow-ambient);
+  overflow: hidden;
+  transition: border-color 0.2s ease;
+
+  &[open] {
+    border-color: var(--border-hover);
+  }
+}
+
+.faq-summary {
+  padding: 1.5rem 1.75rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--on-surface);
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  user-select: none;
+  outline: none;
+
+  &::-webkit-details-marker {
+    display: none;
+  }
+
+  &:hover {
+    color: var(--gold);
+  }
+
+  .faq-icon {
+    width: 1.25rem;
+    height: 1.25rem;
+    color: var(--gold);
+    transition: transform 0.3s ease;
+    flex-shrink: 0;
+  }
+}
+
+.faq-item[open] .faq-icon {
+  transform: rotate(45deg);
+}
+
+.faq-content {
+  padding: 0 1.75rem 1.75rem;
+  font-size: 0.95rem;
+  line-height: 1.7;
+  color: var(--on-surface-variant);
+  border-top: 1px solid var(--border-subtle);
+  padding-top: 1.25rem;
 }

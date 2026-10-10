@@ -23,6 +23,11 @@ title: Home
 
       <!-- Content Column: Executive Bio & Narrative -->
       <div class="hero-content-col">
+        <div class="status-pill">
+          <span class="status-dot"></span>
+          <span>Available for Strategic Advisory & Consulting</span>
+        </div>
+
         <div class="eyebrow-container">
           <span class="eyebrow-line"></span>
           <span class="eyebrow-text">Meet Your Consultant</span>
@@ -88,6 +93,30 @@ title: Home
       </div>
 
     </div>
+
+    <!-- The FPX-Inspired Visual Synthesis Formula -->
+    <div class="equation-box">
+      <div class="equation-flow">
+        <div class="equation-item">
+          <span class="eq-tag">Technical Mastery</span>
+          <p class="eq-title">Precision Systems Analysis</p>
+          <p class="eq-desc">Rigorous cyber risk remediation, architecture & vendor governance</p>
+        </div>
+        <span class="equation-op">+</span>
+        <div class="equation-item">
+          <span class="eq-tag">Human-Centered Edge</span>
+          <p class="eq-title">Creative Technologist Lens</p>
+          <p class="eq-desc">Cross-functional clarity, empathy & high-stakes workshop leadership</p>
+        </div>
+        <span class="equation-op">=</span>
+        <div class="equation-item is-result">
+          <span class="eq-tag" style="color: var(--gold);">Executive Outcome</span>
+          <p class="eq-title">Resilient Business Impact</p>
+          <p class="eq-desc">Zero operational downtime · 100% audit defensible · Scalable</p>
+        </div>
+      </div>
+    </div>
+
   </div>
 </section>
 
@@ -129,6 +158,68 @@ title: Home
       </div>
 
     </div>
+
+    <!-- The FPX-Inspired Comparison Matrix -->
+    <div style="margin-top: 5rem;">
+      <div class="text-center" style="margin-bottom: 2.5rem;">
+        <div class="eyebrow-container">
+          <span class="eyebrow-line"></span>
+          <span class="eyebrow-text">Strategic Comparison</span>
+          <span class="eyebrow-line"></span>
+        </div>
+        <h2>Conventional IT Consulting vs. The <span class="font-serif-italic">Resilient Systems</span> Approach</h2>
+        <div class="gold-bar centered"></div>
+        <p class="content-narrow">
+          How a creative technologist approach eliminates the failure points of traditional enterprise consulting.
+        </p>
+      </div>
+
+      <div class="comparison-table-wrapper">
+        <table class="comparison-table">
+          <thead>
+            <tr>
+              <th>Strategic Dimension</th>
+              <th>Conventional Consulting</th>
+              <th class="th-highlight">The Chris Vega Approach</th>
+              <th style="text-align: right;">Impact</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="col-dim">Vendor Risk Due Diligence</td>
+              <td class="col-conv">Passive spreadsheet checklists and generic questionnaires that leave major cybersecurity blind spots.</td>
+              <td class="col-vega">Deep technical due diligence: evaluating architecture, failover pathways, encryption, and audit defensibility.</td>
+              <td class="col-metric"><span class="matrix-badge">100% AUDIT READY</span></td>
+            </tr>
+            <tr>
+              <td class="col-dim">Legacy Modernization</td>
+              <td class="col-conv">High-friction rip-and-replace deployments causing multi-week operational friction and project delays.</td>
+              <td class="col-vega">Disciplined system cloning and phased cutover architectures engineered for zero-downtime day-one readiness.</td>
+              <td class="col-metric"><span class="matrix-badge">ZERO DOWNTIME</span></td>
+            </tr>
+            <tr>
+              <td class="col-dim">Cross-Team Alignment</td>
+              <td class="col-conv">Opaque technical jargon that alienates business stakeholders and deepens silos between developers and security.</td>
+              <td class="col-vega">Creative technologist facilitation: translating complex technical debt into clear, actionable executive roadmaps.</td>
+              <td class="col-metric"><span class="matrix-badge">ALIGNED TEAMS</span></td>
+            </tr>
+            <tr>
+              <td class="col-dim">Cloud & Systems Architecture</td>
+              <td class="col-conv">Brittle, over-engineered architectures with unchecked cloud sprawl and hidden governance gaps.</td>
+              <td class="col-vega">Pragmatic AWS and enterprise system designs optimized for compliance, scalability, and long-term maintainability.</td>
+              <td class="col-metric"><span class="matrix-badge">SCALABLE & LEAN</span></td>
+            </tr>
+            <tr>
+              <td class="col-dim">Operational Reliability</td>
+              <td class="col-conv">Reactive tier-1 ticketing where issues escalate only after business disruption occurs.</td>
+              <td class="col-vega">24/7 NOC/SOC oversight, proactive risk mitigation, and bilingual (English/Spanish) communication to defuse issues early.</td>
+              <td class="col-metric"><span class="matrix-badge">24/7 RESILIENCE</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
   </div>
 </section>
 
@@ -168,7 +259,7 @@ title: Home
       <span class="eyebrow-line"></span>
       <span class="eyebrow-text">The Distinctive Edge</span>
     </div>
-    <h2>The Creative Technologist Advantage</h2>
+    <h2>The Creative Technologist <span class="font-serif-italic">Advantage</span></h2>
     <div class="gold-bar"></div>
 
     <p>
@@ -288,24 +379,60 @@ title: Home
 </section>
 
 <!-- ==========================================================================
-     SECTION 7: CONSULTING DISCIPLINES & FOCUS AREAS
+     SECTION 7: CONSULTING DISCIPLINES & OPERATIONAL RESILIENCE LIFECYCLE
      ========================================================================== -->
 <section id="practice" class="section-padding bg-surface-low">
   <div class="content-max">
     <div class="text-center" style="margin-bottom: 3.5rem;">
       <div class="eyebrow-container">
         <span class="eyebrow-line"></span>
-        <span class="eyebrow-text">Core Disciplines</span>
+        <span class="eyebrow-text">Consulting Framework</span>
         <span class="eyebrow-line"></span>
       </div>
-      <h2>Areas of Practice & Consulting Focus</h2>
+      <h2>Areas of Practice & <span class="font-serif-italic">Operational Lifecycle</span></h2>
       <div class="gold-bar centered"></div>
       <p class="content-narrow">
-        Key advisory areas where Chris delivers strategic guidance, technical governance, and cross-functional leadership.
+        Key advisory disciplines and the four-stage execution methodology that guarantees enterprise business continuity.
       </p>
     </div>
 
-    <div class="practice-grid">
+    <!-- 4-Stage Workflow Lifecycle -->
+    <div class="workflow-grid">
+      <div class="workflow-card">
+        <div class="workflow-step-num">PHASE 01</div>
+        <h4 class="workflow-title">Risk Audit & Due Diligence</h4>
+        <p class="workflow-desc">
+          Comprehensive forensic analysis of third-party vendors, architectural debt, cybersecurity postures, and BCP/DR failover readiness.
+        </p>
+      </div>
+
+      <div class="workflow-card">
+        <div class="workflow-step-num">PHASE 02</div>
+        <h4 class="workflow-title">Blueprint Architecture</h4>
+        <p class="workflow-desc">
+          Designing pragmatic AWS cloud environments and system integration blueprints that balance rigorous compliance with lean operational efficiency.
+        </p>
+      </div>
+
+      <div class="workflow-card">
+        <div class="workflow-step-num">PHASE 03</div>
+        <h4 class="workflow-title">Staged Cutover & Execution</h4>
+        <p class="workflow-desc">
+          Managing zero-downtime cutovers, legacy divestiture cloning, and agile sprint delivery following PMI CAPM governance frameworks.
+        </p>
+      </div>
+
+      <div class="workflow-card">
+        <div class="workflow-step-num">PHASE 04</div>
+        <h4 class="workflow-title">Continuous Governance</h4>
+        <p class="workflow-desc">
+          Establishing 24/7 telemetry, NOC/SOC escalation protocols, and bilingual stakeholder communication for sustained resilience.
+        </p>
+      </div>
+    </div>
+
+    <!-- Practice Cards Grid -->
+    <div class="practice-grid" style="margin-top: 3.5rem;">
       <!-- 1 -->
       <div class="practice-card">
         <span class="practice-badge">Governance & Security</span>
@@ -353,7 +480,7 @@ title: Home
 
       <!-- 6 -->
       <div class="practice-card">
-        <span class="practice-badge">Operations & Operations</span>
+        <span class="practice-badge">Operations & Triage</span>
         <h3 class="practice-title">24/7 Operations & Bilingual Triage</h3>
         <p class="practice-desc">
           Extensive background in NOC/SOC monitoring, network incident resolution, and 4+ years of dedicated bilingual (English & Spanish) stakeholder communication.
@@ -364,9 +491,81 @@ title: Home
 </section>
 
 <!-- ==========================================================================
-     SECTION 8: WHERE I CONSULT (LOCATION & ENGAGEMENT)
+     SECTION 8: EXECUTIVE FAQ ACCORDION (FPX-INSPIRED)
      ========================================================================== -->
-<section id="location" class="section-padding bg-surface">
+<section id="faq" class="section-padding bg-surface">
+  <div class="content-max">
+    <div class="text-center" style="margin-bottom: 2rem;">
+      <div class="eyebrow-container">
+        <span class="eyebrow-line"></span>
+        <span class="eyebrow-text">Strategic Advisory</span>
+        <span class="eyebrow-line"></span>
+      </div>
+      <h2>Frequently Asked <span class="font-serif-italic">Questions</span></h2>
+      <div class="gold-bar centered"></div>
+      <p class="content-narrow">
+        Key details on enterprise engagements, technical due diligence, and what working with a creative technologist looks like.
+      </p>
+    </div>
+
+    <div class="faq-accordion">
+      <details class="faq-item" open>
+        <summary class="faq-summary">
+          <span>What specific business value does a Senior Systems Analyst bring to an enterprise?</span>
+          <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
+        </summary>
+        <div class="faq-content">
+          I bridge the costly gap between executive business strategy and technical implementation. Rather than simply offering high-level recommendations, I step directly into compliance-driven environments to evaluate technical debt, ensure third-party vendor compliance, architect resilient cloud systems, and facilitate cross-functional delivery that protects revenue and prevents operational disruption.
+        </div>
+      </details>
+
+      <details class="faq-item">
+        <summary class="faq-summary">
+          <span>How do you approach third-party vendor cybersecurity due diligence in regulated sectors?</span>
+          <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
+        </summary>
+        <div class="faq-content">
+          In financial services and regulated sectors, vendor due diligence cannot rely on passive self-assessment questionnaires. I analyze technical architecture, data encryption boundaries, access management, business continuity/disaster recovery (BCP/DR) test results, and compliance attestations against strict enterprise standards—creating enforceable risk remediation roadmaps before contracts are finalized.
+        </div>
+      </details>
+
+      <details class="faq-item">
+        <summary class="faq-summary">
+          <span>What is the practical advantage of hiring a 'creative technologist'?</span>
+          <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
+        </summary>
+        <div class="faq-content">
+          Enterprise initiatives stall most frequently not from software bugs, but from human communication silos. Security teams, software engineers, and executive leaders often speak entirely different languages. Drawing on a dual background in corporate systems and performance arts, I facilitate high-stakes workshops, translate dense technical debt into transparent executive decisions, and align teams around a shared, cohesive outcome.
+        </div>
+      </details>
+
+      <details class="faq-item">
+        <summary class="faq-summary">
+          <span>How do you guarantee zero downtime during corporate divestitures and system cloning?</span>
+          <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
+        </summary>
+        <div class="faq-content">
+          I specialize in legacy infrastructure cloning, decoupled cutovers, and parallel execution paths. By reverse-engineering day-one business continuity requirements, running dry-run simulations, and managing real-time cutover operations, organizations successfully achieve day-one operational independence without service outages or client impact.
+        </div>
+      </details>
+
+      <details class="faq-item">
+        <summary class="faq-summary">
+          <span>What engagement and consulting formats do you offer?</span>
+          <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
+        </summary>
+        <div class="faq-content">
+          Based in Pittsburgh, PA, I partner with enterprise clients and financial institutions nationwide. Engagements are available as strategic fractional advisory, focused vendor due diligence assessments, or hybrid arrangements featuring on-site workshops for major architectural transitions and audit milestones.
+        </div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- ==========================================================================
+     SECTION 9: WHERE I CONSULT (LOCATION & ENGAGEMENT)
+     ========================================================================== -->
+<section id="location" class="section-padding bg-surface-low">
   <div class="content-prose text-center">
     <div class="eyebrow-container">
       <span class="eyebrow-line"></span>
@@ -382,9 +581,9 @@ title: Home
 </section>
 
 <!-- ==========================================================================
-     SECTION 9: CALL TO ACTION BANNER
+     SECTION 10: CALL TO ACTION BANNER
      ========================================================================== -->
-<section id="contact" class="section-padding bg-surface-low" style="padding-top: 2rem;">
+<section id="contact" class="section-padding bg-surface" style="padding-top: 2rem;">
   <div class="content-max">
     <div class="cta-banner">
       <h2>Ready to Strengthen Your Technology Operations?</h2>

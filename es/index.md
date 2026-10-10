@@ -24,6 +24,11 @@ lang: es
 
       <!-- Columna de Contenido: Biografía y Narrativa Ejecutiva -->
       <div class="hero-content-col">
+        <div class="status-pill">
+          <span class="status-dot"></span>
+          <span>Disponible para Asesoría Estratégica y Consultoría</span>
+        </div>
+
         <div class="eyebrow-container">
           <span class="eyebrow-line"></span>
           <span class="eyebrow-text">Conozca a su Consultor</span>
@@ -89,11 +94,35 @@ lang: es
       </div>
 
     </div>
+
+    <!-- Fórmula de Síntesis Visual -->
+    <div class="equation-box">
+      <div class="equation-flow">
+        <div class="equation-item">
+          <span class="eq-tag">Dominio Técnico</span>
+          <p class="eq-title">Análisis Preciso de Sistemas</p>
+          <p class="eq-desc">Remediación rigurosa de riesgos, arquitectura cloud y debida diligencia</p>
+        </div>
+        <span class="equation-op">+</span>
+        <div class="equation-item">
+          <span class="eq-tag">Visión Humana</span>
+          <p class="eq-title">Enfoque de Tecnólogo Creativo</p>
+          <p class="eq-desc">Claridad interdisciplinaria, empatía y liderazgo en talleres ejecutivos</p>
+        </div>
+        <span class="equation-op">=</span>
+        <div class="equation-item is-result">
+          <span class="eq-tag" style="color: var(--gold);">Resultado Ejecutivo</span>
+          <p class="eq-title">Impacto Empresarial Resiliente</p>
+          <p class="eq-desc">Cero tiempo de inactividad · 100% auditable · Arquitectura escalable</p>
+        </div>
+      </div>
+    </div>
+
   </div>
 </section>
 
 <!-- ==========================================================================
-     SECCIÓN 2: TRAYECTORIA E IMPACTO (BENTO GRID)
+     SECCIÓN 2: TRAYECTORIA E IMPACTO (BENTO GRID Y MATRIZ)
      ========================================================================== -->
 <section id="track-record" class="section-padding bg-surface-low">
   <div class="content-max">
@@ -130,6 +159,68 @@ lang: es
       </div>
 
     </div>
+
+    <!-- Matriz Comparativa Estratégica -->
+    <div style="margin-top: 5rem;">
+      <div class="text-center" style="margin-bottom: 2.5rem;">
+        <div class="eyebrow-container">
+          <span class="eyebrow-line"></span>
+          <span class="eyebrow-text">Comparativa Estratégica</span>
+          <span class="eyebrow-line"></span>
+        </div>
+        <h2>Consultoría Tradicional vs. El Enfoque de <span class="font-serif-italic">Sistemas Resilientes</span></h2>
+        <div class="gold-bar centered"></div>
+        <p class="content-narrow">
+          Cómo un enfoque de tecnólogo creativo elimina los puntos de fallo de la consultoría corporativa convencional.
+        </p>
+      </div>
+
+      <div class="comparison-table-wrapper">
+        <table class="comparison-table">
+          <thead>
+            <tr>
+              <th>Dimensión Estratégica</th>
+              <th>Consultoría Tradicional</th>
+              <th class="th-highlight">El Enfoque de Chris Vega</th>
+              <th style="text-align: right;">Impacto</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="col-dim">Due Diligence de Proveedores</td>
+              <td class="col-conv">Cuestionarios genéricos y listas de verificación pasivas que ocultan grandes vulnerabilidades cibernéticas.</td>
+              <td class="col-vega">Evaluación técnica forense: arquitectura de conmutación por error, cifrado, límites de acceso y auditabilidad.</td>
+              <td class="col-metric"><span class="matrix-badge">100% AUDITABLE</span></td>
+            </tr>
+            <tr>
+              <td class="col-dim">Modernización de Sistemas</td>
+              <td class="col-conv">Reemplazos drásticos de alto riesgo que generan semanas de fricción e interrupciones del servicio.</td>
+              <td class="col-vega">Clonación disciplinada de sistemas y transiciones escalonadas diseñadas para cero tiempo de inactividad desde el primer día.</td>
+              <td class="col-metric"><span class="matrix-badge">CERO INTERRUPCIÓN</span></td>
+            </tr>
+            <tr>
+              <td class="col-dim">Alineación entre Equipos</td>
+              <td class="col-conv">Jerga técnica opaca que distancia a los líderes del negocio y profundiza los silos organizacionales.</td>
+              <td class="col-vega">Facilitación de tecnólogo creativo: traduce deuda técnica compleja en hojas de ruta estratégicas y ejecutables.</td>
+              <td class="col-metric"><span class="matrix-badge">EQUIPOS UNIDOS</span></td>
+            </tr>
+            <tr>
+              <td class="col-dim">Arquitectura en la Nube</td>
+              <td class="col-conv">Arquitecturas sobrecargadas con dispersión descontrolada de recursos y vacíos de gobernanza.</td>
+              <td class="col-vega">Diseños pragmáticos en AWS y entornos híbridos optimizados para cumplimiento normativo, escala y mantenibilidad.</td>
+              <td class="col-metric"><span class="matrix-badge">ESCALA Y CONTROL</span></td>
+            </tr>
+            <tr>
+              <td class="col-dim">Confiabilidad Operativa</td>
+              <td class="col-conv">Tickets reactivos de nivel 1 donde los problemas se escalan únicamente después de que el negocio se ve afectado.</td>
+              <td class="col-vega">Supervisión en centros NOC/SOC 24/7, mitigación proactiva y comunicación bilingüe fluida para resolver incidentes a tiempo.</td>
+              <td class="col-metric"><span class="matrix-badge">RESILIENCIA 24/7</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
   </div>
 </section>
 
@@ -169,7 +260,7 @@ lang: es
       <span class="eyebrow-line"></span>
       <span class="eyebrow-text">La Ventaja Distintiva</span>
     </div>
-    <h2>La Ventaja del Tecnólogo Creativo</h2>
+    <h2>La Ventaja del Tecnólogo <span class="font-serif-italic">Creativo</span></h2>
     <div class="gold-bar"></div>
 
     <p>
@@ -289,24 +380,60 @@ lang: es
 </section>
 
 <!-- ==========================================================================
-     SECCIÓN 7: ESPECIALIDADES DE CONSULTORÍA
+     SECCIÓN 7: ESPECIALIDADES Y CICLO DE RESILIENCIA OPERATIVA
      ========================================================================== -->
 <section id="practice" class="section-padding bg-surface-low">
   <div class="content-max">
     <div class="text-center" style="margin-bottom: 3.5rem;">
       <div class="eyebrow-container">
         <span class="eyebrow-line"></span>
-        <span class="eyebrow-text">Especialidades</span>
+        <span class="eyebrow-text">Metodología de Consultoría</span>
         <span class="eyebrow-line"></span>
       </div>
-      <h2>Áreas de Práctica y Especialidades</h2>
+      <h2>Áreas de Práctica y <span class="font-serif-italic">Ciclo Operativo</span></h2>
       <div class="gold-bar centered"></div>
       <p class="content-narrow">
-        Disciplinas clave donde Chris brinda asesoría estratégica, gobernanza técnica y liderazgo interdisciplinario.
+        Disciplinas clave de asesoría y el marco de trabajo de cuatro fases que garantiza la continuidad operativa empresarial.
       </p>
     </div>
 
-    <div class="practice-grid">
+    <!-- Ciclo Operativo de 4 Fases -->
+    <div class="workflow-grid">
+      <div class="workflow-card">
+        <div class="workflow-step-num">FASE 01</div>
+        <h4 class="workflow-title">Auditoría de Riesgo y Due Diligence</h4>
+        <p class="workflow-desc">
+          Análisis técnico forense de proveedores externos, deuda arquitectónica, posturas de ciberseguridad y pruebas de conmutación BCP/DR.
+        </p>
+      </div>
+
+      <div class="workflow-card">
+        <div class="workflow-step-num">FASE 02</div>
+        <h4 class="workflow-title">Diseño de Arquitectura</h4>
+        <p class="workflow-desc">
+          Diseño de entornos cloud en AWS y planos de integración que equilibran el cumplimiento normativo estricto con la agilidad operativa.
+        </p>
+      </div>
+
+      <div class="workflow-card">
+        <div class="workflow-step-num">FASE 03</div>
+        <h4 class="workflow-title">Transición por Etapas y Ejecución</h4>
+        <p class="workflow-desc">
+          Gestión de migraciones sin tiempo de inactividad, clonación en escisiones corporativas y entrega de sprints bajo estándares PMI CAPM.
+        </p>
+      </div>
+
+      <div class="workflow-card">
+        <div class="workflow-step-num">FASE 04</div>
+        <h4 class="workflow-title">Gobernanza y Monitoreo Continuo</h4>
+        <p class="workflow-desc">
+          Implementación de telemetría 24/7, protocolos de escalamiento en centros NOC/SOC y comunicación bilingüe para asegurar resiliencia sostenida.
+        </p>
+      </div>
+    </div>
+
+    <!-- Tarjetas de Práctica -->
+    <div class="practice-grid" style="margin-top: 3.5rem;">
       <!-- 1 -->
       <div class="practice-card">
         <span class="practice-badge">Gobernanza y Seguridad</span>
@@ -365,9 +492,81 @@ lang: es
 </section>
 
 <!-- ==========================================================================
-     SECCIÓN 8: DÓNDE EJERZO (UBICACIÓN Y MODELO DE TRABAJO)
+     SECCIÓN 8: PREGUNTAS FRECUENTES (FAQ EJECUTIVO)
      ========================================================================== -->
-<section id="location" class="section-padding bg-surface">
+<section id="faq" class="section-padding bg-surface">
+  <div class="content-max">
+    <div class="text-center" style="margin-bottom: 2rem;">
+      <div class="eyebrow-container">
+        <span class="eyebrow-line"></span>
+        <span class="eyebrow-text">Asesoría Estratégica</span>
+        <span class="eyebrow-line"></span>
+      </div>
+      <h2>Preguntas <span class="font-serif-italic">Frecuentes</span></h2>
+      <div class="gold-bar centered"></div>
+      <p class="content-narrow">
+        Detalles clave sobre proyectos empresariales, debida diligencia técnica y cómo es trabajar con un tecnólogo creativo.
+      </p>
+    </div>
+
+    <div class="faq-accordion">
+      <details class="faq-item" open>
+        <summary class="faq-summary">
+          <span>¿Qué valor concreto aporta un Analista Senior de Sistemas y Consultor a mi organización?</span>
+          <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
+        </summary>
+        <div class="faq-content">
+          Cierro la brecha costosa entre la visión estratégica del negocio y la implementación tecnológica. En lugar de ofrecer únicamente sugerencias teóricas, me integro directamente en entornos normativos exigentes para reducir la deuda técnica, garantizar el cumplimiento de proveedores externos, diseñar arquitecturas en la nube resilientes y coordinar la entrega entre equipos para proteger los ingresos y evitar interrupciones operativas.
+        </div>
+      </details>
+
+      <details class="faq-item">
+        <summary class="faq-summary">
+          <span>¿Cómo aborda la debida diligencia de ciberseguridad con proveedores en sectores regulados?</span>
+          <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
+        </summary>
+        <div class="faq-content">
+          En el sector bancario y financiero, la debida diligencia no puede depender de simples cuestionarios de autoevaluación. Evalúo a fondo la arquitectura del proveedor, el cifrado de datos, los controles de acceso, las pruebas de continuidad y recuperación ante desastres (BCP/DR) y las certificaciones normativas (SOC 2, NIST, ISO) frente a los estándares corporativos, definiendo planes concretos de mitigación antes de firmar contratos.
+        </div>
+      </details>
+
+      <details class="faq-item">
+        <summary class="faq-summary">
+          <span>¿Cuál es la ventaja práctica de contar con un 'tecnólogo creativo'?</span>
+          <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
+        </summary>
+        <div class="faq-content">
+          Las iniciativas de TI suelen estancarse por falta de comunicación fluida entre áreas: los desarrolladores hablan en código mientras los ejecutivos se enfocan en valor comercial. Con una trayectoria en tecnología corporativa y formación en artes escénicas, me especializo en facilitar talleres de alineación de alto nivel, traducir compensaciones técnicas densas en decisiones ejecutivas comprensibles y construir consensos sólidos.
+        </div>
+      </details>
+
+      <details class="faq-item">
+        <summary class="faq-summary">
+          <span>¿Cómo asegura cero tiempo de inactividad durante escisiones corporativas y clonación de sistemas?</span>
+          <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
+        </summary>
+        <div class="faq-content">
+          Me especializo en clonación de infraestructura heredada, desacoplamiento de sistemas y transiciones en fases paralelas. Al planificar la transición hacia atrás desde los requerimientos operativos del primer día, ejecutar pruebas piloto exhaustivas y monitorear la conmutación en tiempo real, las organizaciones logran independencia operativa sin cortes en el servicio ni impacto para los clientes.
+        </div>
+      </details>
+
+      <details class="faq-item">
+        <summary class="faq-summary">
+          <span>¿Qué modelos de consultoría y contratación tiene disponibles?</span>
+          <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
+        </summary>
+        <div class="faq-content">
+          Con base en Pittsburgh, PA, asesoro a clientes corporativos e instituciones financieras en todo Estados Unidos y Norteamérica. Las colaboraciones están disponibles como asesoría fraccional estratégica, auditorías específicas de riesgo de proveedores o formatos híbridos con talleres presenciales para hitos arquitectónicos y auditorías clave.
+        </div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- ==========================================================================
+     SECCIÓN 9: DÓNDE EJERZO (UBICACIÓN Y MODELO DE TRABAJO)
+     ========================================================================== -->
+<section id="location" class="section-padding bg-surface-low">
   <div class="content-prose text-center">
     <div class="eyebrow-container">
       <span class="eyebrow-line"></span>
@@ -383,9 +582,9 @@ lang: es
 </section>
 
 <!-- ==========================================================================
-     SECCIÓN 9: LLAMADO A LA ACCIÓN (CTA)
+     SECCIÓN 10: LLAMADO A LA ACCIÓN (CTA)
      ========================================================================== -->
-<section id="contact" class="section-padding bg-surface-low" style="padding-top: 2rem;">
+<section id="contact" class="section-padding bg-surface" style="padding-top: 2rem;">
   <div class="content-max">
     <div class="cta-banner">
       <h2>¿Listo para Fortalecer sus Operaciones Tecnológicas?</h2>
