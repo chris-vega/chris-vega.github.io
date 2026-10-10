@@ -1,55 +1,106 @@
-/* ========================================
- * NEO-BRUTALIST VARIABLES (WITH DARK MODE)
- * ========================================
-*/
+/* ==========================================================================
+   DESIGN TOKENS - EXECUTIVE LUXURY (Wise Dental Inspired)
+   Chris Vega - IT Consultant | Senior Systems Analyst | Creative Technologist
+   ========================================================================== */
 
-// 1. Light Mode (Default)
 :root {
-    --bg-color: #F4F4F4;
-    /* Light Industrial Gray */
-    --page-bg: #FFFFFF;
-    /* Pure White */
-    --text-color: #000000;
-    /* Pure Black */
-    --border-color: #000000;
-    /* Black borders */
-    --accent-color: #FF3300;
-    /* International Orange */
-    --hard-shadow: 8px 8px 0px var(--border-color);
-    --hard-shadow-hover: 12px 12px 0px var(--border-color);
+  // Brand Anchors
+  --navy: #0B1728;
+  --navy-surface: #102038;
+  --navy-dark: #060D17;
+  --navy-glow: rgba(11, 23, 40, 0.08);
+
+  // Metallic Accents (Champagne / Burnished Gold)
+  --gold: #C5A880;
+  --gold-hover: #B39366;
+  --gold-light: #F4ECE1;
+  --gold-accent: #D4AF37;
+  --gold-glow: rgba(197, 168, 128, 0.25);
+
+  // Neutral Surface Hierarchy (Light Mode)
+  --surface: #FAFBFC;
+  --surface-container-low: #F3F5F9;
+  --surface-container-lowest: #FFFFFF;
+  --surface-container-high: #EAEFF5;
+  --surface-elevated: #FFFFFF;
+
+  // Text Hierarchy
+  --on-surface: #0E1726;
+  --on-surface-variant: #475569;
+  --on-surface-muted: #64748B;
+  --on-navy: #FFFFFF;
+  --on-navy-variant: rgba(255, 255, 255, 0.72);
+
+  // Card & Component Tokens
+  --card-stat-color: #0B1728;
+  --icon-box-bg: rgba(11, 23, 40, 0.06);
+  --icon-box-color: #0B1728;
+  --badge-title-color: #0B1728;
+
+  // Borders & Outlines
+  --border-subtle: rgba(14, 23, 38, 0.08);
+  --border-hover: rgba(197, 168, 128, 0.4);
+  --outline-variant: rgba(14, 23, 38, 0.06);
+
+  // Elevation & Shadows
+  --shadow-ambient: 0 10px 30px -10px rgba(11, 23, 40, 0.08), 0 4px 12px -4px rgba(11, 23, 40, 0.04);
+  --shadow-ambient-lg: 0 20px 45px -15px rgba(11, 23, 40, 0.12), 0 8px 20px -6px rgba(11, 23, 40, 0.06);
+  --shadow-gold: 0 10px 25px -5px rgba(197, 168, 128, 0.3);
+
+  // Glassmorphic Navigation
+  --nav-bg: rgba(11, 23, 40, 0.88);
+  --nav-border: rgba(255, 255, 255, 0.08);
+
+  // Typography
+  --font-family-base: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-family-headline: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 }
 
-// 2. Dark Mode (Toggled by darkmode.js)
 [data-theme="dark"] {
-    --bg-color: #050505;
-    /* Deep Black */
-    --page-bg: #121212;
-    /* Dark Material */
-    --text-color: #EEEEEE;
-    /* Off-white */
-    --border-color: #FFFFFF;
-    /* White borders */
-    --accent-color: #00E5FF;
-    /* Neon Cyan */
-    --hard-shadow: 8px 8px 0px var(--border-color);
-    --hard-shadow-hover: 12px 12px 0px var(--border-color);
+  // Brand Anchors
+  --navy: #0F1D33;
+  --navy-surface: #142642;
+  --navy-dark: #070E1A;
+  --navy-glow: rgba(0, 0, 0, 0.4);
+
+  // Metallic Accents
+  --gold: #D4AF37;
+  --gold-hover: #E5C358;
+  --gold-light: #2A2416;
+  --gold-accent: #E5C358;
+  --gold-glow: rgba(212, 175, 55, 0.25);
+
+  // Neutral Surface Hierarchy (Dark Mode)
+  --surface: #070E1A;
+  --surface-container-low: #0B1526;
+  --surface-container-lowest: #0F1C31;
+  --surface-container-high: #162640;
+  --surface-elevated: #111E33;
+
+  // Text Hierarchy
+  --on-surface: #F8FAFC;
+  --on-surface-variant: #94A3B8;
+  --on-surface-muted: #64748B;
+  --on-navy: #FFFFFF;
+  --on-navy-variant: rgba(255, 255, 255, 0.72);
+
+  // Card & Component Tokens
+  --card-stat-color: #D4AF37;
+  --icon-box-bg: rgba(212, 175, 55, 0.12);
+  --icon-box-color: #D4AF37;
+  --badge-title-color: #D4AF37;
+
+  // Borders & Outlines
+  --border-subtle: rgba(255, 255, 255, 0.08);
+  --border-hover: rgba(212, 175, 55, 0.4);
+  --outline-variant: rgba(255, 255, 255, 0.05);
+
+  // Elevation & Shadows
+  --shadow-ambient: 0 10px 30px -10px rgba(0, 0, 0, 0.45);
+  --shadow-ambient-lg: 0 20px 45px -15px rgba(0, 0, 0, 0.65);
+  --shadow-gold: 0 10px 25px -5px rgba(212, 175, 55, 0.2);
+
+  // Glassmorphic Navigation
+  --nav-bg: rgba(7, 14, 26, 0.92);
+  --nav-border: rgba(255, 255, 255, 0.06);
 }
-
-// 3. Fonts
-$font-family-base: 'Arial', 'Helvetica', sans-serif;
-$font-family-headings: 'Arial', 'Helvetica', sans-serif;
-$font-family-mono: 'Courier New', Courier, monospace;
-
-// 4. Jekyll Theme Compatibility
-$color-bg: var(--bg-color);
-$color-text: var(--text-color);
-$color-headings: var(--text-color);
-$color-links: var(--accent-color);
-$color-links-hover: var(--text-color);
-$color-accent: var(--accent-color);
-$color-primary: var(--accent-color);
-$color-border: var(--border-color);
-$body-bg: var(--bg-color);
-$body-color: var(--text-color);
-$link-color: var(--accent-color);
-$link-hover-color: var(--text-color);

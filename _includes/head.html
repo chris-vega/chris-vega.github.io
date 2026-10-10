@@ -1,14 +1,37 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="{{ site.author.name }}">
-<title>{{ page.title }}</title>
+<title>{{ page.title }} | {{ site.title }} — {% if page.lang == 'es' %}Consultor de TI y Analista Senior de Sistemas{% else %}IT Consultant & Senior Systems Analyst{% endif %}</title>
+<meta name="description" content="{% if page.lang == 'es' %}Chris Vega — Consultor de TI, Analista Senior de Sistemas y Tecnólogo Creativo. Especialista en resiliencia tecnológica, debida diligencia de ciberseguridad y análisis de sistemas empresariales.{% else %}{{ site.description }} — Specializing in technology resilience, vendor cybersecurity due diligence, and enterprise systems analysis.{% endif %}">
+
 <link rel="shortcut icon" href="/assets/favicon.ico">
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 
+<!-- Alternate language links for SEO -->
+<link rel="alternate" hreflang="en" href="https://chris-vega.us/" />
+<link rel="alternate" hreflang="es" href="https://chris-vega.us/es/" />
+<link rel="alternate" hreflang="x-default" href="https://chris-vega.us/" />
+
+<!-- Google Fonts: Plus Jakarta Sans -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400&display=swap" rel="stylesheet">
+
 <link rel="stylesheet" href="/assets/css/styles.min.css">
 
-<script src="/assets/js/darkmode.js"></script>
-<script src="/assets/js/main.js"></script>
-
-<script data-goatcounter="https://chris-vega.goatcounter.com/count" async src="//gc.zgo.at/count.js">
+<!-- Early theme script to avoid FOUC -->
+<script>
+  (function() {
+    var savedTheme = sessionStorage.getItem("theme");
+    if (savedTheme) {
+      document.documentElement.setAttribute("data-theme", savedTheme);
+    } else if (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches) {
+      document.documentElement.setAttribute("data-theme", "dark");
+    }
+  })();
 </script>
+
+<script src="/assets/js/darkmode.js" defer></script>
+<script src="/assets/js/main.js" defer></script>
+
+<script data-goatcounter="https://chris-vega.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

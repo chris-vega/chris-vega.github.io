@@ -1,67 +1,38 @@
-// Define the SVG icons for the toggle
-var moon =
-  '<svg width="24px" height="24px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="#000000"><path d="M12 18a6 6 0 100-12 6 6 0 000 12zM22 12h1M12 2V1M12 23v-1M20 20l-1-1M20 4l-1 1M4 20l1-1M4 4l1 1M1 12h1" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>';
-var sun =
-  '<svg width="24px" height="24px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="#000000"><path d="M3 11.507a9.493 9.493 0 0018 4.219c-8.507 0-12.726-4.22-12.726-12.726A9.494 9.494 0 003 11.507z" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>';
+// Theme Toggle Logic with Session & LocalStorage Sync
+const moonSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>`;
+const sunSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>`;
 
-// Check for system preference
-let systemInitiatedDark = window.matchMedia("(prefers-color-scheme: dark)");
+function updateThemeToggleIcon(theme) {
+  const toggle = document.getElementById("theme-toggle");
+  if (toggle) {
+    toggle.innerHTML = theme === "dark" ? sunSvg : moonSvg;
+    toggle.setAttribute("aria-label", theme === "dark" ? "Switch to light theme" : "Switch to dark theme");
+  }
+}
 
-// Check for saved theme in session storage
-let theme = sessionStorage.getItem("theme");
-
-/**
- * A helper function to set the theme.
- * It applies the 'data-theme' attribute, updates the toggle icon,
- * and saves the preference to session storage.
- * @param {string} themeToSet - "dark" or "light"
- */
 function setTheme(themeToSet) {
   document.documentElement.setAttribute("data-theme", themeToSet);
-  let toggle = document.getElementById("theme-toggle");
-
-  if (themeToSet === "dark") {
-    if (toggle) toggle.innerHTML = sun;
-    sessionStorage.setItem("theme", "dark");
-  } else {
-    if (toggle) toggle.innerHTML = moon;
-    sessionStorage.setItem("theme", "light");
-  }
+  sessionStorage.setItem("theme", themeToSet);
+  localStorage.setItem("theme", themeToSet);
+  updateThemeToggleIcon(themeToSet);
 }
 
-/**
- * The function called by the theme-toggle button.
- * It reads the current theme from session and switches to the opposite.
- */
 function modeSwitcher() {
-  let currentTheme = sessionStorage.getItem("theme");
-  if (currentTheme === "dark") {
-    setTheme("light");
-  } else {
-    setTheme("dark");
-  }
+  const currentTheme = document.documentElement.getAttribute("data-theme") || "light";
+  const newTheme = currentTheme === "dark" ? "light" : "dark";
+  setTheme(newTheme);
 }
 
-/**
- * Listener function for changes in system preference.
- * Automatically updates the theme to match the system.
- * @param {MediaQueryListEvent} event
- */
-function prefersColorTest(event) {
-  setTheme(event.matches ? "dark" : "light");
-}
+// Ensure toggle icon matches theme on DOM load
+document.addEventListener("DOMContentLoaded", () => {
+  const currentTheme = document.documentElement.getAttribute("data-theme") || "light";
+  updateThemeToggleIcon(currentTheme);
 
-// 1. INITIAL LOAD LOGIC
-// If a theme is saved in session storage, use that.
-if (theme === "dark") {
-  setTheme("dark");
-} else if (theme === "light") {
-  setTheme("light");
-} else {
-  // If no theme is in session storage, check system preference.
-  setTheme(systemInitiatedDark.matches ? "dark" : "light");
-}
-
-// 2. ADD EVENT LISTENER
-// Listen for real-time changes in system preference
-systemInitiatedDark.addEventListener("change", prefersColorTest);
+  // Listen for system theme changes if user hasn't explicitly set one
+  const mediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
+  mediaQuery.addEventListener("change", (e) => {
+    if (!sessionStorage.getItem("theme") && !localStorage.getItem("theme")) {
+      setTheme(e.matches ? "dark" : "light");
+    }
+  });
+});

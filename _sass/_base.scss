@@ -1,117 +1,192 @@
-/* ========================================
- * NEO-BRUTALIST BASE STYLES
- * ========================================
-*/
+/* ==========================================================================
+   BASE & RESET STYLES - EXECUTIVE ARCHITECTURE
+   ========================================================================== */
 
-// 1. REPLACED body style
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 body {
-  background-color: var(--bg-color);
-  font-family: $font-family-base; // This comes from _variables.scss
-  color: var(--text-color);
-  background-image: none; // Removes the old gradient
+  margin: 0;
+  padding: 0;
+  background-color: var(--surface);
+  color: var(--on-surface);
+  font-family: var(--font-family-base);
+  font-size: 1.05rem;
+  line-height: 1.75;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  overflow-x: hidden;
 }
 
-// 2. NEW container style
-.container {
-  background-color: var(--page-bg);
-  border: 2px solid var(--border-color);
-  box-shadow: var(--hard-shadow);
-  max-width: 1100px;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  padding: 2rem;
-}
-
-// 3. REPLACED link style
-a {
-  color: var(--accent-color);
-  font-weight: bold;
-  text-decoration: underline;
-
-  &:hover {
-    color: var(--text-color);
-    background-color: var(--bg-color); // Yellow hover
-  }
-}
-
-// 4. Accessibility Styles
-:focus {
-  outline: 3px solid var(--accent-color);
-  outline-offset: 2px;
-}
-
+/* Skip link for accessibility */
 .skip-link {
   position: absolute;
-  top: -40px;
-  left: 0;
-  background: var(--accent-color);
-  color: var(--bg-color);
-  padding: 8px;
-  z-index: 100;
-  transition: top 0.3s;
-  font-weight: bold;
+  top: -60px;
+  left: 1rem;
+  background: var(--navy);
+  color: var(--gold);
+  padding: 0.75rem 1.25rem;
+  z-index: 1000;
+  border-radius: 0.5rem;
+  font-weight: 700;
   text-decoration: none;
+  transition: top 0.2s ease;
 
   &:focus {
-    top: 0;
+    top: 1rem;
   }
 }
 
-/* ========================================
- * ORIGINAL THEME STYLES (Kept for compatibility)
- * ========================================
-*/
-
-svg circle,
-svg path {
-  stroke: var(--color-text);
-  stroke-width: 0.075em;
+/* Typography Hierarchy */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-family-headline);
+  color: var(--on-surface);
+  margin-top: 0;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
 }
 
-header {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 1.5em;
-  margin-bottom: 2em;
+h1 {
+  font-size: clamp(2.5rem, 5vw, 3.75rem);
+  font-weight: 800;
 }
 
-footer {
-  margin: 2em 0;
+h2 {
+  font-size: clamp(2rem, 3.5vw, 2.75rem);
+  font-weight: 700;
 }
 
-small {
-  font-weight: 300;
+h3 {
+  font-size: clamp(1.25rem, 2vw, 1.5rem);
+  font-weight: 700;
 }
 
-abbr {
-  text-transform: lowercase;
-  font-family: var(--type-caps);
+p {
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+  color: var(--on-surface-variant);
+  font-size: 1.05rem;
+  line-height: 1.8;
 }
 
-blockquote {
-  padding-left: 1em;
-  border-left: 0.1em solid var(--color-border);
-  font-weight: 300;
+a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.2s ease, opacity 0.2s ease;
 }
 
-mark {
-  padding: 0.1em;
-  border-radius: 0.25em;
-  background-color: var(--color-mark);
-  color: var(--color-text);
+/* Eyebrows & Dividers */
+.eyebrow-container {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.85rem;
+  margin-bottom: 1rem;
 }
 
-hr {
-  border-top: 0.1em solid var(--color-text);
+.eyebrow-line {
+  height: 1.5px;
+  width: 2rem;
+  background-color: var(--gold);
+  border-radius: 9999px;
+  display: inline-block;
 }
 
-img {
-  display: block;
-  max-width: 100%;
-  margin: 1em 0;
-  border-radius: 0.25em;
+.eyebrow-text {
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--gold);
 }
 
-table.table {
-  color: var(--text-color);
+.gold-bar {
+  height: 5px;
+  width: 5rem;
+  background: var(--gold);
+  border-radius: 9999px;
+  margin-bottom: 2rem;
+
+  &.centered {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* Section Containers & Padding */
+.section-padding {
+  padding: 6rem 1.5rem;
+
+  @media (min-width: 768px) {
+    padding: 7.5rem 2rem;
+  }
+
+  @media (min-width: 1200px) {
+    padding: 8.5rem 3rem;
+  }
+}
+
+.section-hero {
+  padding-top: 8.5rem;
+  padding-bottom: 6rem;
+
+  @media (min-width: 768px) {
+    padding-top: 10.5rem;
+    padding-bottom: 7.5rem;
+  }
+}
+
+.content-max {
+  max-width: 1360px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.content-prose {
+  max-width: 860px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content-narrow {
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
+/* Color Surface Classes */
+.bg-surface {
+  background-color: var(--surface);
+}
+
+.bg-surface-low {
+  background-color: var(--surface-container-low);
+}
+
+.bg-navy {
+  background-color: var(--navy);
+  color: var(--on-navy);
+
+  h1, h2, h3, h4 {
+    color: #FFFFFF;
+  }
+
+  p {
+    color: var(--on-navy-variant);
+  }
+
+  .eyebrow-text {
+    color: var(--gold);
+  }
 }

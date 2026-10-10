@@ -1,0 +1,1185 @@
+/* ==========================================================================
+   DESIGN TOKENS - EXECUTIVE LUXURY (Wise Dental Inspired)
+   Chris Vega - IT Consultant | Senior Systems Analyst | Creative Technologist
+   ========================================================================== */
+
+:root {
+  
+  --navy: #0B1728;
+  --navy-surface: #102038;
+  --navy-dark: #060D17;
+  --navy-glow: rgba(11, 23, 40, 0.08);
+
+  
+  --gold: #C5A880;
+  --gold-hover: #B39366;
+  --gold-light: #F4ECE1;
+  --gold-accent: #D4AF37;
+  --gold-glow: rgba(197, 168, 128, 0.25);
+
+  
+  --surface: #FAFBFC;
+  --surface-container-low: #F3F5F9;
+  --surface-container-lowest: #FFFFFF;
+  --surface-container-high: #EAEFF5;
+  --surface-elevated: #FFFFFF;
+
+  
+  --on-surface: #0E1726;
+  --on-surface-variant: #475569;
+  --on-surface-muted: #64748B;
+  --on-navy: #FFFFFF;
+  --on-navy-variant: rgba(255, 255, 255, 0.72);
+
+  
+  --card-stat-color: #0B1728;
+  --icon-box-bg: rgba(11, 23, 40, 0.06);
+  --icon-box-color: #0B1728;
+  --badge-title-color: #0B1728;
+
+  
+  --border-subtle: rgba(14, 23, 38, 0.08);
+  --border-hover: rgba(197, 168, 128, 0.4);
+  --outline-variant: rgba(14, 23, 38, 0.06);
+
+  
+  --shadow-ambient: 0 10px 30px -10px rgba(11, 23, 40, 0.08), 0 4px 12px -4px rgba(11, 23, 40, 0.04);
+  --shadow-ambient-lg: 0 20px 45px -15px rgba(11, 23, 40, 0.12), 0 8px 20px -6px rgba(11, 23, 40, 0.06);
+  --shadow-gold: 0 10px 25px -5px rgba(197, 168, 128, 0.3);
+
+  
+  --nav-bg: rgba(11, 23, 40, 0.88);
+  --nav-border: rgba(255, 255, 255, 0.08);
+
+  
+  --font-family-base: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-family-headline: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+[data-theme="dark"] {
+  
+  --navy: #0F1D33;
+  --navy-surface: #142642;
+  --navy-dark: #070E1A;
+  --navy-glow: rgba(0, 0, 0, 0.4);
+
+  
+  --gold: #D4AF37;
+  --gold-hover: #E5C358;
+  --gold-light: #2A2416;
+  --gold-accent: #E5C358;
+  --gold-glow: rgba(212, 175, 55, 0.25);
+
+  
+  --surface: #070E1A;
+  --surface-container-low: #0B1526;
+  --surface-container-lowest: #0F1C31;
+  --surface-container-high: #162640;
+  --surface-elevated: #111E33;
+
+  
+  --on-surface: #F8FAFC;
+  --on-surface-variant: #94A3B8;
+  --on-surface-muted: #64748B;
+  --on-navy: #FFFFFF;
+  --on-navy-variant: rgba(255, 255, 255, 0.72);
+
+  
+  --card-stat-color: #D4AF37;
+  --icon-box-bg: rgba(212, 175, 55, 0.12);
+  --icon-box-color: #D4AF37;
+  --badge-title-color: #D4AF37;
+
+  
+  --border-subtle: rgba(255, 255, 255, 0.08);
+  --border-hover: rgba(212, 175, 55, 0.4);
+  --outline-variant: rgba(255, 255, 255, 0.05);
+
+  
+  --shadow-ambient: 0 10px 30px -10px rgba(0, 0, 0, 0.45);
+  --shadow-ambient-lg: 0 20px 45px -15px rgba(0, 0, 0, 0.65);
+  --shadow-gold: 0 10px 25px -5px rgba(212, 175, 55, 0.2);
+
+  
+  --nav-bg: rgba(7, 14, 26, 0.92);
+  --nav-border: rgba(255, 255, 255, 0.06);
+}
+/* ==========================================================================
+   BASE & RESET STYLES - EXECUTIVE ARCHITECTURE
+   ========================================================================== */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--surface);
+  color: var(--on-surface);
+  font-family: var(--font-family-base);
+  font-size: 1.05rem;
+  line-height: 1.75;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  overflow-x: hidden;
+}
+
+/* Skip link for accessibility */
+.skip-link {
+  position: absolute;
+  top: -60px;
+  left: 1rem;
+  background: var(--navy);
+  color: var(--gold);
+  padding: 0.75rem 1.25rem;
+  z-index: 1000;
+  border-radius: 0.5rem;
+  font-weight: 700;
+  text-decoration: none;
+  transition: top 0.2s ease;
+
+  &:focus {
+    top: 1rem;
+  }
+}
+
+/* Typography Hierarchy */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-family-headline);
+  color: var(--on-surface);
+  margin-top: 0;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}
+
+h1 {
+  font-size: clamp(2.5rem, 5vw, 3.75rem);
+  font-weight: 800;
+}
+
+h2 {
+  font-size: clamp(2rem, 3.5vw, 2.75rem);
+  font-weight: 700;
+}
+
+h3 {
+  font-size: clamp(1.25rem, 2vw, 1.5rem);
+  font-weight: 700;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+  color: var(--on-surface-variant);
+  font-size: 1.05rem;
+  line-height: 1.8;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.2s ease, opacity 0.2s ease;
+}
+
+/* Eyebrows & Dividers */
+.eyebrow-container {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.85rem;
+  margin-bottom: 1rem;
+}
+
+.eyebrow-line {
+  height: 1.5px;
+  width: 2rem;
+  background-color: var(--gold);
+  border-radius: 9999px;
+  display: inline-block;
+}
+
+.eyebrow-text {
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+.gold-bar {
+  height: 5px;
+  width: 5rem;
+  background: var(--gold);
+  border-radius: 9999px;
+  margin-bottom: 2rem;
+
+  &.centered {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* Section Containers & Padding */
+.section-padding {
+  padding: 6rem 1.5rem;
+
+  @media (min-width: 768px) {
+    padding: 7.5rem 2rem;
+  }
+
+  @media (min-width: 1200px) {
+    padding: 8.5rem 3rem;
+  }
+}
+
+.section-hero {
+  padding-top: 8.5rem;
+  padding-bottom: 6rem;
+
+  @media (min-width: 768px) {
+    padding-top: 10.5rem;
+    padding-bottom: 7.5rem;
+  }
+}
+
+.content-max {
+  max-width: 1360px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.content-prose {
+  max-width: 860px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content-narrow {
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
+/* Color Surface Classes */
+.bg-surface {
+  background-color: var(--surface);
+}
+
+.bg-surface-low {
+  background-color: var(--surface-container-low);
+}
+
+.bg-navy {
+  background-color: var(--navy);
+  color: var(--on-navy);
+
+  h1, h2, h3, h4 {
+    color: #FFFFFF;
+  }
+
+  p {
+    color: var(--on-navy-variant);
+  }
+
+  .eyebrow-text {
+    color: var(--gold);
+  }
+}
+/* ==========================================================================
+   UI COMPONENTS & ELEMENTS (Wise Dental Inspired Executive Design)
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   1. Glassmorphism Navigation Bar
+   -------------------------------------------------------------------------- */
+.glass-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: 1000;
+  background: var(--nav-bg);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  border-bottom: 1px solid var(--nav-border);
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.28);
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.nav-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 1.1rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  @media (min-width: 1024px) {
+    padding: 1.25rem 2.5rem;
+  }
+}
+
+.brand-link {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  text-decoration: none;
+}
+
+.brand-monogram {
+  width: 2.6rem;
+  height: 2.6rem;
+  border-radius: 0.65rem;
+  background: linear-gradient(135deg, var(--gold) 0%, #A88756 100%);
+  color: #0B1728;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+  font-size: 1.1rem;
+  letter-spacing: -0.02em;
+  box-shadow: 0 4px 12px rgba(197, 168, 128, 0.3);
+}
+
+.brand-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.brand-name {
+  font-size: 1.15rem;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
+  line-height: 1.15;
+}
+
+.brand-subtitle {
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+.nav-desktop-links {
+  display: none;
+  align-items: center;
+  gap: 2rem;
+
+  @media (min-width: 1024px) {
+    display: flex;
+  }
+}
+
+.nav-link {
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: rgba(255, 255, 255, 0.78);
+  transition: color 0.2s ease;
+  position: relative;
+  padding: 0.4rem 0;
+
+  &:hover {
+    color: var(--gold);
+  }
+}
+
+.nav-actions {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.nav-cta-btn {
+  display: none;
+
+  @media (min-width: 640px) {
+    display: inline-flex;
+  }
+}
+
+/* Language Switcher Pill */
+.lang-switcher {
+  display: inline-flex;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 9999px;
+  padding: 0.2rem 0.35rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  gap: 0.25rem;
+}
+
+.lang-btn {
+  padding: 0.25rem 0.55rem;
+  border-radius: 9999px;
+  color: rgba(255, 255, 255, 0.65);
+  transition: all 0.2s ease;
+  text-decoration: none;
+
+  &:hover {
+    color: #FFFFFF;
+  }
+
+  &.is-active {
+    background: var(--gold);
+    color: #0B1728 !important;
+    font-weight: 800;
+  }
+}
+
+/* Theme Switcher Button */
+.theme-toggle-btn {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 9999px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: var(--gold);
+  transition: background-color 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
+
+  &:hover {
+    background: rgba(255, 255, 255, 0.16);
+    transform: scale(1.05);
+  }
+
+  svg {
+    width: 1.15rem;
+    height: 1.15rem;
+  }
+}
+
+/* Mobile Nav Toggle */
+.mobile-nav-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: none;
+  color: #FFFFFF;
+  cursor: pointer;
+  padding: 0.5rem;
+
+  @media (min-width: 1024px) {
+    display: none;
+  }
+
+  svg {
+    width: 1.6rem;
+    height: 1.6rem;
+  }
+}
+
+/* Mobile Drawer */
+.mobile-nav-drawer {
+  display: none;
+  position: fixed;
+  top: 4.5rem;
+  left: 0;
+  right: 0;
+  background: var(--navy);
+  border-bottom: 1px solid var(--border-subtle);
+  padding: 1.5rem 2rem 2.5rem;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+  flex-direction: column;
+  gap: 1.25rem;
+  z-index: 999;
+
+  &.is-open {
+    display: flex;
+  }
+
+  .nav-link {
+    font-size: 1.1rem;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  }
+}
+
+/* --------------------------------------------------------------------------
+   2. Buttons
+   -------------------------------------------------------------------------- */
+.button-gold {
+  background: linear-gradient(135deg, var(--gold) 0%, #A88756 100%);
+  color: #070E1A !important;
+  font-weight: 700;
+  font-size: 0.9rem;
+  padding: 0.75rem 1.6rem;
+  border-radius: 9999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  box-shadow: var(--shadow-gold);
+  border: none;
+  cursor: pointer;
+  letter-spacing: 0.02em;
+  transition: transform 0.25s ease, box-shadow 0.25s ease, filter 0.25s ease;
+  text-decoration: none;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 14px 30px -4px rgba(197, 168, 128, 0.45);
+    filter: brightness(1.04);
+  }
+
+  &.lg {
+    padding: 1rem 2.25rem;
+    font-size: 1rem;
+  }
+}
+
+.button-ghost {
+  background: transparent;
+  color: #FFFFFF !important;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  font-weight: 600;
+  font-size: 0.9rem;
+  padding: 0.75rem 1.6rem;
+  border-radius: 9999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+  text-decoration: none;
+
+  &:hover {
+    background: rgba(255, 255, 255, 0.08);
+    border-color: #FFFFFF;
+    transform: translateY(-2px);
+  }
+
+  &.lg {
+    padding: 1rem 2.25rem;
+    font-size: 1rem;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   3. Hero Section & Portrait Card
+   -------------------------------------------------------------------------- */
+.hero-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 3.5rem;
+  align-items: center;
+
+  @media (min-width: 1024px) {
+    flex-direction: row;
+    gap: 4.5rem;
+    align-items: flex-start;
+  }
+}
+
+.hero-visual-col {
+  width: 100%;
+  max-width: 440px;
+  position: relative;
+
+  @media (min-width: 1024px) {
+    width: 42%;
+    flex-shrink: 0;
+  }
+}
+
+.portrait-wrapper {
+  position: relative;
+  aspect-ratio: 4 / 5;
+  border-radius: 1.5rem;
+  overflow: hidden;
+  box-shadow: var(--shadow-ambient-lg);
+  background: var(--navy);
+  border: 1px solid var(--border-subtle);
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center 20%;
+    display: block;
+    transition: transform 0.6s ease;
+  }
+
+  &:hover img {
+    transform: scale(1.025);
+  }
+}
+
+.floating-badge {
+  position: absolute;
+  bottom: -1.25rem;
+  right: -1rem;
+  background: var(--surface-container-lowest);
+  border: 1px solid var(--border-subtle);
+  border-radius: 1rem;
+  padding: 1.25rem 1.5rem;
+  box-shadow: var(--shadow-ambient-lg);
+  max-width: 280px;
+  z-index: 10;
+  transition: transform 0.2s ease;
+
+  @media (max-width: 640px) {
+    right: 0.5rem;
+    bottom: -1rem;
+    padding: 1rem 1.25rem;
+  }
+
+  .badge-title {
+    font-size: 0.95rem;
+    font-weight: 800;
+    color: var(--badge-title-color);
+    margin: 0 0 0.25rem 0;
+    line-height: 1.25;
+  }
+
+  .badge-sub {
+    font-size: 0.75rem;
+    color: var(--on-surface-variant);
+    margin: 0;
+    line-height: 1.35;
+  }
+}
+
+.hero-content-col {
+  width: 100%;
+
+  @media (min-width: 1024px) {
+    width: 58%;
+  }
+
+  h1 {
+    margin-bottom: 0.5rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--gold);
+    letter-spacing: 0.03em;
+    margin-bottom: 2rem;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   4. Credential & Skill Chips
+   -------------------------------------------------------------------------- */
+.chips-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 2.25rem;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.55rem 1.15rem;
+  border-radius: 9999px;
+  background: var(--surface-container-lowest);
+  border: 1px solid var(--border-subtle);
+  font-size: 0.825rem;
+  font-weight: 600;
+  color: var(--on-surface);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+  text-decoration: none;
+
+  svg {
+    width: 1rem;
+    height: 1rem;
+    color: var(--gold);
+    flex-shrink: 0;
+  }
+
+  &:hover {
+    transform: translateY(-2px);
+    border-color: var(--border-hover);
+    box-shadow: 0 6px 16px rgba(197, 168, 128, 0.15);
+  }
+}
+
+/* --------------------------------------------------------------------------
+   5. Bento Impact & Metrics Grid
+   -------------------------------------------------------------------------- */
+.bento-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+
+  @media (min-width: 900px) {
+    grid-template-columns: 5fr 7fr;
+  }
+}
+
+.bento-primary-card {
+  background: var(--navy);
+  color: #FFFFFF;
+  border-radius: 1.5rem;
+  padding: 3rem 2.25rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-shadow: var(--shadow-ambient-lg);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+
+  .stat-big {
+    font-size: clamp(3.5rem, 6vw, 4.75rem);
+    font-weight: 800;
+    line-height: 1;
+    color: var(--gold);
+    margin-bottom: 0.75rem;
+  }
+
+  .stat-heading {
+    font-size: 1.35rem;
+    font-weight: 700;
+    color: #FFFFFF;
+    margin-bottom: 0.75rem;
+    line-height: 1.25;
+  }
+
+  .stat-description {
+    font-size: 0.95rem;
+    color: var(--on-navy-variant);
+    margin: 0;
+    line-height: 1.6;
+  }
+}
+
+.bento-secondary-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.25rem;
+
+  @media (min-width: 600px) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.bento-stat-card {
+  background: var(--surface-container-lowest);
+  border: 1px solid var(--border-subtle);
+  border-radius: 1.5rem;
+  padding: 2.25rem 1.25rem;
+  text-align: center;
+  box-shadow: var(--shadow-ambient);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+
+  &:hover {
+    transform: translateY(-3px);
+    border-color: var(--border-hover);
+  }
+
+  .stat-number {
+    font-size: 2.5rem;
+    font-weight: 800;
+    line-height: 1.1;
+    color: var(--card-stat-color);
+    margin-bottom: 0.5rem;
+  }
+
+  .stat-title {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: var(--on-surface);
+    margin-bottom: 0.5rem;
+  }
+
+  .stat-sub {
+    font-size: 0.8rem;
+    color: var(--on-surface-variant);
+    margin: 0;
+    line-height: 1.45;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   6. Philosophy & Core Principles Grid (6 Values Cards)
+   -------------------------------------------------------------------------- */
+.values-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.75rem;
+
+  @media (min-width: 640px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (min-width: 1024px) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.value-card {
+  background: var(--surface-container-lowest);
+  border: 1px solid var(--border-subtle);
+  border-radius: 1.5rem;
+  padding: 2.5rem 2rem;
+  box-shadow: var(--shadow-ambient);
+  transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+
+  &:hover {
+    transform: translateY(-4px);
+    border-color: var(--border-hover);
+    box-shadow: var(--shadow-ambient-lg);
+  }
+
+  .value-icon-box {
+    width: 3.5rem;
+    height: 3.5rem;
+    border-radius: 1rem;
+    background: var(--icon-box-bg);
+    color: var(--icon-box-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+
+    svg {
+      width: 1.75rem;
+      height: 1.75rem;
+    }
+  }
+
+  .value-title {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--on-surface);
+    margin-bottom: 0.75rem;
+  }
+
+  .value-desc {
+    font-size: 0.925rem;
+    line-height: 1.7;
+    color: var(--on-surface-variant);
+    margin: 0;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   7. Quote / Manifesto Callout
+   -------------------------------------------------------------------------- */
+.quote-section {
+  background: var(--navy);
+  color: #FFFFFF;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 600px;
+    height: 600px;
+    background: radial-gradient(circle, rgba(197, 168, 128, 0.08) 0%, transparent 70%);
+    pointer-events: none;
+  }
+}
+
+.quote-icon {
+  width: 2.75rem;
+  height: 2.75rem;
+  color: var(--gold);
+  margin-bottom: 2rem;
+  opacity: 0.75;
+}
+
+.quote-text {
+  font-family: var(--font-family-headline);
+  font-size: clamp(1.35rem, 2.5vw, 1.85rem);
+  font-weight: 300;
+  font-style: italic;
+  line-height: 1.6;
+  max-width: 860px;
+  margin: 0 auto 2rem;
+  color: #FFFFFF;
+}
+
+.quote-attribution {
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+/* --------------------------------------------------------------------------
+   8. Practice Focus Areas Grid
+   -------------------------------------------------------------------------- */
+.practice-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+
+  @media (min-width: 640px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (min-width: 1024px) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.practice-card {
+  background: var(--surface-container-lowest);
+  border: 1px solid var(--border-subtle);
+  border-radius: 1.25rem;
+  padding: 2rem;
+  box-shadow: var(--shadow-ambient);
+  transition: transform 0.2s ease, border-color 0.2s ease;
+
+  &:hover {
+    transform: translateY(-3px);
+    border-color: var(--border-hover);
+  }
+
+  .practice-badge {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 800;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 0.75rem;
+  }
+
+  .practice-title {
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin-bottom: 0.75rem;
+    color: var(--on-surface);
+  }
+
+  .practice-desc {
+    font-size: 0.9rem;
+    line-height: 1.65;
+    color: var(--on-surface-variant);
+    margin: 0;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   9. Call to Action (CTA) Section
+   -------------------------------------------------------------------------- */
+.cta-banner {
+  background: linear-gradient(135deg, #0B1728 0%, #13243F 100%);
+  color: #FFFFFF;
+  border-radius: 2rem;
+  padding: 4.5rem 2rem;
+  text-align: center;
+  box-shadow: var(--shadow-ambient-lg);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+
+  h2 {
+    color: #FFFFFF;
+    margin-bottom: 1rem;
+  }
+
+  p {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 1.15rem;
+    max-width: 640px;
+    margin: 0 auto 2.5rem;
+  }
+}
+
+.cta-button-group {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+
+  @media (min-width: 600px) {
+    flex-direction: row;
+    gap: 1.25rem;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   10. Executive Footer
+   -------------------------------------------------------------------------- */
+.site-footer {
+  background-color: var(--navy);
+  color: #FFFFFF;
+  padding-top: 5.5rem;
+  padding-bottom: 2.5rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.footer-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 3rem;
+  margin-bottom: 4.5rem;
+
+  @media (min-width: 640px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (min-width: 1024px) {
+    grid-template-columns: 2.5fr 1.5fr 1.5fr 2fr;
+  }
+}
+
+.footer-brand {
+  .footer-logo-title {
+    font-size: 1.3rem;
+    font-weight: 800;
+    color: #FFFFFF;
+    margin-bottom: 0.25rem;
+  }
+
+  .footer-logo-sub {
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--gold);
+    display: block;
+    margin-bottom: 1.25rem;
+  }
+
+  p {
+    font-size: 0.9rem;
+    line-height: 1.7;
+    color: rgba(255, 255, 255, 0.65);
+    max-width: 320px;
+    margin-bottom: 1.5rem;
+  }
+}
+
+.footer-col-title {
+  font-size: 0.85rem;
+  font-weight: 800;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 1.25rem;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+
+  li a {
+    font-size: 0.875rem;
+    color: rgba(255, 255, 255, 0.65);
+    transition: color 0.2s ease;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+
+    &:hover {
+      color: var(--gold);
+    }
+  }
+}
+
+.footer-contact-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  font-size: 0.875rem;
+  color: rgba(255, 255, 255, 0.65);
+  margin-bottom: 0.85rem;
+
+  svg {
+    width: 1.1rem;
+    height: 1.1rem;
+    color: var(--gold);
+    flex-shrink: 0;
+    margin-top: 0.2rem;
+  }
+
+  a:hover {
+    color: #FFFFFF;
+  }
+}
+
+.footer-bottom {
+  padding-top: 2rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  text-align: center;
+
+  p {
+    font-size: 0.8rem;
+    color: rgba(255, 255, 255, 0.45);
+    margin: 0;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   11. Back to Top Button
+   -------------------------------------------------------------------------- */
+.back-to-top {
+  position: fixed;
+  bottom: 1.75rem;
+  right: 1.75rem;
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: 9999px;
+  background: var(--navy);
+  color: var(--gold);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  z-index: 900;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(10px);
+  transition: opacity 0.3s ease, transform 0.3s ease, background-color 0.2s ease;
+
+  &.is-visible {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(0);
+  }
+
+  &:hover {
+    background: var(--navy-light);
+    transform: translateY(-2px);
+  }
+
+  svg {
+    width: 1.25rem;
+    height: 1.25rem;
+  }
+}
