@@ -44,7 +44,7 @@
   width: 2.6rem;
   height: 2.6rem;
   border-radius: 0.65rem;
-  background: linear-gradient(135deg, var(--cobalt) 0%, #1D4ED8 100%);
+  background: linear-gradient(135deg, var(--cyan) 0%, #0284C7 100%);
   color: #FFFFFF;
   display: flex;
   align-items: center;
@@ -52,7 +52,12 @@
   font-weight: 800;
   font-size: 1.1rem;
   letter-spacing: -0.02em;
-  box-shadow: 0 4px 14px rgba(37, 99, 235, 0.35);
+  box-shadow: 0 4px 14px var(--cyan-glow);
+
+  [data-theme="dark"] & {
+    background: linear-gradient(135deg, #00E5FF 0%, #00B4D8 100%);
+    color: #070B12;
+  }
 }
 
 .brand-text {
@@ -222,7 +227,7 @@
    2. Buttons
    -------------------------------------------------------------------------- */
 .button-gold {
-  background: linear-gradient(135deg, var(--cobalt) 0%, #1D4ED8 100%);
+  background: linear-gradient(135deg, var(--cyan) 0%, #0284C7 100%);
   color: #FFFFFF !important;
   font-weight: 700;
   font-size: 0.9rem;
@@ -232,17 +237,24 @@
   align-items: center;
   justify-content: center;
   gap: 0.5rem;
-  box-shadow: 0 8px 20px -4px rgba(37, 99, 235, 0.4);
+  box-shadow: 0 8px 20px -4px var(--cyan-glow);
   border: none;
   cursor: pointer;
   letter-spacing: 0.02em;
   transition: transform 0.25s ease, box-shadow 0.25s ease, filter 0.25s ease;
   text-decoration: none;
 
+  [data-theme="dark"] & {
+    background: linear-gradient(135deg, #00E5FF 0%, #00B4D8 100%);
+    color: #070B12 !important;
+    font-weight: 800;
+    box-shadow: 0 8px 24px -4px rgba(0, 229, 255, 0.45);
+  }
+
   &:hover {
     transform: translateY(-2px);
-    box-shadow: 0 14px 30px -4px rgba(37, 99, 235, 0.55);
-    filter: brightness(1.08);
+    box-shadow: 0 14px 30px -4px var(--cyan-glow);
+    filter: brightness(1.1);
   }
 
   &.lg {
@@ -1057,7 +1069,7 @@
     font-weight: 600;
     color: var(--on-surface);
     width: 34%;
-    background: rgba(197, 168, 128, 0.04);
+    background: rgba(8, 145, 178, 0.04);
   }
 
   .col-metric {
@@ -1080,8 +1092,9 @@
   white-space: nowrap;
 
   [data-theme="dark"] & {
-    background: rgba(212, 175, 55, 0.15);
-    color: var(--gold-accent);
+    background: rgba(0, 229, 255, 0.12);
+    color: var(--cyan);
+    border-color: rgba(0, 229, 255, 0.35);
   }
 }
 

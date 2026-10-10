@@ -110,7 +110,7 @@ title: Home
         </div>
         <span class="equation-op">=</span>
         <div class="equation-item is-result">
-          <span class="eq-tag" style="color: var(--azure);">Enterprise Outcome</span>
+          <span class="eq-tag" style="color: var(--cyan);">Enterprise Outcome</span>
           <p class="eq-title">Uncompromising Operational Resilience</p>
           <p class="eq-desc">Zero unplanned downtime · 100% audit defensible · Robust BCP/DR</p>
         </div>

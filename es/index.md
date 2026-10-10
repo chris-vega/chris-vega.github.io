@@ -111,7 +111,7 @@ lang: es
         </div>
         <span class="equation-op">=</span>
         <div class="equation-item is-result">
-          <span class="eq-tag" style="color: var(--azure);">Resultado Empresarial</span>
+          <span class="eq-tag" style="color: var(--cyan);">Resultado Empresarial</span>
           <p class="eq-title">Resiliencia Operativa Sin Concesiones</p>
           <p class="eq-desc">Cero tiempo de inactividad · 100% auditable · Continuidad BCP/DR robusta</p>
         </div>
