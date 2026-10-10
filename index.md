@@ -341,60 +341,25 @@ title: Home
 </section>
 
 <!-- ==========================================================================
-     SECTION 5: ENTERPRISE CONTINUITY & INCIDENT COMMAND LIFECYCLE
+     SECTION 5: CORE COMPETENCIES & TECHNICAL EXPERTISE
      ========================================================================== -->
 <section id="competencies" class="section-padding bg-surface">
   <div class="content-max">
     <div class="text-center" style="margin-bottom: 3.5rem;">
       <div class="eyebrow-container">
         <span class="eyebrow-line"></span>
-        <span class="eyebrow-text">Enterprise Execution Lifecycle</span>
+        <span class="eyebrow-text">Technical Expertise</span>
         <span class="eyebrow-line"></span>
       </div>
-      <h2>Operational Continuity &amp; <span class="font-serif-italic">Incident Command</span></h2>
+      <h2>Core Competencies &amp; <span class="font-serif-italic">Focus Disciplines</span></h2>
       <div class="gold-bar centered"></div>
       <p class="content-narrow">
-        A battle-tested four-phase operational lifecycle engineered for high-stakes enterprise continuity, regulatory defensibility, and proactive incident containment.
+        Frontline technical mastery spanning enterprise business continuity, third-party cyber risk due diligence, AWS cloud resilience, and corporate divestitures.
       </p>
     </div>
 
-    <!-- 4-Stage Operational Continuity Lifecycle -->
-    <div class="workflow-grid">
-      <div class="workflow-card">
-        <div class="workflow-step-num">PHASE 01</div>
-        <h4 class="workflow-title">Forensic Risk &amp; BCP Audit</h4>
-        <p class="workflow-desc">
-          Deep forensic analysis of third-party vendor architectures, cryptographic boundaries, regulatory compliance, and disaster recovery failover postures.
-        </p>
-      </div>
-
-      <div class="workflow-card">
-        <div class="workflow-step-num">PHASE 02</div>
-        <h4 class="workflow-title">Resilient Systems Architecture</h4>
-        <p class="workflow-desc">
-          Architecting pragmatic AWS cloud recovery pathways and decoupled system designs that eliminate single points of failure while maintaining audit defensibility.
-        </p>
-      </div>
-
-      <div class="workflow-card">
-        <div class="workflow-step-num">PHASE 03</div>
-        <h4 class="workflow-title">Controlled Execution &amp; Cutover</h4>
-        <p class="workflow-desc">
-          Leading zero-downtime cutovers, legacy divestiture cloning, and coordinated failover drills under disciplined enterprise governance and agile release cadences.
-        </p>
-      </div>
-
-      <div class="workflow-card">
-        <div class="workflow-step-num">PHASE 04</div>
-        <h4 class="workflow-title">Continuous Telemetry &amp; Incident Command</h4>
-        <p class="workflow-desc">
-          Establishing 24/7 telemetry monitoring, NOC/SOC escalation protocols, and bilingual crisis facilitation to rapidly neutralize operational disruption.
-        </p>
-      </div>
-    </div>
-
     <!-- Core Competencies Grid -->
-    <div class="practice-grid" style="margin-top: 3.5rem;">
+    <div class="practice-grid">
       <!-- 1 -->
       <div class="practice-card">
         <span class="practice-badge">Resilience &amp; Recovery</span>
@@ -453,79 +418,7 @@ title: Home
 </section>
 
 <!-- ==========================================================================
-     SECTION 6: EXECUTIVE FAQ ACCORDION
-     ========================================================================== -->
-<section id="faq" class="section-padding bg-surface-low">
-  <div class="content-max">
-    <div class="text-center" style="margin-bottom: 2rem;">
-      <div class="eyebrow-container">
-        <span class="eyebrow-line"></span>
-        <span class="eyebrow-text">Executive FAQ &amp; Insights</span>
-        <span class="eyebrow-line"></span>
-      </div>
-      <h2>Frequently Asked <span class="font-serif-italic">Questions</span></h2>
-      <div class="gold-bar centered"></div>
-      <p class="content-narrow">
-        Key details on my technical execution, business continuity leadership, and cross-functional impact.
-      </p>
-    </div>
-
-    <div class="faq-accordion">
-      <details class="faq-item" open>
-        <summary class="faq-summary">
-          <span>What specific value does a Business Continuity Lead bring to an enterprise?</span>
-          <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
-        </summary>
-        <div class="faq-content">
-          I bridge the gap between high-level executive risk governance and technical operational reality. Rather than relying on static compliance binders, I engineer living, verifiable business continuity frameworks. I evaluate third-party vendor risks, validate disaster recovery failover architectures, eliminate operational single-points-of-failure, and lead cross-functional delivery that protects corporate revenue and ensures day-one resilience.
-        </div>
-      </details>
-
-      <details class="faq-item">
-        <summary class="faq-summary">
-          <span>How do you approach third-party vendor cybersecurity due diligence in regulated sectors?</span>
-          <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
-        </summary>
-        <div class="faq-content">
-          In financial services and regulated sectors, vendor due diligence cannot rely on passive self-assessment questionnaires. I analyze technical architecture, data encryption boundaries, access management, business continuity/disaster recovery (BCP/DR) test results, and compliance attestations against strict enterprise standards—creating enforceable risk remediation roadmaps before contracts are finalized.
-        </div>
-      </details>
-
-      <details class="faq-item">
-        <summary class="faq-summary">
-          <span>How do your creative disciplines (photography, acting, drone piloting) enhance your technical resilience leadership?</span>
-          <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
-        </summary>
-        <div class="faq-content">
-          Enterprise initiatives and disaster recovery operations stall most frequently not from code defects, but from human communication silos and panic under pressure. Training in acting and performance arts instills poise, active listening, and calm executive presence during high-stakes incident command. Professional photography and videography hone visual framing and narrative clarity, transforming dense regulatory mandates into intuitive stakeholder presentations. Drone piloting demands strict pre-flight telemetry checklists, continuous spatial awareness, and fail-safe thinking—directly mirroring the discipline required to architect and execute audit-defensible business continuity plans.
-        </div>
-      </details>
-
-      <details class="faq-item">
-        <summary class="faq-summary">
-          <span>How do your dual graduate degrees (MBA & MS in IT Management) inform your engineering decisions?</span>
-          <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
-        </summary>
-        <div class="faq-content">
-          The MS in IT Management provides rigorous technical grounding in systems architecture, enterprise infrastructure, and cybersecurity governance. The MBA complements this with strategic financial acumen, organizational behavior, and stakeholder communication. This dual foundation ensures every technology recommendation is mathematically and architecturally sound while directly advancing enterprise profitability and operational stability.
-        </div>
-      </details>
-
-      <details class="faq-item">
-        <summary class="faq-summary">
-          <span>How do you guarantee zero downtime during corporate divestitures and system cloning?</span>
-          <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
-        </summary>
-        <div class="faq-content">
-          I specialize in legacy infrastructure cloning, decoupled cutovers, and parallel execution paths. By reverse-engineering day-one business continuity requirements, running dry-run simulations, and managing real-time cutover operations, organizations successfully achieve day-one operational independence without service outages or client impact.
-        </div>
-      </details>
-    </div>
-  </div>
-</section>
-
-<!-- ==========================================================================
-     SECTION 9: LOCATION & ENTERPRISE AVAILABILITY
+     SECTION 6: LOCATION & ENTERPRISE AVAILABILITY
      ========================================================================== -->
 <section id="location" class="section-padding bg-surface-low">
   <div class="content-prose text-center">
@@ -543,7 +436,7 @@ title: Home
 </section>
 
 <!-- ==========================================================================
-     SECTION 10: CALL TO ACTION / CONNECT
+     SECTION 7: CALL TO ACTION / CONNECT
      ========================================================================== -->
 <section id="contact" class="section-padding bg-surface" style="padding-top: 2rem;">
   <div class="content-max">

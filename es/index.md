@@ -342,60 +342,25 @@ lang: es
 </section>
 
 <!-- ==========================================================================
-     SECCIÓN 5: CICLO DE CONTINUIDAD OPERATIVA Y COMANDO DE INCIDENTES
+     SECCIÓN 5: COMPETENCIAS TÉCNICAS Y ÁREAS DE ESPECIALIZACIÓN
      ========================================================================== -->
 <section id="competencies" class="section-padding bg-surface">
   <div class="content-max">
     <div class="text-center" style="margin-bottom: 3.5rem;">
       <div class="eyebrow-container">
         <span class="eyebrow-line"></span>
-        <span class="eyebrow-text">Ciclo Operativo Empresarial</span>
+        <span class="eyebrow-text">Especialización Técnica</span>
         <span class="eyebrow-line"></span>
       </div>
-      <h2>Continuidad Operativa y <span class="font-serif-italic">Comando de Incidentes</span></h2>
+      <h2>Competencias Clave y <span class="font-serif-italic">Áreas de Enfoque</span></h2>
       <div class="gold-bar centered"></div>
       <p class="content-narrow">
-        Un ciclo de ejecución en cuatro fases diseñado para la continuidad empresarial de misión crítica, la auditabilidad regulatoria y la contención proactiva de incidentes.
+        Dominio técnico integral abarcando continuidad del negocio, debida diligencia de ciberseguridad a terceros, resiliencia cloud en AWS y escisiones corporativas.
       </p>
     </div>
 
-    <!-- Ciclo Operativo de 4 Fases -->
-    <div class="workflow-grid">
-      <div class="workflow-card">
-        <div class="workflow-step-num">FASE 01</div>
-        <h4 class="workflow-title">Auditoría Forense de Riesgos y BCP</h4>
-        <p class="workflow-desc">
-          Análisis forense exhaustivo de arquitecturas de proveedores externos, perímetros criptográficos, cumplimiento normativo y preparación de conmutación por error (BCP/DR).
-        </p>
-      </div>
-
-      <div class="workflow-card">
-        <div class="workflow-step-num">FASE 02</div>
-        <h4 class="workflow-title">Diseño de Arquitectura Resiliente</h4>
-        <p class="workflow-desc">
-          Diseño pragmático de rutas de recuperación en la nube (AWS) y arquitecturas desacopladas que eliminan puntos únicos de falla garantizando auditabilidad absoluta.
-        </p>
-      </div>
-
-      <div class="workflow-card">
-        <div class="workflow-step-num">FASE 03</div>
-        <h4 class="workflow-title">Ejecución Controlada y Transición</h4>
-        <p class="workflow-desc">
-          Liderazgo en cortes sin tiempo de inactividad, clonación de sistemas heredados en escisiones y simulacros de conmutación bajo gobernanza de riesgos CRISC y metodologías ágiles.
-        </p>
-      </div>
-
-      <div class="workflow-card">
-        <div class="workflow-step-num">FASE 04</div>
-        <h4 class="workflow-title">Telemetría Continua y Comando de Incidentes</h4>
-        <p class="workflow-desc">
-          Implementación de telemetría 24/7, protocolos de escalamiento NOC/SOC y facilitación de crisis bilingüe para neutralizar rápidamente disrupciones operativas.
-        </p>
-      </div>
-    </div>
-
     <!-- Cuadrícula de Competencias Clave -->
-    <div class="practice-grid" style="margin-top: 3.5rem;">
+    <div class="practice-grid">
       <!-- 1 -->
       <div class="practice-card">
         <span class="practice-badge">Resiliencia y Recuperación</span>
@@ -454,79 +419,7 @@ lang: es
 </section>
 
 <!-- ==========================================================================
-     SECCIÓN 6: PREGUNTAS FRECUENTES (FAQ EJECUTIVO)
-     ========================================================================== -->
-<section id="faq" class="section-padding bg-surface-low">
-  <div class="content-max">
-    <div class="text-center" style="margin-bottom: 2rem;">
-      <div class="eyebrow-container">
-        <span class="eyebrow-line"></span>
-        <span class="eyebrow-text">Preguntas Frecuentes y Enfoque</span>
-        <span class="eyebrow-line"></span>
-      </div>
-      <h2>Preguntas <span class="font-serif-italic">Frecuentes</span></h2>
-      <div class="gold-bar centered"></div>
-      <p class="content-narrow">
-        Detalles clave sobre mi ejecución técnica, liderazgo en continuidad operativa e impacto interdisciplinario.
-      </p>
-    </div>
-
-    <div class="faq-accordion">
-      <details class="faq-item" open>
-        <summary class="faq-summary">
-          <span>¿Qué valor concreto aporta un Líder de Continuidad del Negocio a una organización?</span>
-          <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
-        </summary>
-        <div class="faq-content">
-          Uno la gobernanza de riesgos corporativos con la realidad técnica de las operaciones. En lugar de basarme en carpetas estáticas de cumplimiento, diseño marcos vivos y comprobables de continuidad. Evalúo riesgos de proveedores, valido arquitecturas de recuperación ante desastres (BCP/DR), elimino puntos únicos de fallo y dirijo la ejecución entre equipos para blindar los ingresos y asegurar la resiliencia institucional.
-        </div>
-      </details>
-
-      <details class="faq-item">
-        <summary class="faq-summary">
-          <span>¿Cómo abordas la debida diligencia de ciberseguridad con proveedores en sectores regulados?</span>
-          <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
-        </summary>
-        <div class="faq-content">
-          En servicios financieros y sectores regulados, la debida diligencia no puede depender de cuestionarios de autoevaluación pasivos. Analizo la arquitectura técnica, los perímetros de cifrado de datos, el control de accesos, los resultados reales de pruebas de continuidad (BCP/DR) y las certificaciones formales frente a estándares empresariales estrictos, estableciendo planes de remediación vinculantes antes de la firma de contratos.
-        </div>
-      </details>
-
-      <details class="faq-item">
-        <summary class="faq-summary">
-          <span>¿Cómo potencian tus disciplinas creativas (fotografía, actuación, drones) tu liderazgo en resiliencia técnica?</span>
-          <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
-        </summary>
-        <div class="faq-content">
-          Las iniciativas corporativas y las operaciones de recuperación ante desastres fallan con mayor frecuencia no por defectos en el código, sino por silos de comunicación y pánico bajo presión. La formación en actuación y artes escénicas inculca presencia, escucha activa y serenidad directiva durante el comando de incidentes críticos. La fotografía profesional y la videografía agudizan el encuadre visual y la claridad narrativa, convirtiendo densos mandatos regulatorios en presentaciones ejecutivas intuitivas. El pilotaje de drones exige rigurosas listas de verificación de telemetría previa al vuelo, conciencia espacial continua y mentalidad a prueba de fallos, reflejando directamente la disciplina necesaria para diseñar y ejecutar planes de continuidad auditables.
-        </div>
-      </details>
-
-      <details class="faq-item">
-        <summary class="faq-summary">
-          <span>¿Cómo influyen tus dos maestrías (MBA y M.S. en Gestión de TI) en tus decisiones de ingeniería?</span>
-          <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
-        </summary>
-        <div class="faq-content">
-          La Maestría en Gestión de TI aporta un sólido fundamento técnico en arquitectura de sistemas, infraestructura empresarial y gobernanza de ciberseguridad. El MBA complementa esto con visión financiera estratégica, comportamiento organizacional y comunicación directiva. Esta combinación asegura que cada solución técnica sea arquitectónicamente sólida y a la vez impulse la estabilidad y rentabilidad del negocio.
-        </div>
-      </details>
-
-      <details class="faq-item">
-        <summary class="faq-summary">
-          <span>¿Cómo garantizas cero tiempo de inactividad durante escisiones corporativas y clonación de sistemas?</span>
-          <svg class="faq-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
-        </summary>
-        <div class="faq-content">
-          Me especializo en la clonación de infraestructura heredada, transiciones desacopladas y ejecución en paralelo. Mediante ingeniería inversa de los requisitos de continuidad del día uno, simulacros previos y la gestión en tiempo real de las operaciones de corte, las organizaciones logran su independencia operativa el día uno sin interrupciones del servicio ni impacto en clientes.
-        </div>
-      </details>
-    </div>
-  </div>
-</section>
-
-<!-- ==========================================================================
-     SECCIÓN 9: UBICACIÓN Y MODALIDAD DE TRABAJO
+     SECCIÓN 6: UBICACIÓN Y MODALIDAD DE TRABAJO
      ========================================================================== -->
 <section id="location" class="section-padding bg-surface-low">
   <div class="content-prose text-center">
@@ -544,7 +437,7 @@ lang: es
 </section>
 
 <!-- ==========================================================================
-     SECCIÓN 10: CONTACTO Y CONEXIÓN
+     SECCIÓN 7: CONTACTO Y CONEXIÓN
      ========================================================================== -->
 <section id="contact" class="section-padding bg-surface" style="padding-top: 2rem;">
   <div class="content-max">
