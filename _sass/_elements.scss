@@ -1256,10 +1256,40 @@
   position: relative;
   overflow: hidden;
 
+  // Viewfinder optic reticle (Nod to aerial imaging, drone HUD, & cinematography)
+  &::before {
+    content: "+";
+    position: absolute;
+    top: 0.85rem;
+    right: 0.95rem;
+    font-family: var(--font-family-mono);
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--cyan);
+    opacity: 0.35;
+    transition: opacity 0.25s ease, transform 0.3s ease;
+  }
+
   &:hover {
     transform: translateY(-4px);
     border-color: var(--border-hover);
     box-shadow: var(--shadow-ambient-lg);
+
+    &::before {
+      opacity: 1;
+      transform: rotate(90deg) scale(1.15);
+    }
+  }
+
+  .creative-mono-tag {
+    font-family: var(--font-family-mono);
+    font-size: 0.65rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    color: var(--cyan);
+    display: block;
+    margin-bottom: 0.4rem;
+    text-transform: uppercase;
   }
 
   .creative-badge {
@@ -1283,11 +1313,17 @@
     align-items: center;
     justify-content: center;
     margin-bottom: 1rem;
+    transition: background-color 0.25s ease, transform 0.25s ease;
 
     svg {
       width: 1.4rem;
       height: 1.4rem;
     }
+  }
+
+  &:hover .creative-icon-box {
+    background: var(--cyan-light);
+    transform: scale(1.05);
   }
 
   .creative-title {
@@ -1304,4 +1340,27 @@
     color: var(--on-surface-variant);
     margin: 0;
   }
+}
+
+/* Bento Telemetry Micro-Header */
+.bento-telemetry {
+  font-family: var(--font-family-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  color: var(--cyan);
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px dashed var(--border-subtle);
+  opacity: 0.85;
+}
+
+/* Architectural Section Heading */
+.section-heading {
+  font-family: var(--font-family-headline);
+  font-weight: 800;
+  letter-spacing: -0.025em;
+  line-height: 1.15;
+  margin-bottom: 1rem;
 }

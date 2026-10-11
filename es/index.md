@@ -29,9 +29,10 @@ lang: es
           <span>Pittsburgh, PA · Disponible para Roles de Liderazgo y Especialización Senior</span>
         </div>
 
-        <div class="eyebrow-container">
-          <span class="eyebrow-line"></span>
-          <span class="eyebrow-text">Perfil Profesional Ejecutivo</span>
+        <div class="sys-tag">
+          <span class="sys-dot"></span>
+          <span class="sys-code">// 00. PERFIL</span>
+          <span class="sys-label">DOSSIER PROFESIONAL EJECUTIVO</span>
         </div>
 
         <h1>Chris Vega</h1>
@@ -136,10 +137,26 @@ lang: es
      ========================================================================== -->
 <section id="track-record" class="section-padding bg-surface-low">
   <div class="content-max">
+    <div class="text-center" style="margin-bottom: 3.5rem;">
+      <div class="sys-tag">
+        <span class="sys-dot"></span>
+        <span class="sys-code">// 01. TRAYECTORIA</span>
+        <span class="sys-label">EJECUCIÓN DE SISTEMAS Y MÉTRICAS</span>
+      </div>
+      <h2 class="section-heading">15+ Años de Ejecución de Sistemas y <span class="text-accent">Gobernanza Operativa</span></h2>
+      <p class="content-narrow">
+        Historial probado en protección de infraestructuras críticas, cumplimiento normativo y alineación técnica interdisciplinaria.
+      </p>
+    </div>
+
     <div class="bento-grid">
 
       <!-- Tarjeta Principal: 15+ Años -->
       <div class="bento-primary-card">
+        <div class="bento-telemetry">
+          <span>UBICACIÓN: PITTSBURGH, PA</span>
+          <span>100% DEFENDIBLE EN AUDITORÍA</span>
+        </div>
         <div class="stat-big">15+</div>
         <div class="stat-heading">Años de Experiencia Especializada</div>
         <p class="stat-description">
@@ -177,15 +194,14 @@ lang: es
      ========================================================================== -->
 <section id="credentials" class="section-padding bg-surface">
   <div class="content-prose text-center">
-    <div class="eyebrow-container">
-      <span class="eyebrow-line"></span>
-      <span class="eyebrow-text">Credenciales y Formación</span>
-      <span class="eyebrow-line"></span>
+    <div class="sys-tag">
+      <span class="sys-dot"></span>
+      <span class="sys-code">// 02. GOBERNANZA</span>
+      <span class="sys-label">RIGOR ACADÉMICO Y CREDENCIALES</span>
     </div>
-    <h2>Formación Académica, Dominio Técnico y Gobernanza</h2>
-    <div class="gold-bar centered"></div>
+    <h2 class="section-heading">Formación Académica, Dominio Técnico y <span class="text-accent">Gobernanza Empresarial</span></h2>
 
-    <div style="text-align: left;">
+    <div style="text-align: left; margin-top: 2.5rem;">
       <p>
         Chris Vega cuenta con más de quince años de trayectoria en entornos altamente estructurados y críticos, donde los fallos operativos y las vulnerabilidades de seguridad conllevan severas repercusiones institucionales. A diferencia de asesores generalistas que dependen de marcos teóricos, Chris aporta un dominio práctico integral a lo largo de todo el ciclo de vida de la tecnología empresarial: desde el monitoreo 24/7 en centros NOC/SOC y resolución de incidentes de Nivel 2, hasta la arquitectura cloud y la remediación de riesgos de ciberseguridad con terceros.
       </p>
@@ -205,13 +221,12 @@ lang: es
 <section id="differentiator" class="section-padding bg-surface-low">
   <div class="content-max">
     <div class="text-center" style="margin-bottom: 3rem;">
-      <div class="eyebrow-container">
-        <span class="eyebrow-line"></span>
-        <span class="eyebrow-text">El Diferenciador Clave</span>
-        <span class="eyebrow-line"></span>
+      <div class="sys-tag">
+        <span class="sys-dot"></span>
+        <span class="sys-code">// 03. DISCIPLINAS</span>
+        <span class="sys-label">LA VENTAJA DEL TECNÓLOGO CREATIVO</span>
       </div>
-      <h2>La Ventaja del <span class="font-serif-italic">Tecnólogo Creativo</span></h2>
-      <div class="gold-bar centered"></div>
+      <h2 class="section-heading">Rigor Creativo y <span class="text-accent">Precisión Técnica</span></h2>
       <p class="content-narrow">
         Cómo la práctica continua en pilotaje aéreo de precisión, narrativa visual y artes escénicas potencia la serenidad ante crisis, la disciplina espacial y el liderazgo multidisciplinario en la tecnología empresarial.
       </p>
@@ -233,6 +248,7 @@ lang: es
         <div class="creative-icon-box">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v2a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3z"/><path d="m19 8-4 4"/><path d="m5 8 4 4"/><circle cx="12" cy="14" r="3"/><path d="M10 17 8 22"/><path d="M14 17 16 22"/></svg>
         </div>
+        <span class="creative-mono-tag">TELEMETRÍA_VUELO // DISCIPLINA_ESPACIAL</span>
         <span class="creative-badge">Operaciones Aéreas · En Proceso</span>
         <h3 class="creative-title">Pilotaje de Drones e Imagen Aérea</h3>
         <p class="creative-desc">
@@ -245,6 +261,7 @@ lang: es
         <div class="creative-icon-box">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3l-2.5-3z"/><circle cx="12" cy="13" r="3"/></svg>
         </div>
+        <span class="creative-mono-tag">OFICIO_ÓPTICO // CLARIDAD_COMPOSITIVA</span>
         <span class="creative-badge">Oficio Visual · Varios Años</span>
         <h3 class="creative-title">Fotografía Profesional</h3>
         <p class="creative-desc">
@@ -257,6 +274,7 @@ lang: es
         <div class="creative-icon-box">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="23 7 16 12 23 17 23 7"/><rect width="15" height="14" x="1" y="5" rx="2" ry="2"/></svg>
         </div>
+        <span class="creative-mono-tag">MEDIOS_DINÁMICOS // RITMO_Y_SONIDO</span>
         <span class="creative-badge">Producción y Movimiento</span>
         <h3 class="creative-title">Videografía y Cinematografía</h3>
         <p class="creative-desc">
@@ -269,6 +287,7 @@ lang: es
         <div class="creative-icon-box">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" x2="12" y1="19" y2="22"/></svg>
         </div>
+        <span class="creative-mono-tag">ARTES_ESCÉNICAS // TEMPLE_EN_CRISIS</span>
         <span class="creative-badge">Escenario y Pantalla · Presencia</span>
         <h3 class="creative-title">Artes Escénicas y Actuación</h3>
         <p class="creative-desc">
@@ -285,13 +304,12 @@ lang: es
 <section id="competencies" class="section-padding bg-surface">
   <div class="content-max">
     <div class="text-center" style="margin-bottom: 3.5rem;">
-      <div class="eyebrow-container">
-        <span class="eyebrow-line"></span>
-        <span class="eyebrow-text">Especialización Técnica</span>
-        <span class="eyebrow-line"></span>
+      <div class="sys-tag">
+        <span class="sys-dot"></span>
+        <span class="sys-code">// 04. CAPACIDADES</span>
+        <span class="sys-label">COMPETENCIAS CLAVE Y ESPECIALIDADES</span>
       </div>
-      <h2>Competencias Clave y <span class="font-serif-italic">Áreas de Enfoque</span></h2>
-      <div class="gold-bar centered"></div>
+      <h2 class="section-heading">Capacidades Técnicas y <span class="text-accent">Áreas de Enfoque</span></h2>
       <p class="content-narrow">
         Dominio técnico integral abarcando continuidad del negocio, debida diligencia de ciberseguridad a terceros, resiliencia cloud en AWS y escisiones corporativas.
       </p>
@@ -361,14 +379,13 @@ lang: es
      ========================================================================== -->
 <section id="location" class="section-padding bg-surface-low">
   <div class="content-prose text-center">
-    <div class="eyebrow-container">
-      <span class="eyebrow-line"></span>
-      <span class="eyebrow-text">Disponibilidad y Modalidad</span>
-      <span class="eyebrow-line"></span>
+    <div class="sys-tag">
+      <span class="sys-dot"></span>
+      <span class="sys-code">// 05. DISPONIBILIDAD</span>
+      <span class="sys-label">UBICACIÓN Y MODALIDAD DE TRABAJO</span>
     </div>
-    <h2>Ubicación y Modalidad de Trabajo</h2>
-    <div class="gold-bar centered"></div>
-    <p>
+    <h2 class="section-heading">Ubicación y <span class="text-accent">Modalidad de Trabajo</span></h2>
+    <p style="margin-top: 1.5rem;">
       Chris reside en <strong>Pittsburgh, Pennsylvania</strong>, con más de 15 años colaborando con equipos interdisciplinarios e instituciones empresariales en todo el país. Disponible para oportunidades de liderazgo y especialización técnica senior en modalidades híbridas y remotas.
     </p>
   </div>
@@ -380,6 +397,11 @@ lang: es
 <section id="contact" class="section-padding bg-surface" style="padding-top: 2rem;">
   <div class="content-max">
     <div class="cta-banner">
+      <div class="sys-tag" style="margin-bottom: 1.25rem;">
+        <span class="sys-dot"></span>
+        <span class="sys-code">// 06. CONTACTO</span>
+        <span class="sys-label">CANALES DIRECTOS Y CONVERSACIÓN</span>
+      </div>
       <h2>Conectemos</h2>
       <p>
         ¿Interesado en conversar sobre resiliencia tecnológica, liderazgo en continuidad operativa u oportunidades técnicas senior?

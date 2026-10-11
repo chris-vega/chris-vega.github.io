@@ -28,9 +28,10 @@ title: Home
           <span>Pittsburgh, PA · Open to Principal & Lead Enterprise Opportunities</span>
         </div>
 
-        <div class="eyebrow-container">
-          <span class="eyebrow-line"></span>
-          <span class="eyebrow-text">Executive Career Profile</span>
+        <div class="sys-tag">
+          <span class="sys-dot"></span>
+          <span class="sys-code">// 00. PROFILE</span>
+          <span class="sys-label">EXECUTIVE CAREER DOSSIER</span>
         </div>
 
         <h1>Chris Vega</h1>
@@ -135,10 +136,26 @@ title: Home
      ========================================================================== -->
 <section id="track-record" class="section-padding bg-surface-low">
   <div class="content-max">
+    <div class="text-center" style="margin-bottom: 3.5rem;">
+      <div class="sys-tag">
+        <span class="sys-dot"></span>
+        <span class="sys-code">// 01. TRACK RECORD</span>
+        <span class="sys-label">SYSTEMS EXECUTION &amp; METRICS</span>
+      </div>
+      <h2 class="section-heading">15+ Years of Systems Execution &amp; <span class="text-accent">Operational Governance</span></h2>
+      <p class="content-narrow">
+        Proven enterprise track record safeguarding mission-critical applications, regulatory compliance, and cross-functional technical alignment.
+      </p>
+    </div>
+
     <div class="bento-grid">
 
       <!-- Left Primary Card: 15+ Years Specialized Experience -->
       <div class="bento-primary-card">
+        <div class="bento-telemetry">
+          <span>LOC: PITTSBURGH, PA</span>
+          <span>100% AUDIT DEFENSIBLE</span>
+        </div>
         <div class="stat-big">15+</div>
         <div class="stat-heading">Years Specialized Experience</div>
         <p class="stat-description">
@@ -176,15 +193,14 @@ title: Home
      ========================================================================== -->
 <section id="credentials" class="section-padding bg-surface">
   <div class="content-prose text-center">
-    <div class="eyebrow-container">
-      <span class="eyebrow-line"></span>
-      <span class="eyebrow-text">Credentials & Education</span>
-      <span class="eyebrow-line"></span>
+    <div class="sys-tag">
+      <span class="sys-dot"></span>
+      <span class="sys-code">// 02. GOVERNANCE</span>
+      <span class="sys-label">ACADEMIC RIGOR &amp; CREDENTIALS</span>
     </div>
-    <h2>Education, Systems Mastery & Enterprise Governance</h2>
-    <div class="gold-bar centered"></div>
+    <h2 class="section-heading">Education, Systems Mastery &amp; <span class="text-accent">Enterprise Governance</span></h2>
 
-    <div style="text-align: left;">
+    <div style="text-align: left; margin-top: 2.5rem;">
       <p>
         Chris Vega has spent over fifteen years working within highly structured, compliance-critical environments where system failures and security vulnerabilities carry severe institutional consequences. Unlike generalist advisers who rely on theoretical frameworks, Chris brings frontline mastery spanning the full lifecycle of enterprise technology—from 24/7 NOC/SOC infrastructure monitoring and tier-2 incident triage to enterprise cloud architecture and third-party vendor risk remediation.
       </p>
@@ -204,13 +220,12 @@ title: Home
 <section id="differentiator" class="section-padding bg-surface-low">
   <div class="content-max">
     <div class="text-center" style="margin-bottom: 3rem;">
-      <div class="eyebrow-container">
-        <span class="eyebrow-line"></span>
-        <span class="eyebrow-text">The Distinctive Edge</span>
-        <span class="eyebrow-line"></span>
+      <div class="sys-tag">
+        <span class="sys-dot"></span>
+        <span class="sys-code">// 03. DISCIPLINES</span>
+        <span class="sys-label">THE CREATIVE TECHNOLOGIST ADVANTAGE</span>
       </div>
-      <h2>The Creative Technologist <span class="font-serif-italic">Advantage</span></h2>
-      <div class="gold-bar centered"></div>
+      <h2 class="section-heading">Creative Rigor &amp; <span class="text-accent">Technical Precision</span></h2>
       <p class="content-narrow">
         How multi-year practice across precision aerial flight, visual storytelling, and performance arts powers high-stakes crisis composure, spatial discipline, and cross-functional leadership in enterprise technology.
       </p>
@@ -232,6 +247,7 @@ title: Home
         <div class="creative-icon-box">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v2a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3z"/><path d="m19 8-4 4"/><path d="m5 8 4 4"/><circle cx="12" cy="14" r="3"/><path d="M10 17 8 22"/><path d="M14 17 16 22"/></svg>
         </div>
+        <span class="creative-mono-tag">HUD_FLIGHT // SPATIAL_AWARENESS</span>
         <span class="creative-badge">Flight Operations · In Progress</span>
         <h3 class="creative-title">Drone Piloting &amp; Aerial Imaging</h3>
         <p class="creative-desc">
@@ -244,6 +260,7 @@ title: Home
         <div class="creative-icon-box">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3l-2.5-3z"/><circle cx="12" cy="13" r="3"/></svg>
         </div>
+        <span class="creative-mono-tag">OPTIC_CRAFT // COMPOSITION</span>
         <span class="creative-badge">Visual Craft · Multi-Year</span>
         <h3 class="creative-title">Professional Photography</h3>
         <p class="creative-desc">
@@ -256,6 +273,7 @@ title: Home
         <div class="creative-icon-box">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="23 7 16 12 23 17 23 7"/><rect width="15" height="14" x="1" y="5" rx="2" ry="2"/></svg>
         </div>
+        <span class="creative-mono-tag">MOTION_MEDIA // PACING & SOUND</span>
         <span class="creative-badge">Motion &amp; Production</span>
         <h3 class="creative-title">Videography &amp; Cinematography</h3>
         <p class="creative-desc">
@@ -268,6 +286,7 @@ title: Home
         <div class="creative-icon-box">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" x2="12" y1="19" y2="22"/></svg>
         </div>
+        <span class="creative-mono-tag">PERFORMANCE // CRISIS_POISE</span>
         <span class="creative-badge">Stage &amp; Screen · Presence</span>
         <h3 class="creative-title">Acting &amp; Performance Arts</h3>
         <p class="creative-desc">
@@ -284,13 +303,12 @@ title: Home
 <section id="competencies" class="section-padding bg-surface">
   <div class="content-max">
     <div class="text-center" style="margin-bottom: 3.5rem;">
-      <div class="eyebrow-container">
-        <span class="eyebrow-line"></span>
-        <span class="eyebrow-text">Technical Expertise</span>
-        <span class="eyebrow-line"></span>
+      <div class="sys-tag">
+        <span class="sys-dot"></span>
+        <span class="sys-code">// 04. CAPABILITIES</span>
+        <span class="sys-label">CORE COMPETENCIES &amp; DISCIPLINES</span>
       </div>
-      <h2>Core Competencies &amp; <span class="font-serif-italic">Focus Disciplines</span></h2>
-      <div class="gold-bar centered"></div>
+      <h2 class="section-heading">Frontline Capabilities &amp; <span class="text-accent">Focus Disciplines</span></h2>
       <p class="content-narrow">
         Frontline technical mastery spanning enterprise business continuity, third-party cyber risk due diligence, AWS cloud resilience, and corporate divestitures.
       </p>
@@ -360,14 +378,13 @@ title: Home
      ========================================================================== -->
 <section id="location" class="section-padding bg-surface-low">
   <div class="content-prose text-center">
-    <div class="eyebrow-container">
-      <span class="eyebrow-line"></span>
-      <span class="eyebrow-text">Availability & Work Model</span>
-      <span class="eyebrow-line"></span>
+    <div class="sys-tag">
+      <span class="sys-dot"></span>
+      <span class="sys-code">// 05. DEPLOYMENT</span>
+      <span class="sys-label">AVAILABILITY &amp; WORK MODEL</span>
     </div>
-    <h2>Location & Work Model</h2>
-    <div class="gold-bar centered"></div>
-    <p>
+    <h2 class="section-heading">Location &amp; <span class="text-accent">Work Model</span></h2>
+    <p style="margin-top: 1.5rem;">
       Chris is based in <strong>Pittsburgh, Pennsylvania</strong>, with over 15 years of experience collaborating with cross-functional teams and enterprise institutions nationwide. Available for senior and principal enterprise opportunities, hybrid strategic leadership, and remote positions.
     </p>
   </div>
@@ -379,6 +396,11 @@ title: Home
 <section id="contact" class="section-padding bg-surface" style="padding-top: 2rem;">
   <div class="content-max">
     <div class="cta-banner">
+      <div class="sys-tag" style="margin-bottom: 1.25rem;">
+        <span class="sys-dot"></span>
+        <span class="sys-code">// 06. ENGAGEMENT</span>
+        <span class="sys-label">DIRECT INQUIRIES &amp; DIALOGUE</span>
+      </div>
       <h2>Let’s Connect</h2>
       <p>
         Interested in discussing enterprise technology resilience, business continuity leadership, or senior technical opportunities?
