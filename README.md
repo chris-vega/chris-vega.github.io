@@ -1,6 +1,6 @@
 # Chris Vega's Personal Portfolio
 
-This repository contains the source code for my personal portfolio website, [chris-vega.us](https://chris-vega.us).
+This repository contains the source code for my personal portfolio website, [chris-vega.fyi](https://chris-vega.fyi).
 
 This site is built with Jekyll and is a customized fork of the [cvless theme](https://github.com/piazzai/cvless).
 
