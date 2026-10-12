@@ -124,7 +124,7 @@ lang: es
         <div class="equation-item is-result">
           <span class="eq-tag" style="color: var(--cyan);">Resultado Empresarial</span>
           <p class="eq-title">Resiliencia Operativa Sin Concesiones</p>
-          <p class="eq-desc">Cero tiempo de inactividad · 100% auditable · Continuidad BCP/DR robusta</p>
+          <p class="eq-desc">Alta disponibilidad · Gobernanza auditable · Continuidad BCP/DR robusta</p>
         </div>
       </div>
     </div>
@@ -155,7 +155,7 @@ lang: es
       <div class="bento-primary-card">
         <div class="bento-telemetry">
           <span>UBICACIÓN: PITTSBURGH, PA</span>
-          <span>100% DEFENDIBLE EN AUDITORÍA</span>
+          <span>SIS: ALTA DISPONIBILIDAD</span>
         </div>
         <div class="stat-big">15+</div>
         <div class="stat-heading">Años de Experiencia Especializada</div>
@@ -164,18 +164,12 @@ lang: es
         </p>
       </div>
 
-      <!-- Cuadrícula Secundaria de 3 Tarjetas -->
+      <!-- Cuadrícula Secundaria de 2 Tarjetas -->
       <div class="bento-secondary-grid">
         <div class="bento-stat-card">
           <div class="stat-number">4+</div>
           <div class="stat-title">Sectores Regulados</div>
           <p class="stat-sub">Servicios Financieros, Aeroespacial, Cadena de Suministro y Telecomunicaciones.</p>
-        </div>
-
-        <div class="bento-stat-card">
-          <div class="stat-number">100%</div>
-          <div class="stat-title">Defendibilidad en Auditorías</div>
-          <p class="stat-sub">Rigurosa debida diligencia de ciberseguridad con proveedores y gobernanza de BCP/DR.</p>
         </div>
 
         <div class="bento-stat-card">

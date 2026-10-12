@@ -123,7 +123,7 @@ title: Home
         <div class="equation-item is-result">
           <span class="eq-tag" style="color: var(--cyan);">Enterprise Outcome</span>
           <p class="eq-title">Uncompromising Operational Resilience</p>
-          <p class="eq-desc">Zero unplanned downtime · 100% audit defensible · Robust BCP/DR</p>
+          <p class="eq-desc">High-availability uptime · Audit-ready governance · Robust BCP/DR</p>
         </div>
       </div>
     </div>
@@ -154,7 +154,7 @@ title: Home
       <div class="bento-primary-card">
         <div class="bento-telemetry">
           <span>LOC: PITTSBURGH, PA</span>
-          <span>100% AUDIT DEFENSIBLE</span>
+          <span>SYS: HIGH AVAILABILITY</span>
         </div>
         <div class="stat-big">15+</div>
         <div class="stat-heading">Years Specialized Experience</div>
@@ -163,18 +163,12 @@ title: Home
         </p>
       </div>
 
-      <!-- Right 3-Card Grid -->
+      <!-- Right 2-Card Grid -->
       <div class="bento-secondary-grid">
         <div class="bento-stat-card">
           <div class="stat-number">4+</div>
           <div class="stat-title">Regulated Sectors</div>
           <p class="stat-sub">Delivering solutions across Financial Services, Aerospace, Food Supply Chain & Telecom.</p>
-        </div>
-
-        <div class="bento-stat-card">
-          <div class="stat-number">100%</div>
-          <div class="stat-title">Audit & Risk Defensibility</div>
-          <p class="stat-sub">Forensic vendor cybersecurity due diligence, BCP/DR failover readiness, and compliance.</p>
         </div>
 
         <div class="bento-stat-card">
