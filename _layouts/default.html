@@ -1,15 +1,17 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: 'en' }}">
-{% include head.html %}
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+<head>
+  {% include head.html %}
+</head>
 <body class="site-body">
-  <a href="#main-content" class="skip-link">Skip to content</a>
+  <a href="#main-content" class="skip-link">{% if page.lang == 'es' %}Saltar al contenido principal{% else %}Skip to main content{% endif %}</a>
   {% include header.html %}
-  <main id="main-content">
+  <main id="main-content" tabindex="-1">
     {{ content }}
   </main>
   {% include footer.html %}
-  <button id="back-to-top" class="back-to-top" aria-label="Back to top" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">
-    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m18 15-6-6-6 6"/></svg>
+  <button id="back-to-top" class="back-to-top" type="button" aria-label="{% if page.lang == 'es' %}Volver arriba{% else %}Back to top{% endif %}" onclick="window.scrollTo({top: 0, behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth'})">
+    <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m18 15-6-6-6 6"/></svg>
   </button>
 </body>
 </html>

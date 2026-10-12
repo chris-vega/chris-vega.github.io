@@ -1,67 +1,69 @@
-<nav class="glass-nav" aria-label="Main navigation">
-  <div class="nav-container">
-    <a href="{% if page.lang == 'es' %}/es/{% else %}/{% endif %}" class="brand-link">
-      <div class="brand-monogram">CV</div>
-      <div class="brand-text">
-        <span class="brand-name">{{ site.title }}</span>
-        <span class="brand-subtitle">{% if page.lang == 'es' %}Resiliencia de Sistemas · Tecnólogo Creativo{% else %}Systems Resilience Lead · Creative Technologist{% endif %}</span>
-      </div>
-    </a>
-
-    <div class="nav-desktop-links">
-      {% if page.lang == 'es' %}
-        <a href="#about" class="nav-link">Perfil</a>
-        <a href="#track-record" class="nav-link">Trayectoria</a>
-        <a href="#credentials" class="nav-link">Credenciales</a>
-        <a href="#differentiator" class="nav-link">La Ventaja</a>
-        <a href="#competencies" class="nav-link">Competencias</a>
-      {% else %}
-        <a href="#about" class="nav-link">About</a>
-        <a href="#track-record" class="nav-link">Track Record</a>
-        <a href="#credentials" class="nav-link">Credentials</a>
-        <a href="#differentiator" class="nav-link">The Advantage</a>
-        <a href="#competencies" class="nav-link">Competencies</a>
-      {% endif %}
-    </div>
-
-    <div class="nav-actions">
-      <!-- Language Switcher -->
-      <div class="lang-switcher" aria-label="Language selection">
-        <a href="{% if page.preview_mode %}preview.html{% else %}/{% endif %}" class="lang-btn {% unless page.lang == 'es' %}is-active{% endunless %}">EN</a>
-        <a href="{% if page.preview_mode %}preview-es.html{% else %}/es/{% endif %}" class="lang-btn {% if page.lang == 'es' %}is-active{% endif %}">ES</a>
-      </div>
-
-      <!-- Theme Switcher -->
-      <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle theme" onclick="modeSwitcher()">
-        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>
-      </button>
-
-      <a href="mailto:{{ site.author.email }}" class="button-gold nav-cta-btn">
-        <span>{% if page.lang == 'es' %}Contactar{% else %}Get in Touch{% endif %}</span>
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+<header>
+  <nav class="glass-nav" aria-label="{% if page.lang == 'es' %}Navegación principal{% else %}Main navigation{% endif %}">
+    <div class="nav-container">
+      <a href="{% if page.lang == 'es' %}/es/{% else %}/{% endif %}" class="brand-link">
+        <div class="brand-monogram" aria-hidden="true">CV</div>
+        <div class="brand-text">
+          <span class="brand-name">{{ site.title }}</span>
+          <span class="brand-subtitle">{% if page.lang == 'es' %}Resiliencia de Sistemas · Tecnólogo Creativo{% else %}Systems Resilience Lead · Creative Technologist{% endif %}</span>
+        </div>
       </a>
 
-      <button class="mobile-nav-toggle" id="mobile-toggle" aria-label="Open menu" onclick="toggleMobileMenu()">
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" x2="20" y1="12" y2="12"/><line x1="4" x2="20" y1="6" y2="6"/><line x1="4" x2="20" y1="18" y2="18"/></svg>
-      </button>
-    </div>
-  </div>
+      <div class="nav-desktop-links">
+        {% if page.lang == 'es' %}
+          <a href="#about" class="nav-link">Perfil</a>
+          <a href="#track-record" class="nav-link">Trayectoria</a>
+          <a href="#credentials" class="nav-link">Credenciales</a>
+          <a href="#differentiator" class="nav-link">La Ventaja</a>
+          <a href="#competencies" class="nav-link">Competencias</a>
+        {% else %}
+          <a href="#about" class="nav-link">About</a>
+          <a href="#track-record" class="nav-link">Track Record</a>
+          <a href="#credentials" class="nav-link">Credentials</a>
+          <a href="#differentiator" class="nav-link">The Advantage</a>
+          <a href="#competencies" class="nav-link">Competencies</a>
+        {% endif %}
+      </div>
 
-  <div class="mobile-nav-drawer" id="mobile-drawer">
-    {% if page.lang == 'es' %}
-      <a href="#about" class="nav-link" onclick="toggleMobileMenu()">Perfil</a>
-      <a href="#track-record" class="nav-link" onclick="toggleMobileMenu()">Trayectoria</a>
-      <a href="#credentials" class="nav-link" onclick="toggleMobileMenu()">Credenciales</a>
-      <a href="#differentiator" class="nav-link" onclick="toggleMobileMenu()">La Ventaja</a>
-      <a href="#competencies" class="nav-link" onclick="toggleMobileMenu()">Competencias</a>
-      <a href="mailto:{{ site.author.email }}" class="button-gold" style="margin-top: 0.5rem; text-align: center;">Contactar</a>
-    {% else %}
-      <a href="#about" class="nav-link" onclick="toggleMobileMenu()">About</a>
-      <a href="#track-record" class="nav-link" onclick="toggleMobileMenu()">Track Record</a>
-      <a href="#credentials" class="nav-link" onclick="toggleMobileMenu()">Credentials</a>
-      <a href="#differentiator" class="nav-link" onclick="toggleMobileMenu()">The Advantage</a>
-      <a href="#competencies" class="nav-link" onclick="toggleMobileMenu()">Competencies</a>
-      <a href="mailto:{{ site.author.email }}" class="button-gold" style="margin-top: 0.5rem; text-align: center;">Get in Touch</a>
-    {% endif %}
-  </div>
-</nav>
+      <div class="nav-actions">
+        <!-- Language Switcher -->
+        <div class="lang-switcher" role="group" aria-label="{% if page.lang == 'es' %}Selección de idioma{% else %}Language selection{% endif %}">
+          <a href="{% if page.preview_mode %}preview.html{% else %}/{% endif %}" lang="en" hreflang="en" aria-label="English" {% unless page.lang == 'es' %}aria-current="page"{% endunless %} class="lang-btn {% unless page.lang == 'es' %}is-active{% endunless %}">EN</a>
+          <a href="{% if page.preview_mode %}preview-es.html{% else %}/es/{% endif %}" lang="es" hreflang="es" aria-label="Español" {% if page.lang == 'es' %}aria-current="page"{% endif %} class="lang-btn {% if page.lang == 'es' %}is-active{% endif %}">ES</a>
+        </div>
+
+        <!-- Theme Switcher -->
+        <button id="theme-toggle" type="button" class="theme-toggle-btn" aria-label="{% if page.lang == 'es' %}Cambiar tema de color{% else %}Toggle color theme{% endif %}" onclick="modeSwitcher()">
+          <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>
+        </button>
+
+        <a href="mailto:{{ site.author.email }}" class="button-gold nav-cta-btn">
+          <span>{% if page.lang == 'es' %}Contactar{% else %}Get in Touch{% endif %}</span>
+          <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+        </a>
+
+        <button class="mobile-nav-toggle" id="mobile-toggle" type="button" aria-expanded="false" aria-controls="mobile-drawer" aria-label="{% if page.lang == 'es' %}Abrir menú de navegación{% else %}Open navigation menu{% endif %}" onclick="toggleMobileMenu()">
+          <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" x2="20" y1="12" y2="12"/><line x1="4" x2="20" y1="6" y2="6"/><line x1="4" x2="20" y1="18" y2="18"/></svg>
+        </button>
+      </div>
+    </div>
+
+    <div class="mobile-nav-drawer" id="mobile-drawer" role="region" aria-label="{% if page.lang == 'es' %}Menú móvil{% else %}Mobile menu{% endif %}">
+      {% if page.lang == 'es' %}
+        <a href="#about" class="nav-link" onclick="toggleMobileMenu()">Perfil</a>
+        <a href="#track-record" class="nav-link" onclick="toggleMobileMenu()">Trayectoria</a>
+        <a href="#credentials" class="nav-link" onclick="toggleMobileMenu()">Credenciales</a>
+        <a href="#differentiator" class="nav-link" onclick="toggleMobileMenu()">La Ventaja</a>
+        <a href="#competencies" class="nav-link" onclick="toggleMobileMenu()">Competencias</a>
+        <a href="mailto:{{ site.author.email }}" class="button-gold" style="margin-top: 0.5rem; text-align: center;">Contactar</a>
+      {% else %}
+        <a href="#about" class="nav-link" onclick="toggleMobileMenu()">About</a>
+        <a href="#track-record" class="nav-link" onclick="toggleMobileMenu()">Track Record</a>
+        <a href="#credentials" class="nav-link" onclick="toggleMobileMenu()">Credentials</a>
+        <a href="#differentiator" class="nav-link" onclick="toggleMobileMenu()">The Advantage</a>
+        <a href="#competencies" class="nav-link" onclick="toggleMobileMenu()">Competencies</a>
+        <a href="mailto:{{ site.author.email }}" class="button-gold" style="margin-top: 0.5rem; text-align: center;">Get in Touch</a>
+      {% endif %}
+    </div>
+  </nav>
+</header>

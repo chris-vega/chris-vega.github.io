@@ -3,7 +3,7 @@
     <div class="footer-grid">
       <div class="footer-brand">
         <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.5rem;">
-          <div class="brand-monogram" style="width: 2.25rem; height: 2.25rem; font-size: 0.95rem;">CV</div>
+          <div class="brand-monogram" aria-hidden="true" style="width: 2.25rem; height: 2.25rem; font-size: 0.95rem;">CV</div>
           <span class="footer-logo-title">{{ site.title }}</span>
         </div>
         <span class="footer-logo-sub">{% if page.lang == 'es' %}Resiliencia de Sistemas · Tecnólogo Creativo{% else %}Systems Resilience Lead · Creative Technologist{% endif %}</span>
@@ -15,13 +15,13 @@
           {% endif %}
         </p>
         <div class="footer-contact-item">
-          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12" cy="10" r="3"/></svg>
+          <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12" cy="10" r="3"/></svg>
           <span>Pittsburgh, PA · {% if page.lang == 'es' %}Remoto e Híbrido{% else %}Remote & Hybrid{% endif %}</span>
         </div>
       </div>
 
       <div>
-        <h4 class="footer-col-title">{% if page.lang == 'es' %}Competencias Clave{% else %}Core Competencies{% endif %}</h4>
+        <h3 class="footer-col-title">{% if page.lang == 'es' %}Competencias Clave{% else %}Core Competencies{% endif %}</h3>
         <ul class="footer-links">
           <li><a href="#competencies">{% if page.lang == 'es' %}Continuidad del Negocio y BCP/DR{% else %}Business Continuity & BCP/DR{% endif %}</a></li>
           <li><a href="#competencies">{% if page.lang == 'es' %}Due Diligence de Ciberseguridad{% else %}Vendor Cyber Due Diligence{% endif %}</a></li>
@@ -32,7 +32,7 @@
       </div>
 
       <div>
-        <h4 class="footer-col-title">{% if page.lang == 'es' %}Navegación Rápida{% else %}Quick Links{% endif %}</h4>
+        <h3 class="footer-col-title">{% if page.lang == 'es' %}Navegación Rápida{% else %}Quick Links{% endif %}</h3>
         <ul class="footer-links">
           <li><a href="#about">{% if page.lang == 'es' %}Perfil Profesional{% else %}Executive Profile{% endif %}</a></li>
           <li><a href="#track-record">{% if page.lang == 'es' %}Trayectoria (15+ Años){% else %}15+ Year Track Record{% endif %}</a></li>
@@ -43,18 +43,20 @@
       </div>
 
       <div>
-        <h4 class="footer-col-title">{% if page.lang == 'es' %}Credenciales Verificadas{% else %}Verified Credentials{% endif %}</h4>
+        <h3 class="footer-col-title">{% if page.lang == 'es' %}Credenciales Verificadas{% else %}Verified Credentials{% endif %}</h3>
         <ul class="footer-links">
           <li>
             <a href="https://www.mywguwallet.org/user/e2d2eb3b-cd69-446b-a9c0-8ea0e3bc1cbd" target="_blank" rel="noopener noreferrer">
               <span>WGU Verified Wallet</span>
-              <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+              <span class="sr-only">{% if page.lang == 'es' %} (se abre en una nueva pestaña){% else %} (opens in a new tab){% endif %}</span>
+              <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
             </a>
           </li>
           <li>
             <a href="https://www.linkedin.com/in/chrisevega" target="_blank" rel="noopener noreferrer">
               <span>LinkedIn Profile</span>
-              <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+              <span class="sr-only">{% if page.lang == 'es' %} (se abre en una nueva pestaña){% else %} (opens in a new tab){% endif %}</span>
+              <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
             </a>
           </li>
         </ul>

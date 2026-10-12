@@ -25,22 +25,73 @@ body {
   overflow-x: hidden;
 }
 
-/* Skip link for accessibility */
+/* Screen-reader only utility (WCAG 4.1.2) */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Keyboard Focus Indicators (WCAG 2.4.7 & 2.4.13 Focus Appearance) */
+:focus-visible {
+  outline: 2px solid var(--cyan);
+  outline-offset: 3px;
+  border-radius: 0.25rem;
+}
+
+.glass-nav :focus-visible,
+.cta-banner :focus-visible,
+.site-footer :focus-visible,
+.bento-primary-card :focus-visible,
+.back-to-top:focus-visible {
+  outline-color: var(--cyan-on-dark);
+}
+
+/* Ensure sticky header never obscures focused or targeted sections (WCAG 2.4.11) */
+section[id],
+main[id] {
+  scroll-margin-top: 6rem;
+}
+
+/* Skip link for accessibility (WCAG 2.4.1 Bypass Blocks) */
 .skip-link {
   position: absolute;
-  top: -60px;
+  top: -80px;
   left: 1rem;
   background: var(--navy);
-  color: var(--gold);
+  color: var(--cyan-on-dark);
+  border: 2px solid var(--cyan-on-dark);
   padding: 0.75rem 1.25rem;
-  z-index: 1000;
+  z-index: 2000;
   border-radius: 0.5rem;
   font-weight: 700;
   text-decoration: none;
   transition: top 0.2s ease;
 
-  &:focus {
+  &:focus,
+  &:focus-visible {
     top: 1rem;
+    outline: 3px solid #FFFFFF;
+    outline-offset: 2px;
+  }
+}
+
+/* Respect Reduced Motion Preferences (WCAG 2.3.3) */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
   }
 }
 

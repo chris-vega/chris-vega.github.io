@@ -25,12 +25,12 @@ lang: es
       <!-- Columna de Contenido: Biografía y Trayectoria Ejecutiva -->
       <div class="hero-content-col">
         <div class="status-pill">
-          <span class="status-dot"></span>
+          <span class="status-dot" aria-hidden="true"></span>
           <span>Pittsburgh, PA · Disponible para Roles de Liderazgo y Especialización Senior</span>
         </div>
 
         <div class="sys-tag">
-          <span class="sys-dot"></span>
+          <span class="sys-dot" aria-hidden="true"></span>
           <span class="sys-code">// 00. PERFIL</span>
           <span class="sys-label">DOSSIER PROFESIONAL EJECUTIVO</span>
         </div>
@@ -53,52 +53,52 @@ lang: es
         <!-- Chips de Credenciales y Especializaciones -->
         <div class="chips-container">
           <a href="https://www.isaca.org/credentialing/crisc" target="_blank" rel="noopener noreferrer" class="chip">
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10"/><path d="m9 12 2 2 4-4"/></svg>
+            <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10"/><path d="m9 12 2 2 4-4"/></svg>
             <span>Candidato ISACA CRISC</span>
           </a>
 
           <a href="https://www.credly.com/badges/522af907-eef4-43cd-8431-bb02636bd52d" target="_blank" rel="noopener noreferrer" class="chip">
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="4 17 10 11 4 5"/><line x1="12" x2="20" y1="19" y2="19"/></svg>
+            <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="4 17 10 11 4 5"/><line x1="12" x2="20" y1="19" y2="19"/></svg>
             <span>CompTIA Linux+</span>
           </a>
 
           <a href="https://www.mywguwallet.org/user/e2d2eb3b-cd69-446b-a9c0-8ea0e3bc1cbd" target="_blank" rel="noopener noreferrer" class="chip">
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"/><path d="M22 10v6"/><path d="M6 12.5V16a6 3 0 0 0 12 0v-3.5"/></svg>
+            <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"/><path d="M22 10v6"/><path d="M6 12.5V16a6 3 0 0 0 12 0v-3.5"/></svg>
             <span>MBA en Gestión de TI (WGU)</span>
           </a>
 
           <a href="https://www.mywguwallet.org/user/e2d2eb3b-cd69-446b-a9c0-8ea0e3bc1cbd" target="_blank" rel="noopener noreferrer" class="chip">
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"/><path d="M22 10v6"/><path d="M6 12.5V16a6 3 0 0 0 12 0v-3.5"/></svg>
+            <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"/><path d="M22 10v6"/><path d="M6 12.5V16a6 3 0 0 0 12 0v-3.5"/></svg>
             <span>M.S. en Gestión de TI (WGU)</span>
           </a>
 
           <a href="https://www.credly.com/earner/earned/badge/7c19476b-a729-4cd3-9e9c-9f73289ee52d" target="_blank" rel="noopener noreferrer" class="chip">
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
+            <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
             <span>MTA: Des. de Software C#</span>
           </a>
 
           <span class="chip">
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10"/><path d="m9 12 2 2 4-4"/></svg>
+            <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10"/><path d="m9 12 2 2 4-4"/></svg>
             <span>Due Diligence de Ciberseguridad</span>
           </span>
 
           <span class="chip">
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83z"/><path d="M2 12a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 12"/><path d="M2 17a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 17"/></svg>
+            <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83z"/><path d="M2 12a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 12"/><path d="M2 17a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 17"/></svg>
             <span>Arquitectura Cloud (AWS)</span>
           </span>
 
           <span class="chip">
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" x2="22" y1="12" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+            <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" x2="22" y1="12" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
             <span>Bilingüe (Inglés / Español)</span>
           </span>
 
           <span class="chip">
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v2a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3z"/><path d="m19 8-4 4"/><path d="m5 8 4 4"/><circle cx="12" cy="14" r="3"/><path d="M10 17 8 22"/><path d="M14 17 16 22"/></svg>
+            <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v2a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3z"/><path d="m19 8-4 4"/><path d="m5 8 4 4"/><circle cx="12" cy="14" r="3"/><path d="M10 17 8 22"/><path d="M14 17 16 22"/></svg>
             <span>Pilotaje de Drones (Candidato FCC)</span>
           </span>
 
           <span class="chip">
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3l-2.5-3z"/><circle cx="12" cy="13" r="3"/></svg>
+            <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3l-2.5-3z"/><circle cx="12" cy="13" r="3"/></svg>
             <span>Fotografía y Videografía</span>
           </span>
         </div>
@@ -114,15 +114,15 @@ lang: es
           <p class="eq-title">Análisis Forense de Sistemas</p>
           <p class="eq-desc">Debida diligencia de riesgos, arquitectura BCP/DR y entornos Linux</p>
         </div>
-        <span class="equation-op">+</span>
+        <span class="equation-op" aria-hidden="true">+</span>
         <div class="equation-item">
           <span class="eq-tag">Visión Humana</span>
           <p class="eq-title">Enfoque de Tecnólogo Creativo</p>
           <p class="eq-desc">Claridad interdisciplinaria, empatía y facilitación de crisis ejecutivas</p>
         </div>
-        <span class="equation-op">=</span>
+        <span class="equation-op" aria-hidden="true">=</span>
         <div class="equation-item is-result">
-          <span class="eq-tag" style="color: var(--cyan);">Resultado Empresarial</span>
+          <span class="eq-tag">Resultado Empresarial</span>
           <p class="eq-title">Resiliencia Operativa Sin Concesiones</p>
           <p class="eq-desc">Alta disponibilidad · Gobernanza auditable · Continuidad BCP/DR robusta</p>
         </div>
@@ -139,7 +139,7 @@ lang: es
   <div class="content-max">
     <div class="text-center" style="margin-bottom: 3.5rem;">
       <div class="sys-tag">
-        <span class="sys-dot"></span>
+        <span class="sys-dot" aria-hidden="true"></span>
         <span class="sys-code">// 01. TRAYECTORIA</span>
         <span class="sys-label">EJECUCIÓN DE SISTEMAS Y MÉTRICAS</span>
       </div>
@@ -189,7 +189,7 @@ lang: es
 <section id="credentials" class="section-padding bg-surface">
   <div class="content-prose text-center">
     <div class="sys-tag">
-      <span class="sys-dot"></span>
+      <span class="sys-dot" aria-hidden="true"></span>
       <span class="sys-code">// 02. GOBERNANZA</span>
       <span class="sys-label">RIGOR ACADÉMICO Y CREDENCIALES</span>
     </div>
@@ -216,7 +216,7 @@ lang: es
   <div class="content-max">
     <div class="text-center" style="margin-bottom: 3rem;">
       <div class="sys-tag">
-        <span class="sys-dot"></span>
+        <span class="sys-dot" aria-hidden="true"></span>
         <span class="sys-code">// 03. DISCIPLINAS</span>
         <span class="sys-label">LA VENTAJA DEL TECNÓLOGO CREATIVO</span>
       </div>
@@ -240,7 +240,7 @@ lang: es
       <!-- 1. Pilotaje de Drones -->
       <div class="creative-card">
         <div class="creative-icon-box">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v2a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3z"/><path d="m19 8-4 4"/><path d="m5 8 4 4"/><circle cx="12" cy="14" r="3"/><path d="M10 17 8 22"/><path d="M14 17 16 22"/></svg>
+          <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v2a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3z"/><path d="m19 8-4 4"/><path d="m5 8 4 4"/><circle cx="12" cy="14" r="3"/><path d="M10 17 8 22"/><path d="M14 17 16 22"/></svg>
         </div>
         <span class="creative-mono-tag">TELEMETRÍA_VUELO // DISCIPLINA_ESPACIAL</span>
         <span class="creative-badge">Operaciones Aéreas · En Proceso</span>
@@ -253,7 +253,7 @@ lang: es
       <!-- 2. Fotografía -->
       <div class="creative-card">
         <div class="creative-icon-box">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3l-2.5-3z"/><circle cx="12" cy="13" r="3"/></svg>
+          <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3l-2.5-3z"/><circle cx="12" cy="13" r="3"/></svg>
         </div>
         <span class="creative-mono-tag">OFICIO_ÓPTICO // CLARIDAD_COMPOSITIVA</span>
         <span class="creative-badge">Oficio Visual · Varios Años</span>
@@ -266,7 +266,7 @@ lang: es
       <!-- 3. Videografía -->
       <div class="creative-card">
         <div class="creative-icon-box">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="23 7 16 12 23 17 23 7"/><rect width="15" height="14" x="1" y="5" rx="2" ry="2"/></svg>
+          <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="23 7 16 12 23 17 23 7"/><rect width="15" height="14" x="1" y="5" rx="2" ry="2"/></svg>
         </div>
         <span class="creative-mono-tag">MEDIOS_DINÁMICOS // RITMO_Y_SONIDO</span>
         <span class="creative-badge">Producción y Movimiento</span>
@@ -279,7 +279,7 @@ lang: es
       <!-- 4. Actuación -->
       <div class="creative-card">
         <div class="creative-icon-box">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" x2="12" y1="19" y2="22"/></svg>
+          <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" x2="12" y1="19" y2="22"/></svg>
         </div>
         <span class="creative-mono-tag">ARTES_ESCÉNICAS // TEMPLE_EN_CRISIS</span>
         <span class="creative-badge">Escenario y Pantalla · Presencia</span>
@@ -299,7 +299,7 @@ lang: es
   <div class="content-max">
     <div class="text-center" style="margin-bottom: 3.5rem;">
       <div class="sys-tag">
-        <span class="sys-dot"></span>
+        <span class="sys-dot" aria-hidden="true"></span>
         <span class="sys-code">// 04. CAPACIDADES</span>
         <span class="sys-label">COMPETENCIAS CLAVE Y ESPECIALIDADES</span>
       </div>
@@ -374,7 +374,7 @@ lang: es
 <section id="location" class="section-padding bg-surface-low">
   <div class="content-prose text-center">
     <div class="sys-tag">
-      <span class="sys-dot"></span>
+      <span class="sys-dot" aria-hidden="true"></span>
       <span class="sys-code">// 05. DISPONIBILIDAD</span>
       <span class="sys-label">UBICACIÓN Y MODALIDAD DE TRABAJO</span>
     </div>
@@ -392,7 +392,7 @@ lang: es
   <div class="content-max">
     <div class="cta-banner">
       <div class="sys-tag" style="margin-bottom: 1.25rem;">
-        <span class="sys-dot"></span>
+        <span class="sys-dot" aria-hidden="true"></span>
         <span class="sys-code">// 06. CONTACTO</span>
         <span class="sys-label">CANALES DIRECTOS Y CONVERSACIÓN</span>
       </div>
@@ -403,10 +403,10 @@ lang: es
       <div class="cta-button-group">
         <a href="mailto:{{ site.author.email }}" class="button-gold lg">
           <span>Contactar</span>
-          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+          <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
         </a>
         <a href="https://www.linkedin.com/in/chrisevega" target="_blank" rel="noopener noreferrer" class="button-ghost lg">
-          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect width="4" height="12" x="2" y="9"/><circle cx="4" cy="4" r="2"/></svg>
+          <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect width="4" height="12" x="2" y="9"/><circle cx="4" cy="4" r="2"/></svg>
           <span>Conectar en LinkedIn</span>
         </a>
       </div>
