@@ -14,11 +14,11 @@ lang: es
       <!-- Columna Visual: Retrato con Tarjeta de Credencial Flotante -->
       <div class="hero-visual-col">
         <div class="portrait-wrapper">
-          <img src="/assets/jpg/photo.jpg" alt="Chris Vega, Líder de Continuidad del Negocio y Tecnólogo Creativo" loading="eager" width="600" height="750">
+          <img src="/assets/jpg/photo.jpg" alt="Chris Vega, Líder de Resiliencia de Sistemas Empresariales y Tecnólogo Creativo" loading="eager" width="600" height="750">
         </div>
         <div class="floating-badge">
-          <p class="badge-title">Líder de Continuidad del Negocio</p>
-          <p class="badge-sub">Riesgo Cibernético · BCP/DR · Resiliencia de Sistemas</p>
+          <p class="badge-title">Líder en Resiliencia de Sistemas</p>
+          <p class="badge-sub">Riesgo Cibernético · BCP/DR · Alta Disponibilidad</p>
         </div>
       </div>
 
@@ -36,14 +36,14 @@ lang: es
         </div>
 
         <h1>Chris Vega</h1>
-        <p class="hero-subtitle">Líder de Continuidad del Negocio en TI · Resiliencia Cibernética · Tecnólogo Creativo</p>
+        <p class="hero-subtitle">Líder de Resiliencia de Sistemas Empresariales · Gobernanza de Riesgo · Tecnólogo Creativo</p>
 
         <div class="hero-narrative">
           <p>
             A lo largo de más de quince años en servicios financieros, aeroespacial, cadena de suministro y telecomunicaciones, me he especializado en proteger sistemas empresariales de misión crítica frente a interrupciones operativas, riesgos cibernéticos de terceros y vulnerabilidades regulatorias.
           </p>
           <p>
-            Actualmente lidero iniciativas de remediación de riesgos tecnológicos y continuidad del negocio para una importante institución financiera, realizando debida diligencia de ciberseguridad a proveedores, evaluando arquitecturas de recuperación ante desastres (BCP/DR) y diseñando caminos técnicos resilientes que garantizan la continuidad operativa día a día.
+            Actualmente lidero iniciativas de remediación de riesgos tecnológicos y resiliencia de sistemas empresariales para una importante institución financiera, realizando debida diligencia de ciberseguridad a proveedores, evaluando arquitecturas de recuperación ante desastres (BCP/DR) y diseñando caminos técnicos resilientes que garantizan la continuidad operativa día a día.
           </p>
           <p>
             Operando como un tecnólogo creativo, integro el rigor analítico con una comunicación empática y humana. Construyo puentes entre ingenieros de software, auditores de seguridad, gestores de proveedores y el liderazgo ejecutivo, transformando densos mandatos regulatorios en soluciones tecnológicas sólidas y mantenibles que superan las auditorías más exigentes.

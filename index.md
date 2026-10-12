@@ -13,11 +13,11 @@ title: Home
       <!-- Visual Column: Portrait with Floating Credential Badge -->
       <div class="hero-visual-col">
         <div class="portrait-wrapper">
-          <img src="/assets/jpg/photo.jpg" alt="Chris Vega, Technology Business Continuity Lead & Creative Technologist" loading="eager" width="600" height="750">
+          <img src="/assets/jpg/photo.jpg" alt="Chris Vega, Enterprise Systems Resilience Lead & Creative Technologist" loading="eager" width="600" height="750">
         </div>
         <div class="floating-badge">
-          <p class="badge-title">Business Continuity Lead</p>
-          <p class="badge-sub">Enterprise Cyber Risk · BCP/DR · Systems Resilience</p>
+          <p class="badge-title">Systems Resilience Lead</p>
+          <p class="badge-sub">Enterprise Cyber Risk · BCP/DR · High Availability</p>
         </div>
       </div>
 
@@ -35,14 +35,14 @@ title: Home
         </div>
 
         <h1>Chris Vega</h1>
-        <p class="hero-subtitle">Technology Business Continuity Lead · Enterprise Cyber Resilience · Creative Technologist</p>
+        <p class="hero-subtitle">Enterprise Systems Resilience Lead · Cyber Risk Governance · Creative Technologist</p>
 
         <div class="hero-narrative">
           <p>
             Over fifteen years across financial services, aerospace, food supply chain, and telecommunications, I’ve specialized in safeguarding mission-critical enterprise systems against operational disruption, third-party cyber risks, and regulatory compliance failure.
           </p>
           <p>
-            Currently spearheading technology risk remediation and business continuity for a major financial institution, I conduct forensic vendor due diligence, evaluate disaster recovery postures, and architect resilient technical pathways that ensure day-one operational continuity across enterprise lines.
+            Currently spearheading technology risk remediation and enterprise systems resilience for a major financial institution, I conduct forensic vendor due diligence, evaluate disaster recovery postures, and architect resilient technical pathways that ensure day-one operational continuity across enterprise lines.
           </p>
           <p>
             Operating with the mindset of a creative technologist, I pair analytical precision with human-centered communication. Bridging the gap between software engineers, cybersecurity auditors, vendor management, and executive leadership, I build consensus and transform dense regulatory mandates into robust, human-maintainable technology solutions that thrive under high-stakes scrutiny.
